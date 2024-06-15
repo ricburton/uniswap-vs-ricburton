@@ -1,0 +1,2197 @@
+Served on 03/24/2021
+
+----
+
+docs-100372044.1
+SUPREME COURT OF THE STATE OF NEW YORK
+COUNTY OF KINGS
+Index No.
+Date purchased
+RICHARD BURTON,
+Plaintiff,
+v.
+HAYDEN ADAMS,
+Defendant.
+Plaintiff designates Kings
+County as the place of trial.
+The basis of the venue is Plaintiff’s
+residence pursuant to CPLR § 503
+Summons
+To the above named Defendant:
+You are hereby summoned to answer the complaint in this action and to serve a copy of
+your answer, or, if the complaint is not served with this summons, to serve a notice of appearance, on
+the Plaintiff’s Attorney(s) within 20 days after the service of this summons, exclusive of the day of
+service (or within 30 days after the service is complete if this summons is not personally delivered to
+you within the State of New York); and in case of your failure to appear or answer, judgment will be
+taken against you by default for the relief demanded in the complaint.
+Dated: March 24, 2021 Attorneys for Plaintiff:
+Defendant’s address:
+Hayden Adams
+101 Bedford Avenue, Apt. A502
+Brooklyn, NY 11211
+/s/ John M. Leonard________
+Stephen D. Palley, Esq.
+Anderson Kill L.L.P.
+1717 Pennsylvania Avenue, Suite 200
+Washington, DC 20006
+Telephone: 202-416-6500
+spalley@andersonkill.com
+John M. Leonard, Esq.
+Preston J. Byrne, Esq.
+Anderson Kill, P.C.
+1251 Avenue of the Americas, 42nd Fl.
+New York, NY 10020
+Telephone: 212-278-1000
+jleonard@andersonkill.com
+pbyrne@andersonkill.com
+Attorneys for Plaintiff
+Richard Burton
+FILED: KINGS COUNTY CLERK 03/24/2021 11:11 AM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 1 RECEIVED NYSCEF: 03/24/2021
+1 of 1
+
+
+---
+
+Filed on 03/24/2021
+
+
+docs-100372045.1
+SUPREME COURT OF THE STATE OF NEW YORK
+COUNTY OF KINGS
+___________________________________________
+RICHARD BURTON,
+Plaintiff, COMPLAINT
+Index No: ___________
+- vs -
+HAYDEN ADAMS
+Defendant.
+___________________________________________
+Plaintiff Richard Burton (“Mr. Burton”), for his Complaint against Defendant Hayden
+Adams (“Mr. Adams”), alleges as follows:
+PRELIMINARY STATEMENT
+1. This lawsuit seeks damages for breach of contract, and, in the alternative,
+restitution for unjust enrichment and quantum meruit, all in connection with the
+development of Uniswap, a multi-billion-dollar, New York-based software and
+cryptocurrency enterprise used to trade cryptocurrency and digital assets.
+2. Plaintiff Richard Burton provided critical financial and other support to
+Defendant Hayden Adams, a Uniswap founder and its current CEO, for the early
+development of Uniswap.
+3. When Mr. Burton helped Mr. Adams, Mr. Adams had no capital, no office,
+and no business. Uniswap was little more than an idea. Uniswap was not fully functional
+software. Mr. Burton provided critical early assistance to Mr. Adams for business reasons
+FILED: KINGS COUNTY CLERK 03/24/2021 11:11 AM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 2 RECEIVED NYSCEF: 03/24/2021
+1 of 10
+docs-100372045.1
+2
+and with the hope, expectation and understanding, based on communications with Mr.
+Adams, that Mr. Burton would have the opportunity to benefit financially from the support
+and assistance Mr. Burton provided to Mr. Adams.
+4. Among other things, it was understood and agreed between Mr. Adams and
+the Plaintiff that the Plaintiff would be given the opportunity to invest in Uniswap at such
+time as Uniswap took a concrete form into which investment could be made. Mr. Adams
+made it clear that Mr. Burton would benefit from the investment’s potential appreciation
+in value and any subsequent issue of cryptocurrency tokens by Uniswap.
+5. Once Uniswap began to attract the attention of institutional investors,
+however, Adams refused to allow Plaintiff to invest. In so doing Mr. Adams deprived the
+Plaintiff of what would have been an investment return currently worth well in excess of
+one hundred million dollars. Mr. Adams instead reserved that opportunity for himself.
+6. But for the agreement by Mr. Adams to give Plaintiff the opportunity to
+invest in Uniswap, Plaintiff would not have provided the significant support that he offered
+to, and that was accepted by, Mr. Adams, including money, office space, and design
+advice.
+7. In short, Mr. Adams was enriched by hundreds of millions of dollars, at least
+in part, at Plaintiff’s expense. It would be against equity and good conscience to permit
+Adams to retain all of the profits of his ownership in Uniswap without payment to Plaintiff
+of a fair and equitable portion of them.
+FILED: KINGS COUNTY CLERK 03/24/2021 11:11 AM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 2 RECEIVED NYSCEF: 03/24/2021
+2 of 10
+docs-100372045.1
+3
+THE PARTIES
+8. Plaintiff Richard Burton is a natural person who is a software developer,
+designer and entrepreneur who currently resides in San Francisco, California. At all times
+relevant to this dispute he was a resident of New York County, in New York State.
+9. Defendant Hayden Adams is also a natural person who, on information and
+belief, is a citizen and resident of Kings County, in New York State. Mr. Adams can be
+served with the Summons and Complaint at 101 Bedford Avenue, Apt. A502, Brooklyn,
+New York 11211.
+JURISDICTION AND VENUE
+10. Venue is proper in this Court pursuant to CPLR § 503 because Mr. Adams
+is, on information and belief, a resident of Kings County, New York at the time this lawsuit
+is commenced and because a substantial part of the events giving rise to the claim
+occurred in Kings County, New York.
+11. This Court has personal jurisdiction over Mr. Adams pursuant to CPLR §
+301 because he is a resident of Kings County, New York and, furthermore, because the
+Complaint arises out of the transaction of business in New York state.
+FACTUAL BACKGROUND
+12. Uniswap bills itself as “the largest decentralized trading and automated
+market making protocol (often called a DEX, Decentralized Exchange) on Ethereum.
+Since launching in 2018, Uniswap Protocol has processed over $110 billion in volume
+and increasing to the tune of more than $1 billion daily.”1
+1 See, https://jobs.lever.co/Uniswap/94ad13da-7ed8-4435-9f35-98cd8d35da80 (last visited
+March 23, 2021)
+FILED: KINGS COUNTY CLERK 03/24/2021 11:11 AM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 2 RECEIVED NYSCEF: 03/24/2021
+3 of 10
+docs-100372045.1
+4
+13. Hayden Adams is a founder and The Chief Executive Officer of the business
+behind Uniswap, which is the trading name of Universal Navigation, Inc.
+14. Uniswap’s success has been meteoric. This success was by no means a
+forgone conclusion and relied upon, and would not have happened but for, the help,
+assistance and investments of others, including Mr. Burton.
+15. Mr. Burton first met Mr. Adams in the spring of 2018 in New York City.
+16. Mr. Burton is the founder of Balance, an Ethereum blockchain wallet startup.
+17. At the time that Mr. Burton and Mr. Adams first met, the Uniswap protocol
+had yet to be finalized or deployed, nor had any corporate entity pertaining to the Uniswap
+protocol been formed by Mr. Adams. At the time, Uniswap was a rough idea, in need of
+development, financing, and office space. Mr. Adams accepted Mr. Burton’s offer to
+provide assistance. As consideration for this assistance, Mr. Adams agreed that Mr.
+Burton would have the ability to be an early investor in Uniswap.
+18. For the next several months, throughout the summer of 2018, Mr. Adams
+worked on Uniswap daily in Balance’s offices.
+19. Knowing Mr. Adams was running low on funds, and consistent with the oral
+contract described above in paragraph 17 of this Complaint, Mr. Burton gave Mr. Adams
+money to help support his efforts and allow him to continue with development [on more
+than one occasion].
+20. During these months, Mr. Burton spent countless hours in front of a
+whiteboard with Mr. Adams helping to think through the project and pitch the project to
+prospective investors. When Mr. Adams ran out of grant money and wanted to present
+Uniswap to potential investors at Paradigm, Mr. Burton supported him.
+FILED: KINGS COUNTY CLERK 03/24/2021 11:11 AM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 2 RECEIVED NYSCEF: 03/24/2021
+4 of 10
+docs-100372045.1
+5
+21. Mr. Burton was the first person to promote, share and Tweet about Uniswap
+to help promote it. He did whatever was possible to help Hayden connect with the right
+people to work and partner with.
+22. Mr. Burton paid Mr. Adams $10,000 to do software development work for
+Balance. Mr. Adams never performed this work. Mr. Burton wrote off the expense and
+told Mr. Adams to use the funds for expenses – and to focus on shipping Uniswap. This
+money was an investment in Mr. Adams and in the Uniswap protocol, however the
+payment may have been characterized at that time.
+23. Mr. Burton also provided Mr. Adams with money for travel expenses, as well
+as technical and design advice, consistent with the contract previously reached and
+described above in paragraph 17 of this Complaint.
+24. As Uniswap’s development progressed over the summer of 2018, Mr.
+Adams was running out of money. Mr. Burton sent him $15,000 to help him cover rent and
+costs.
+25. At numerous points during the summer of 2018, Mr. Adams continued to
+assure Mr. Burton that in exchange for his support, he would be given a role in any to-be-
+formed company, as well as an opportunity to be an early investor if and when a lead
+investor for the Uniswap project was identified.
+26. Mr. Burton specifically inquired on numerous occasion as to when there
+would be an opportunity to invest in exchange for his support. Mr. Adams assured Mr.
+Burton that this opportunity would be afforded to him. These assurances were provided to
+Mr. Burton in writing, in person and on voice-calls. Mr. Adams sent Mr. Burton a term
+FILED: KINGS COUNTY CLERK 03/24/2021 11:11 AM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 2 RECEIVED NYSCEF: 03/24/2021
+5 of 10
+docs-100372045.1
+6
+sheet and Mr. Burton confirmed the desire and intention to invest when Mr. Adams had
+found a lead investor to set the terms and price the deal.
+27. As part of the process of helping locate a lead investor, Mr. Burton sent Mr.
+Adams additional cash so he could fly to San Francisco and pitch Uniswap to Paradigm,
+a well-known blockchain focused venture capital firm.
+28. At the time that Mr. Burton provided Mr. Adams financial and personal
+assistance, the Uniswap protocol and project were still in proof of concept form, had not
+been formally deployed, had no trading volume and, as a practical matter, no then-present
+financial value.
+29. Mr. Burton did not provide this help to Mr. Adams on a purely ex gratia basis,
+but with the understanding and expectation that he would be given an opportunity to
+benefit economically from any future success that Uniswap enjoyed, including the ability
+to be an early investor in the protocol.
+30. Specifically, Mr. Adams initially agreed to allow Mr. Burton to invest in
+Uniswap at a $10 million valuation for $100,000. When Mr. Burton attempted to accept
+that offer to invest, he was told that he could not.
+31. In spite the substantial assistance Mr. Burton provided Mr. Adams, he was
+denied the ability and opportunity to invest in and to be part of the company as he and
+Mr. Adams had agreed from the outset.
+32. Venture capital firm Paradigm was the only investor allowed to initially
+invest. Paradigm invested by providing Mr. Adams and the eventually-formed Uniswap
+entity with $1 million in seed funding at a $10 million valuation. It participated on a pro-
+FILED: KINGS COUNTY CLERK 03/24/2021 11:11 AM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 2 RECEIVED NYSCEF: 03/24/2021
+6 of 10
+docs-100372045.1
+7
+rata basis and, on information and belief, has seen an uplift on the value of its investment
+such that if it sold its interest today it may be able to do so for over $1 billion.
+33. Mr. Adams’s failure and refusal to allow Mr. Burton to invest $100,000 at a
+$10 million valuation thus translates into damages of, at minimum, $100 million. This
+amount inured to the benefit of Mr. Adams, at Mr. Burton’s expense.
+34. But for Mr. Burton’s belief that he would be allowed to invest in and benefit
+from his support of Mr. Adams and the Uniswap project, Mr. Burton would not have
+provided the measure of assistance that was offered and accepted by Mr. Adams.
+35. The relationship between Mr. Burton and Mr. Adams was one that caused
+reliance by Mr. Burton on Mr. Adams’ conduct and statements and induced Mr. Burton to
+provide continued support.
+COUNT I: BREACH OF CONTRACT
+36. Plaintiff incorporates paragraph 1 through 35 of this Complaint as if set forth
+here in their entirety.
+37. The agreement between Plaintiff and Defendant described above was a
+binding an enforceable contract.
+38. Plaintiff offered to assist Defendant with the further development, launch
+and capitalization of Uniswap.
+39. Defendant accepted Plaintiff’s offer to assist.
+40. As valuable consideration for the contract described herein, Defendant
+agreed to give Plaintiff the opportunity to be an early investor in Uniswap.
+41. Plaintiff fully performed his contractual obligations.
+FILED: KINGS COUNTY CLERK 03/24/2021 11:11 AM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 2 RECEIVED NYSCEF: 03/24/2021
+7 of 10
+docs-100372045.1
+8
+42. Defendant breached the contract by failing and refusing to grant Plaintiff the
+ability to invest when he attempted to do so.
+43. Plaintiff has been damaged by Plaintiff’s breach in an amount of money
+equivalent to the lost investment opportunity described above in paragraph 33.
+COUNT II: QUASI-CONTRACT/UNJUST ENRICHMENT
+44. Plaintiff incorporates paragraph 1 through 43 of this Complaint as if set forth
+here in their entirety and pleads this count two seeking an equitable remedy in the
+alternative to the legal relief and money damages that Count I seeks.
+45. Defendant was enriched by Mr. Burton’s technical, financial and other
+assistance, all of which played a critical role in the development and launch of Uniswap.
+46. Defendant was enriched at Mr. Burton’s expense.
+47. But for the assistance and benefits provided by Mr. Burton to Mr. Adams,
+Uniswap might never have had the opportunity to be the massive financial success it is
+today, a benefit and enrichment that Mr. Adams has enjoyed, at Mr. Burton’s expense.
+48. It would be against equity and good conscience to allow Mr. Adams to retain
+the full benefit of Mr. Burton’s assistance by retaining the amount Mr. Burton seeks to
+recover in this lawsuit.
+COUNT III: QUASI CONTRACT/QUANTUM MERUIT
+49. Plaintiff incorporates paragraph 1 through 48 of this Complaint as if set forth
+here in their entirety, pleading this Count III in the alternative to Counts I and II, and pleads
+this count three seeking an equitable remedy in the alternative to the legal relief and
+money damages that Count I seeks.
+FILED: KINGS COUNTY CLERK 03/24/2021 11:11 AM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 2 RECEIVED NYSCEF: 03/24/2021
+8 of 10
+docs-100372045.1
+9
+50. Mr. Burton performed the services described in this Complaint for Mr.
+Adams in good faith.
+51. Mr. Adams accepted the services that Mr. Burton provided.
+52. Mr. Burton reasonably expected to be compensated for his services in the
+form of an opportunity to be an early investor in Uniswap.
+53. The reasonable value of Mr. Burton’s compensation can be readily
+calculated and is equal to, at a minimum, $100 million, the value of the investment which
+Mr. Burton was not allowed to make, and the benefit of which Mr. Adams retained for
+himself at Mr. Burton’s expense.
+WHEREFORE, and for the foregoing reasons, Plaintiff seeks the following relief:
+A. On Count I, money damages in an amount no less than $100 million;
+B. On Count II, restitution from Mr. Adams in the value of the investment
+opportunity that Plaintiff was denied and that Mr. Adams retained, in an amount no less
+than $100 million;
+C. On Count III, restitution from Mr. Adams in the current value of the
+investment opportunity that Plaintiff was denied and that Mr. Adams retained, in an
+amount no less than $100 million;
+D. On all Counts, pre-judgment and post-judgment interest in the highest
+amount allowed by law;
+E. On all Counts, costs of suit, including attorneys fees;
+F. Any such other and further relief that this Court deems fair and equitable.
+JURY DEMAND
+Plaintiff demands a trial by jury on all issues so triable.
+FILED: KINGS COUNTY CLERK 03/24/2021 11:11 AM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 2 RECEIVED NYSCEF: 03/24/2021
+9 of 10
+docs-100372045.1
+10
+Dated: March 24, 2021
+By: /s/ John M. Leonard
+Stephen D. Palley, Esq.
+Anderson Kill L.L.P.
+1717 Pennsylvania Avenue, Suite 200
+Washington, DC 20006
+Telephone: 202-416-6500
+spalley@andersonkill.com
+John M. Leonard, Esq.
+Preston J. Byrne, Esq.
+Anderson Kill, P.C.
+1251 Avenue of the Americas, 42nd Fl.
+New York, NY 10020
+Telephone: 212-278-1000
+jleonard@andersonkill.com
+pbyrne@andersonkill.com
+Attorneys for Plaintiff
+Richard Burton
+FILED: KINGS COUNTY CLERK 03/24/2021 11:11 AM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 2 RECEIVED NYSCEF: 03/24/2021
+10 of 10
+
+
+-----
+
+Response from Hayden and Brian Klein
+
+⁄×‘¤‹Ê ’×“ŸÕ ›—À“Ã« ›‘¤Œ’ ðÍÒðÌÒÓðÓÔ ðÍÊÎÓ –”
+“«Õ›¤⁄ ‹—›Ú “—Ú Ôð
+Brian E. Klein
+Scott M. Malzahn (pro hac vice application forthcoming) Jose R. Nuño (pro hac vice application forthcoming) Chloe N. George
+WAYMAKER LLP
+777 S. Figueroa St., Suite 2850
+Los Angeles, California 90017
+Telephone: (424) 652-7800
+Facsimile: (424) 652-7850
+bklein@waymakerlaw.com smalzahn@waymakerlaw.com jnuno@waymakerlaw.com cgeorge@waymakerlaw.com
+John G. Balestriere
+Mandeep S. Minhas
+BALESTRIERE FARIELLO
+225 Broadway, 29th Floor
+New York, New York 10007
+Telephone: (212) 374-5401
+Facsimile: (212) 208-2613 john.balestriere@balestrierefariello.com mandeep.minhas@balestrierefariello.com Attorneys for Defendant Hayden Adams
+SUPREME COURT OF THE STATE OF NEW YORK COUNTY OF KINGS
+      ×“‹¤» “—Ú ÎðÍÁÍÈÒÓðÓÔ
+Œ¤›¤× ¤‹ “«Õ›¤⁄Ê ðÍÒðÌÒÓðÓÔ
+   RICHARD BURTON,
+– against – HAYDEN ADAMS,
+Plaintiff,
+Defendant.
+Index No. 506967/2021
+DEFENDANT’S NOTICE OF MOTION TO DISMISS
+ Ô ±o Ì
+
+×“‹¤» “—Ú ÎðÍÁÍÈÒÓðÓÔ “«Õ›¤⁄ ‹—›Ú “—Ú Ôð Œ¤›¤× ¤‹ “«Õ›¤⁄Ê ðÍÒðÌÒÓðÓÔ
+⁄×‘¤‹Ê ’×“ŸÕ ›—À“Ã« ›‘¤Œ’ ðÍÒðÌÒÓðÓÔ ðÍÊÎÓ –”
+ PLEASE TAKE NOTICE that, upon the accompanying Memorandum of Law in Support of Defendant’s Motion to Dismiss the Complaint, Defendant Hayden Adams (“Adams”) will move this Court at the E-File/Motion Support Office, located at Room 227 of the Kings Supreme Court, 360 Adams Street, Brooklyn, New York 11201, on July 15, 2021, at 10:00 a.m. for an order dismissing the complaint pursuant to CPLR 3211, and such other, further, and/or different relief the Court may deem just and proper.
+PLEASE TAKE FURTHER NOTICE that, pursuant to CPLR 2214(b), answering papers, if any, are required to be served upon the undersigned attorneys by July 8, 2021. PLEASE TAKE FURTHER NOTICE that, pursuant to CPLR 2214(b), Defendant’s
+reply papers must be served by July 13, 2021.
+ Dated: Los Angeles, California June 3, 2021
+By:
+Brian E. Klein
+Scott M. Malzahn (p.h.v. appl. forthcoming) Jose R. Nuño (p.h.v. appl. forthcoming) Chloe N. George
+WAYMAKER LLP
+777 S. Figueroa Street, Ste. 2850
+Los Angeles, California 90017
+Telephone: (424) 652-7800
+Facsimile: (424) 652-7850 bklein@waymakerlaw.com smalzahn@waymakerlaw.com jnuno@waymakerlaw.com cgeorge@waymakerlaw.com
+2
+ Ó ±o Ì
+
+⁄×‘¤‹Ê ’×“ŸÕ ›—À“Ã« ›‘¤Œ’ ðÍÒðÌÒÓðÓÔ ðÍÊÎÓ –”
+      ×“‹¤» “—Ú ÎðÍÁÍÈÒÓðÓÔ
+Œ¤›¤× ¤‹ “«Õ›¤⁄Ê ðÍÒðÌÒÓðÓÔ
+ “«Õ›¤⁄ ‹—›Ú “—Ú Ôð
+Dated: New York, New York June 3, 2021
+By:__________________________ John G. Balestriere
+Mandeep S. Minhas BALESTRIERE FARIELLO
+225 Broadway, 29th Floor
+New York, New York 10007
+Telephone: (212) 374-5401
+Facsimile: (212) 208-2613 john.balestriere@balestrierefariello.com mandeep.minhas@balestrierefariello.com Attorneys for Defendant Hayden Adams
+                                              3
+Ì ±o Ì
+
+
+-----
+
+Brian Klein and Hayden filed a motion to dimiss on 06/03/2021
+
+Brian E. Klein
+Scott M. Malzahn (pro hac vice application forthcoming)
+Jose R. Nuño (pro hac vice application forthcoming)
+Chloe N. George
+WAYMAKER LLP
+777 S. Figueroa St., Suite 2850
+Los Angeles, California 90017
+Telephone: (424) 652-7800
+Facsimile: (424) 652-7850
+bklein@waymakerlaw.com
+smalzahn@waymakerlaw.com
+jnuno@waymakerlaw.com
+cgeorge@waymakerlaw.com
+John G. Balestriere
+Mandeep S. Minhas
+BALESTRIERE FARIELLO
+225 Broadway, 29th Floor
+New York, New York 10007
+Telephone: (212) 374-5401
+Facsimile: (212) 208-2613
+john.balestriere@balestrierefariello.com
+mandeep.minhas@balestrierefariello.com
+Attorneys for Defendant Hayden Adams
+SUPREME COURT OF THE STATE OF NEW YORK
+COUNTY OF KINGS
+RICHARD BURTON,
+Plaintiff,
+– against –
+HAYDEN ADAMS,
+Defendant.
+Index No. 506967/2021
+MEMORANDUM OF LAW IN
+SUPPORT OF DEFENDANT’S
+MOTION TO DISMISS THE
+COMPLAINT PURSUANT TO
+CPLR 3211 BECAUSE THE
+COMPLAINT FAILS TO STATE A
+CAUSE OF ACTION
+FILED: KINGS COUNTY CLERK 06/03/2021 06:52 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 11 RECEIVED NYSCEF: 06/03/2021
+1 of 25
+i
+TABLE OF CONTENTS
+PRELIMINARY STATEMENT ................................................................................................... 1
+FACTUAL BACKGROUND ....................................................................................................... 3
+LEGAL STANDARD ................................................................................................................... 6
+ARGUMENT ................................................................................................................................. 6
+I. The First Cause of Action for Breach of Oral Contract Should Be Dismissed for
+Multiple Reasons ............................................................................................................... 6
+A. The Alleged Oral Contract Lacks Definite and Certain Terms ........................... 6
+B. At Best, Burton Has Alleged an Unenforceable Agreement to Agree ............... 9
+C. The Complaint Fails to Allege that Defendant Breached Any Agreement to
+Provide Plaintiff with an Early Investment Opportunity .................................. 11
+D. Any Purported Agreement Based on Plaintiff’s Assistance in Finding a
+Lead Investor Is Barred by the Statute of Frauds ................................................ 12
+II. The Second Cause of Action for Unjust Enrichment Is Duplicative of
+The Contract Claim ......................................................................................................... 14
+III. The Third Cause of Action for Quantum Meruit Should Be Dismissed ................. 16
+A. The Quantum Meruit Claim Is Duplicative of the Contract Claim .................. 16
+B. Burton Fails to Allege the Reasonable Value of Any Services that He
+Provided .................................................................................................................... 18
+IV. This Court Should Dismiss the Complaint with Prejudice ....................................... 19
+CONCLUSION ........................................................................................................................... 20
+FILED: KINGS COUNTY CLERK 06/03/2021 06:52 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 11 RECEIVED NYSCEF: 06/03/2021
+2 of 25
+ii
+TABLE OF AUTHORITIES
+Cases
+2004 McDonald Ave. Realty, LLC v. 2004 McDonald Ave. Corp.,
+50 A.D.3d 1021 (2d Dep’t 2008) .............................................................................................. 7
+Akerson Advertising & Marketing, Inc. v. St. John & Partners Advertising,
+89 F. Supp. 3d 341 (N.D.N.Y. 2015) ............................................................................... 15, 16
+Ashkenazi v. Kelly,
+157 A.D.2d 578 (1st Dep’t 1990) ........................................................................................... 10
+Balco Dev. Corp. v Peters,
+276 A.D.2d 729 (2d Dep’t 2000) .............................................................................................. 6
+Benhan v. eCommission Solutions, LLC,
+118 A.D. 3d 605 (1st Dep’t 2014) .......................................................................................... 16
+Brembo, S.P.A. v. T.A.W. Performance LLC,
+176 A.D.3d 535 (1st Dep’t 2019) ........................................................................................ 7, 8
+Canzona v. Atanasio,
+118 A.D.3d 837 (2d Dep’t 2014) .......................................................................................... 8, 9
+Carroll ex rel Pfizer, Inc. v. McKinnell,
+19 Misc. 3d 1106(A), 859 N.Y.S.2d 901 (Sup. Ct. 2008) ...................................................... 19
+Clifden Futures, LLC v. Man Fin., Inc.,
+858 N.Y.S.2d 580 (Sup. Ct., N.Y. Co. 2008) ......................................................................... 11
+Corsello v. Verizon N.Y., Inc.,
+18 N.Y.3d 777 (2012) .............................................................................................................. 14
+Delaney v. Bank of America Corp.,
+908 F. Supp. 2d 498 (S.D.N.Y. 2012) ....................................................................................... 7
+DeSilva v. North Shore-Long Island Jewish Health System, Inc.,
+770 F. Supp. 2d 497 (E.D.N.Y. 2011) .................................................................................... 19
+Doller v. Prescott,
+167 A.D.3d 1298 (3d Dep’t 2018) .......................................................................................... 14
+FILED: KINGS COUNTY CLERK 06/03/2021 06:52 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 11 RECEIVED NYSCEF: 06/03/2021
+3 of 25
+iii
+Fallon v. McKeon,
+230 A.D.2d 629 (1st Dep’t 1996) ........................................................................................... 15
+Feld v. Apple Bank for Sav.,
+116 A.D. 3d 549 (1st Dep’t 2014) .......................................................................................... 12
+Foros Advisors LLC v. Digital Globe, Inc.,
+333 F. Supp. 3d 354 (S.D.N.Y. 2018) ....................................................................................... 7
+Freedman v. Chemical Constr. Corp.,
+43 N.Y. 2d 260 (1977) ............................................................................................................. 12
+Goldfarb v. Shaeffer,
+135 A.D.3d 505 (1st Dep’t 2016) ........................................................................................... 12
+Grasso v. Donnelly-Schoffstall,
+2021 WL 1224052 (N.D.N.Y. Mar. 31, 2021) ........................................................................ 10
+Gutkowski v. Steinbrenner,
+680 F. Supp. 2d 602 (S.D.N.Y. 2010) ..................................................................................... 10
+J.F. Capital Advisors, LLC v. Lightstone Group, LLC,
+25 N.Y. 3d 759 (2015) ............................................................................................................. 12
+Jericho Group, Ltd. v. Midtown Devl., L.P.,
+32 A.D.3d 294 (1st Dep’t 2006) ............................................................................................. 11
+Kliebert v. McKoan,
+228 A.D.2d 232 (1st Dep’t 1996) ............................................................................................. 6
+Kunica v. St. Jean Financial, Inc.,
+1998 WL 437153 (S.D.N.Y. Aug. 3, 1998) .............................................................................. 8
+Martin H. Bauman Assoc., Inc. v. H & M Intern. Transport, Inc.,
+171 A.D.2d 479 (1st Dep’t 1991) ........................................................................................... 17
+Mid-Hudson Catskill Rural Migrant Ministry, Inc. v. Fine Host Corp.,
+418 F.3d 168 (2d Cir. 2005) .................................................................................................... 17
+Nasca v. Sgro,
+130 A.D.3d 588 (2d Dep’t 2015) .............................................................................................. 6
+FILED: KINGS COUNTY CLERK 06/03/2021 06:52 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 11 RECEIVED NYSCEF: 06/03/2021
+4 of 25
+iv
+New York Military Academy v. New Open Group,
+142 A.D. 3d 489 (2d Dep’t 2016) ............................................................................................. 9
+Reznick v. Bluegreen Resorts Mgt., Inc.,
+154 A.D.3d 891 (2d Dep’t 2017) .............................................................................................. 7
+Seiden Assocs., Inc. v. ANC Holdings, Inc.,
+768 F. Supp. 89 (S.D.N.Y. 1991) ............................................................................................ 17
+Skillgames, LLC v. Brody,
+1 A.D.3d 247 (1st Dep’t 2003) ......................................................................................... 18, 19
+Snyder v. Bronfman,
+13 N.Y.3d 504 (2009) .............................................................................................................. 13
+Thor Properties, KKC v. Willspring Holdings, LLC,
+118 A.D.3d 505 (1st Dep’t 2014) ........................................................................................... 12
+Toll v. Tannebaum,
+982 F. Supp. 2d 541 (E.D. Penn. 2013) ................................................................................. 17
+Zeising v. Kelly,
+152 F. Supp. 2d 335 (S.D.N.Y. 2001) ..................................................................................... 13
+Statutes
+CPLR 3211(a)(5) ............................................................................................................................ 6
+CPLR 3211(a)(7) ............................................................................................................................ 6
+Other Authorities
+General Obligations Law (“GOL”) § 5-701(a)(10) ........................................................... 12, 13
+FILED: KINGS COUNTY CLERK 06/03/2021 06:52 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 11 RECEIVED NYSCEF: 06/03/2021
+5 of 25
+1
+PRELIMINARY STATEMENT
+This Court should dismiss the complaint of plaintiff Richard Burton (“Burton”)
+in its entirety. Burton seeks a windfall of “$100 million” on the basis of vague and
+indefinite allegations that defendant Hayden Adams (“Adams”) orally promised him
+the “ability to be an early investor in Uniswap[.]”1 (Complaint (“Compl.”) ¶ 17.) Even
+under the liberal pleading rules that govern a motion to dismiss, the three causes of
+action—breach of oral contract, unjust enrichment, and quantum meruit—are all fatally
+flawed.
+Burton’s first cause of action for breach of contract fails as a matter of law
+because the alleged oral contract is too vague and indefinite. The complaint does not
+set forth the material terms of the alleged contract, such as the price, quantity, or
+specific timing of Burton’s opportunity to invest in “Uniswap.
+” It is not even clear if
+Burton expected to receive shares in a future company which Adams later incorporated
+(i.e., Uniswap Labs), or if he expected tokens or other digital assets associated with the
+Uniswap software. Without sufficiently definite contract terms that were agreed upon
+by the parties, Burton completely fails to adequately allege an enforceable oral contract.
+Even if there were an oral contract—which there was not—the complaint does
+not allege that Adams breached any oral promise to provide Burton with an early
+investment opportunity. To the contrary, Burton acknowledges that Adams provided
+1 The complaint does not define “Uniswap”, but uses the term interchangeably to refer both to a
+software protocol for a decentralized trading platform and a company called Universal Navigation,
+Inc. (See, e.g., Compl. ¶¶ 1, 12, 28, 32.) For clarity, unless directly quoting from the complaint, this
+brief uses the term “Uniswap” to refer to the open-sourced software protocol, and the term
+“Uniswap Labs” to refer to the company, Universal Navigation, Inc.
+FILED: KINGS COUNTY CLERK 06/03/2021 06:52 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 11 RECEIVED NYSCEF: 06/03/2021
+6 of 25
+2
+Burton with a “term sheet” and that Burton declined to invest at that time. (See id. ¶ 26.)
+Based on those facts alone, there was no breach. Beyond all of this, to the extent that
+Burton’s claims are based on Burton’s alleged promise to assist Adams with identifying,
+negotiating, or pitching Uniswap or Uniswap Labs to third party investors, the claims
+are barred by the statute of frauds.
+Burton’s second and third causes of action for unjust enrichment and quantum
+meruit also should be dismissed. It is well established that these equitable claims may
+not be used as a backdoor to obtain the benefit of an otherwise unenforceable contract.
+But that is precisely what Burton seeks to do. Rather than seek only the reasonable
+value of any alleged services, Burton seeks at least $100 million on his theories for
+unjust enrichment and quantum meruit and bases those claims on the exact same
+factual allegations as his contract claim. As support for his outlandish monetary
+demand, Burton alleges that he gave Adams about $25,000 for software development,
+rent, and other costs in addition to unspecified technical and design advice. Burton
+makes no attempt to identify the specific services that he allegedly provided or their
+reasonable value.
+For these reasons, Adams’ motion to dismiss the complaint with prejudice
+should be granted.
+FILED: KINGS COUNTY CLERK 06/03/2021 06:52 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 11 RECEIVED NYSCEF: 06/03/2021
+7 of 25
+3
+FACTUAL BACKGROUND2
+Defendant Hayden Adams is “a founder” and “Chief Executive Officer” of
+Uniswap Labs. (Compl. ¶ 13.) The company is alleged to be behind a decentralized on-
+line exchange powered by a software known as “Uniswap”, which permits users to
+“trade cryptocurrencies and digital assets.” (Id. ¶¶ 1, 12, 13.)
+Plaintiff Richard Burton “is the founder of Balance, an Ethereum3 blockchain
+wallet startup.” (Id. ¶ 16.)
+“Mr. Burton first met Mr. Adams in the spring of 2018 in New York City.” (Id. ¶
+15.) At the time they met, Uniswap Labs had not yet been formed and the Uniswap
+software protocol was “little more than an idea” under development. (Id. ¶¶ 3, 17.)
+After meeting in the spring of 2018, Burton alleges that he and Adams entered
+into an “oral contract” “described [] in Paragraph 17 of th[e] Complaint.
+” (Id. ¶¶ 17, 19,
+23.) Paragraph 17 claims that Uniswap was “in need of development, financing, and
+office space,” and alleges that, “Mr. Adams accepted Mr. Burton’s offer to provide
+assistance.” (Id. ¶ 17.) Even assuming these facts are true for the purposes of this
+motion, the complaint nowhere describes Burton’s purported offer or the specific terms
+of this supposed oral contract, such as the price or quantity of Burton’s investment
+opportunity, the specific timing of Burton’s investment opportunity, or the extent and
+scope of Burton’s promised assistance. Instead, the complaint merely asserts that “[a]s
+2 The Factual Background is drawn from the complaint. By referencing the complaint in this motion,
+Adams does not accept or admit any of its allegations.
+3 The Ethereum blockchain is a widely used open-sourced blockchain software platform. What is
+Ethereum? ETHEREUM, https://ethereum.org/en/what-is-ethereum/ (last visited June 1, 2021).
+FILED: KINGS COUNTY CLERK 06/03/2021 06:52 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 11 RECEIVED NYSCEF: 06/03/2021
+8 of 25
+4
+consideration for [his] assistance, Mr. Adams agreed that Mr. Burton would have the
+ability to be an early investor in Uniswap.” (Id.)
+After the formation of the purported oral contract, Burton allegedly provided
+assistance to Adams in the spring and summer of 2018. At one point, the complaint
+alleges Burton “paid Mr. Adams $10,000 to do software development work for Balance”
+and “wrote off the expense” when Adams allegedly failed to perform these services.
+(Id. ¶ 22.) At another point, the complaint alleges Burton “provided Mr. Adams with
+money for travel expenses, as well as technical and design advice,” which Burton
+asserts in a conclusory fashion was “consistent with the [alleged oral] contract[.]” (Id. ¶
+23 (italics added).) And, during “the summer of 2018”, Burton allegedly provided
+Adams with “$15,000 to help him cover rent and [other] costs[.]” (Id. ¶ 24.) Over this
+period, Adams allegedly assured Burton that “he would be given a role in any to-be-
+formed company, as well as an opportunity to be an early investor if and when a lead
+investor for the Uniswap project was identified.” (Id. ¶¶ 25-26.)
+Although Burton claims that Adams breached an oral contract “to give [him] the
+opportunity to be an early investor in Uniswap” (id. ¶ 40), he admits that “Mr. Adams
+sent Mr. Burton a term sheet[.]” (Id. ¶ 26.) The complaint does not allege that this term
+sheet was unsatisfactory or otherwise inconsistent with Adams’ purported earlier oral
+promise to provide Burton with an early investment opportunity. Instead, Burton
+implicitly acknowledges that he passed on the investment opportunity in the term sheet
+at a time when Uniswap had “no then-present financial value” (id. ¶ 28), and expressed
+a “desire and intention to invest [at some future date] when Mr. Adams had found a
+FILED: KINGS COUNTY CLERK 06/03/2021 06:52 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 11 RECEIVED NYSCEF: 06/03/2021
+9 of 25
+5
+lead investor to set the terms and price the deal.” (Id. ¶ 26.)
+Subsequently, Adams allegedly “pitch[ed] Uniswap to Paradigm, a well-known
+blockchain focused venture capital firm.” (Id. ¶ 27.) “Paradigm invested by providing
+Mr. Adams and the eventually-formed Uniswap entity with $1 million in seed funding
+at a $10 million valuation.” (Id. ¶ 32.)
+After Uniswap Labs “attract[ed] the attention of institutional investors”, Burton
+“attempted to accept” Adams’ earlier “offer to invest[.]” (Id. ¶¶ 5, 30.) At that point,
+Burton “was told that he could not” invest. (Id.) Ultimately, Uniswap became the
+“largest decentralized trading and automated market making protocol . . . on
+Ethereum[.]” (Id. ¶ 12.)
+Seeking to piggy-back on the “meteoric” success of Uniswap, Burton now claims
+that he has suffered a minimum of $100 million in damages. (Id. ¶¶ 14, 33.) He does
+not explain the factual basis for this damages calculation, except to assert that Adams
+“initially agreed to allow Mr. Burton to invest in Uniswap at a $10 million valuation for
+$100,000.” (Id. ¶ 30.) Burton does not state when this alleged offer was made, or
+explain the factual basis for a $100,000 purchase price, or a $10 million valuation.
+Burton also claims that Adams was unjustly enriched by his support and that Burton is
+entitled to “a fair and equitable portion” of Adams’ success. (Id. ¶ 7.) He seeks “money
+damages” or “restitution” “in an amount no less than $100 million” under each of his
+three causes of action. (Id., Prayer for Relief.)
+FILED: KINGS COUNTY CLERK 06/03/2021 06:52 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 11 RECEIVED NYSCEF: 06/03/2021
+10 of 25
+6
+LEGAL STANDARD
+A motion to dismiss under New York Civil Practice Law (“CPLR”) 3211 may be
+brought on the grounds that the asserted complaint or cause(s) of action fail to state a
+claim. CPLR 3211(a)(7). Similarly, under CPLR 3211(a)(5), a motion may be brought on
+the grounds that a cause of action is subject to the statute of frauds. “The test of the
+sufficiency of a pleading is ‘whether it gives sufficient notice of the transactions,
+occurrences, or series of transactions or occurrences intended to be proved and whether
+the requisite elements of any cause of action known to our law can be discerned from its
+averments.’” Nasca v. Sgro, 130 A.D.3d 588, 588 (2d Dep’t 2015) (citations omitted).
+Although allegations in the pleadings are generally accepted as true, “allegations
+consisting of bare legal conclusions, as well as factual claims either inherently incredible
+or flatly contradicted by documentary evidence, are not entitled to such consideration.”
+Kliebert v. McKoan, 228 A.D.2d 232, 232 (1st Dep’t 1996).
+ARGUMENT
+I. The First Cause of Action for Breach of Oral Contract Should Be Dismissed for
+Multiple Reasons
+A. The Alleged Oral Contract Lacks Definite and Certain Terms
+Burton’s first cause of action for breach of an oral contract fails because he has
+not pleaded—and cannot plead—the material terms of the alleged contract. “Before a
+party may obtain redress for breach of a promise, the promise must be sufficiently
+certain and specific to ascertain the parties’ intentions and the terms of the agreement.”
+Balco Dev. Corp. v Peters, 276 A.D.2d 729, 729 (2d Dep’t 2000) (citations omitted).
+FILED: KINGS COUNTY CLERK 06/03/2021 06:52 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 11 RECEIVED NYSCEF: 06/03/2021
+11 of 25
+7
+When, as here, “a plaintiff alleges the existence of an oral agreement, he ‘faces a
+heavier burden’[] [t]o ensure that parties are not trapped into surprise contractual
+obligations.” Delaney v. Bank of America Corp., 908 F. Supp. 2d 498, 514 (S.D.N.Y. 2012)
+(citations omitted) (emphasis added).) “[V]ague allegations suggesting that there may
+have been an agreement do not suffice.” Reznick v. Bluegreen Resorts Mgt., Inc., 154
+A.D.3d 891, 893 (2d Dep’t 2017).
+“‘[I]f the terms of the agreement are so vague and
+indefinite that there is no basis or standard for deciding whether the agreement had
+been kept or broken, or to fashion a remedy, and no means by which such terms may be
+made certain, then there is no enforceable contract.’” Foros Advisors LLC v. Digital Globe,
+Inc., 333 F. Supp. 3d 354, 360 (S.D.N.Y. 2018); see also 2004 McDonald Ave. Realty, LLC v.
+2004 McDonald Ave. Corp., 50 A.D.3d 1021, 1021 (2d Dep’t 2008) (“[D]efiniteness as to
+material matters is of the very essence of contract law.’”) (Citations omitted)).
+It is proper to dismiss a breach of oral contract claim at the pleading stage where
+the terms of the alleged agreement are not sufficiently pled. For example, in Brembo,
+S.P.A. v. T.A.W. Performance LLC, 176 A.D.3d 535, 536 (1st Dep’t 2019), the defendant
+alleged that the plaintiff had “promise[d] to appoint [the] defendant as its exclusive
+distributor in meetings and through correspondence.” The Appellate Division upheld
+the trial court’s dismissal of the defendant’s counterclaim for breach of contract, ruling
+that the alleged oral agreement was insufficiently “definitive in its material terms so as
+to be enforceable.” Id. The Appellate Division reasoned that “[n]o terms were agreed
+upon when the plaintiff allegedly made the promise: not the duration of the agreement,
+not the pricing of [the] plaintiff’s parts, and not any other term governing the alleged
+FILED: KINGS COUNTY CLERK 06/03/2021 06:52 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 11 RECEIVED NYSCEF: 06/03/2021
+12 of 25
+8
+[agreement].” Id.
+Similarly here, Burton’s cause of action for breach of oral contract rests on vague
+and indefinite allegations that Adams accepted Burton’s “offer to provide assistance”
+and in exchange, “Mr. Adams agreed that Mr. Burton would have the ability to be an
+early investor in Uniswap.” (Comp. ¶ 17.)4 As in Brembo, Burton—relying on alleged
+assurances by Adams—fails to plead the material terms of the consideration he would
+provide, including the “scope of the expected” assistance, the time commitment, or
+material terms such as price and duration. Brembo, 176 A.D.3d at 536. Burton does not
+even specify if he was promised shares in a future company (Uniswap Labs), or future
+tokens or other digital assets associated with Uniswap (the software protocol). In any
+event, the complaint “is silent with respect to the amount [Burton would be allowed to
+invest], the exercise price [at which Burton would be allowed to invest], or the date on
+which [Burton] could [invest].” Kunica v. St. Jean Financial, Inc., 1998 WL 437153,
+*6
+(S.D.N.Y. Aug. 3, 1998); see also Canzona v. Atanasio, 118 A.D.3d 837, 839 (2d Dep’t 2014)
+(“the plaintiff failed to plead the material terms of the alleged oral loan agreement by
+which the defendants agreed to repay or reimburse him for his payment of
+expenditures”).
+4 Burton makes clear throughout his complaint that these allegations in paragraph 17 constitute the
+alleged oral agreement at issue. (See Comp. ¶ 19 (“Knowing Mr. Adams was running low on funds,
+and consistent with the oral contract describe above in paragraph 17 of this Complaint”); see also id.
+¶ 23 (“Mr. Burton also provided Mr. Adams with money for travel expenses, as well as technical and
+design advice, consistent with the contract previously reached and described above in paragraph 17
+of this Complaint”).)
+FILED: KINGS COUNTY CLERK 06/03/2021 06:52 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 11 RECEIVED NYSCEF: 06/03/2021
+13 of 25
+9
+“[Burton’s] allegations regarding the alleged oral agreement [ar]e too vague and
+indefinite to plead a breach of contract cause of action.” Canzona, 118 A.D.3d at 839.
+B. At Best, Burton Has Alleged an Unenforceable Agreement to Agree
+Taking Burton’s allegations as true, and resolving all reasonable inferences in his
+favor, a plain reading of the complaint makes clear that the alleged oral contract, at best,
+was an unenforceable “agreement to agree.” See New York Military Academy v. New
+Open Group, 142 A.D. 3d 489, 490 (2d Dep’t 2016) (“‘[I]t is rightfully well settled . . . that
+a mere agreement to agree, in which a material term is left for future negotiations, is
+unenforceable’”) (citations omitted).
+This Court need go no further than Burton’s pleading to find a prime example of
+why indefinite contracts, or “agreements to agree” are unenforceable. Unable to plead
+any material terms demonstrating the agreed-upon price or valuation of the purported
+investment he was “denied,” Burton baselessly claims that he would have invested
+$100,000 in Adams’ business and is thus entitled to at least $100 million in present-day
+damages. (Compl. ¶ 33.) In other words, even though there are no factual allegations
+that the parties agreed to any definite contract terms, Burton attempts to speculate into
+existence an alternate reality in which he would have invested $100,000 in a company
+that did not exist and had “no then-present value” but is now worth billions of dollars.
+(See id. ¶¶ 28, 32, 33.)
+This Court should reject Burton’s attempt at “wait and see” investing. To allow
+otherwise would enable anyone to retroactively reap the benefits of a putative
+investment without any of the attendant risks, merely by alleging in a lawsuit that a
+FILED: KINGS COUNTY CLERK 06/03/2021 06:52 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 11 RECEIVED NYSCEF: 06/03/2021
+14 of 25
+10
+plaintiff was denied an opportunity to invest on his or her own preferred terms.
+Moreover, Burton cannot adequately plead around the definiteness requirement
+by asserting that Burton confirmed a desire to invest when “Adams found a lead
+investor to set the terms and price the deal.
+” (Id. ¶ 26.) The complaint nowhere alleges
+that Adams agreed that Burton could invest after a lead investor was found, or that a
+deal with an unknown, hypothetical lead investor would set the terms of Burton’s deal.
+(See, e.g., id. ¶¶ 17, 25.) Thus, “the[] allegations are insufficient to plead the existence of
+an enforceable contract for the simple reason that [Burton] fails to allege that the parties
+actually agreed to look to any extrinsic event, commercial practice, or trade usage to
+ascertain the price.” Gutkowski v. Steinbrenner, 680 F. Supp. 2d 602, 610 (S.D.N.Y. 2010)
+(emphasis in original).)
+Nor does the complaint allege any specific facts showing how an unknown
+future “lead investor” would create an objective standard or method to set the price for
+Burton’s investment. See Ashkenazi v. Kelly, 157 A.D.2d 578, 579 (1st Dep’t 1990) (“there
+was no objective standard or method articulated in the agreement to establish
+essential terms”); Grasso v. Donnelly-Schoffstall, 2021 WL 1224052, at *3 (N.D.N.Y. Mar.
+31, 2021) (rejecting the argument that the price was sufficiently definite when it would
+be set by the “price paid [for a puppy] by a third-party” because the price “to be paid by
+third parties provides no definiteness to the price term . . . [and] is not an objective
+method by which the Court, or any outsider, could determine how much is owed.”)
+The first cause of action should be dismissed because the complaint fails to allege
+the existence of an enforceable oral contract with definite terms.
+FILED: KINGS COUNTY CLERK 06/03/2021 06:52 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 11 RECEIVED NYSCEF: 06/03/2021
+15 of 25
+11
+C. The Complaint Fails to Allege that Defendant Breached Any Agreement
+to Provide Plaintiff with an Early Investment Opportunity
+Even assuming Burton has alleged the existence of an enforceable oral contract
+(which he has not), Burton still fails to allege any breach. To state a claim for breach of
+contract, “[t]he pleadings must be sufficiently particular to give the court and [the]
+parties notice of the transactions, [or] occurrences… intended to be proved,” and must
+allege “the specific provisions upon which liability is predicated.” Clifden Futures, LLC
+v. Man Fin., Inc., 858 N.Y.S.2d 580, 582–83 (Sup. Ct., N.Y. Co. 2008).
+“It is well-settled
+that in an action to recover damages for the breach of a contract, the facts constituting
+the breach must be pleaded.” Id.
+Burton alleges in a conclusory fashion that Adams breached the parties’ oral
+contract by “failing and refusing to grant Plaintiff the ability to invest [$100k at a $10
+million valuation].” (Compl. ¶¶ 30, 33, 42.) However, Burton nowhere alleges that the
+parties had reached agreement on those specific price or valuation terms. At most, the
+complaint alleges that Adams “sent Mr. Burton a term sheet”, that Burton responded by
+expressing his “desire and intention to invest [at some future date] when Mr. Adams
+had found a lead investor to set the terms and price the deal”, and that Burton
+subsequently was denied “the ability to invest when he attempted to do so” at a later
+time. (Id. ¶¶ 26, 42.) In short, the complaint acknowledges that Burton was given an
+early investment opportunity and rejected it. See Jericho Group, Ltd. v. Midtown Devl.,
+L.P., 32 A.D.3d 294, 299 (1st Dep’t 2006) (“Rejection by counteroffer extinguishes the
+offer and renders any subsequent acceptance thereof inoperative”); Thor Properties, KKC
+FILED: KINGS COUNTY CLERK 06/03/2021 06:52 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 11 RECEIVED NYSCEF: 06/03/2021
+16 of 25
+12
+v. Willspring Holdings, LLC, 118 A.D.3d 505, 507 (1st Dep’t 2014) (if the offeree responds
+by conditioning acceptance on new or modified terms, “thereafter the offeree cannot,
+[later], unilaterally revive the offer by accepting it”).
+Because Burton has “failed to allege the breach of any particular contractual
+provision”, this Court should dismiss the first cause of action. See Feld v. Apple Bank for
+Sav., 116 A.D. 3d 549, 550 (1st Dep’t 2014).
+D. Any Purported Agreement Based on Plaintiff’s Assistance in “Finding a
+Lead Investor” Is Barred by the Statute of Frauds
+The statute of frauds also bars Burton’s claims, which are based on allegations
+that Burton assisted Adams in negotiating business opportunities with Paradigm or
+other investors. Under General Obligations Law (“GOL”) section 5-701(a)(10), “a
+contract to pay compensation for services rendered in negotiating a . . .
+‘business
+opportunity’ must be made in writing.”
+The New York Court of Appeals has held that “business opportunity” includes
+agreements that contemplate one party’s use of his or her “‘know-how’ or ‘know-who’
+,
+in bringing about between principals an enterprise of some complexity or an acquisition
+of a significant interest in an enterprise.” J.F. Capital Advisors, LLC v. Lightstone Group,
+LLC, 25 N.Y. 3d 759, 767 (2015) (citing Freedman v. Chemical Constr. Corp., 43 N.Y. 2d 260,
+267 (1977)). For example, in Goldfarb v. Shaeffer, 135 A.D.3d 505, 505 (1st Dep’t 2016), a
+claim for breach of contract was dismissed because plaintiff’s allegations that he “was
+responsible for introducing [defendant] to [nonparty investor],” and that his work
+resulted in the underlying transaction, squarely fell within the statute of frauds. See also
+FILED: KINGS COUNTY CLERK 06/03/2021 06:52 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 11 RECEIVED NYSCEF: 06/03/2021
+17 of 25
+13
+Zeising v. Kelly, 152 F. Supp. 2d 335, 344 (S.D.N.Y. 2001) (the plaintiff’s duties under the
+alleged agreement put the contract “squarely within the Statute of Frauds,” because
+“‘negotiating a business opportunity’ within the meaning of [Section] 5–701(a)(10)
+includes the use of ‘connections,’ ‘ability’ and ‘knowledge’ to facilitate or assist in the
+transaction by helping the acquirer of the business opportunity meet the right people
+and have the right information.”)
+Here, Burton, a self-proclaimed software developer, designer, and entrepreneur,
+alleges that he “spent countless hours . . . with Mr. Adams helping to think through the
+project and pitch to prospective investors” (Compl. ¶ 20), that “[h]e did whatever
+possible to help Hayden connect with the right people to work and partner with” (id. ¶
+21), and that “[a]s part of the process of helping locate a lead investor, Mr. Burton sent
+Mr. Adams additional cash so he could fly to San Francisco and pitch Uniswap to
+Paradigm.” (Id. ¶ 26.) These allegations, purporting to constitute Burton’s
+consideration under the alleged agreement, contemplate the use of Burton’s “know
+how” and “know who” and thus required any agreement to be in writing. As Burton
+seeks to enforce an oral agreement, all three of his causes of action are barred. See
+Snyder v. Bronfman, 13 N.Y.3d 504, 508 (2009) (Unjust enrichment and quantum meruit
+are claims under “a contract implied . . . in law to pay reasonable compensation” and
+thus subject to the statute of frauds).
+FILED: KINGS COUNTY CLERK 06/03/2021 06:52 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 11 RECEIVED NYSCEF: 06/03/2021
+18 of 25
+14
+II. The Second Cause of Action for Unjust Enrichment Is Duplicative of The
+Contract Claim
+This Court should dismiss Burton’s second cause of action for unjust enrichment
+because it is based on the same facts, and seeks the same relief, as his contract claim.
+While pleading in the alternative may be permissible, Burton cannot plead around an
+unenforceable agreement to agree simply by asserting a claim for unjust enrichment.
+“‘An unjust enrichment claim is not available where it simply duplicates, or
+replaces, a conventional contract or tort claim.’” Doller v. Prescott, 167 A.D.3d 1298, 1301
+(3d Dep’t 2018) (citing Corsello v. Verizon N.Y., Inc., 18 N.Y.3d 777, 790 (2012)). For
+example, in Doller, the plaintiff alleged that the defendant reneged on a memorandum
+of understanding to give the plaintiff the right of first refusal to purchase equity in his
+company and wrongfully usurped that opportunity for himself. Id. at 1298. The
+Appellate Division upheld the dismissal of the breach of contract claim on the grounds
+that the memorandum of understanding was an unenforceable “agreement to agree.”
+Id. at 1300. The Appellate Division then affirmed the dismissal of the unjust enrichment
+claim, reasoning that the allegations were duplicative of the dismissed contract claim
+and thus the claim for unjust enrichment was unavailable. Id. at 1301.
+Here too, the factual allegations Burton relies on to demonstrate that Adams was
+unjustly enriched are the same allegations that he uses to demonstrate he performed his
+contractual obligations. The unjust enrichment claim expressly incorporates all the
+prior allegations of the complaint. (Compl. ¶ 44.) It then alleges that defendant was
+enriched by “Burton’s technical, financial and other assistance”, which is the exact same
+FILED: KINGS COUNTY CLERK 06/03/2021 06:52 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 11 RECEIVED NYSCEF: 06/03/2021
+19 of 25
+15
+consideration that Burton relies on for the contract claim. (Compare id. ¶ 45 with ¶ 19
+(“consistent with the oral contract… Burton gave Mr. Adams money to help support”);
+¶ 23 (Burton provided Adams “technical and design advice consistent with the
+contract”); ¶ 28 (“Burton provided [] Adams financial and personal assistance”). The
+second cause of action is duplicative and insufficient.
+Akerson Advertising & Marketing, Inc. v. St. John & Partners Advertising, 89 F. Supp.
+3d 341, 345-46 (N.D.N.Y. 2015), is instructive. There, the plaintiff marketing firm
+transferred all its assets and its lead client account to the defendant, who agreed to pay
+market value for the assets and not sell the account to a third party. The plaintiff sued
+for breach and unjust enrichment, alleging with respect to the unjust enrichment claim
+that: (1) the defendant transferred the lead client account to a third party; (2) the value
+of the account was no less than $5 million; and (3) as a result of the defendant’s unjust
+enrichment, plaintiff was damaged “in no case less than $5 million.” Id. at 353. The
+court dismissed the claim as duplicative of the breach of contract claim, noting that the
+plaintiff sought “at least $5,000,000.00 as damages on their unjust enrichment claim,
+which is the same amount they seek on their breach-of-contract claims[.]” Id. at 353-54.
+The court reasoned that the plaintiff “clearly seeks the benefit of the bargain, i.e., the
+value of the assets of [the] [p]laintiff which were sold”
+, and concluded that a proper
+unjust enrichment claim seeks to recover the value of the work performed and “does
+not depend on an unenforceable promise.” Id.; see also Fallon v. McKeon, 230 A.D.2d 629,
+630 (1st Dep’t 1996) (dismissing unjust enrichment claim “since instead of identifying
+the reasonable value of services rendered… [the] plaintiff simply claims damages
+FILED: KINGS COUNTY CLERK 06/03/2021 06:52 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 11 RECEIVED NYSCEF: 06/03/2021
+20 of 25
+16
+identical to the other four causes of action” rendering the “claim indistinguishable from
+the others“and therefore insufficient).
+As in Akerson, Burton seeks identical relief both through his unjust enrichment
+and breach of contract claims and does not limit the relief sought to the reasonable
+value of his services. Burton expressly seeks to recover “money damages” and
+“restitution” on all three claims “in an amount not less than $100 million.” (Compl.,
+Prayer for Relief ¶¶ A-C.) As support for this demand, Burton asserts that “Adams’
+failure and refusal to allow Mr. Burton to invest . . . translates into damages, of, at
+minimum, $100 million. This amount inured to the benefit of Mr. Adams at Mr.
+Burton’s expense.” (Id. ¶ 33 (emphasis added); ¶ 48 (“it would be against equity and
+good conscience to allow Mr. Adams… [to] retain[] the amount Mr. Burton seeks to
+recover in this lawsuit”). Burton “clearly seek[s] the benefit of the bargain” and does
+not limit the relief sought to the reasonable value of his services. See Akerson, 89 F.
+Supp. 3d at 353-54.
+Because Burton’s unjust enrichment claim “seeks precisely the same damages”
+and is “indistinguishable” from his contract claim, it “must be dismissed.” Benhan v.
+eCommission Solutions, LLC, 118 A.D. 3d 605, 606-07 (1st Dep’t 2014).
+III. The Third Cause of Action for Quantum Meruit Should Be Dismissed
+A. The Quantum Meruit Claim Is Duplicative of the Contract Claim
+As with his claim for unjust enrichment, Burton’s third cause of action for
+quantum meruit should be dismissed because it is indistinguishable from the breach of
+contract claim.
+FILED: KINGS COUNTY CLERK 06/03/2021 06:52 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 11 RECEIVED NYSCEF: 06/03/2021
+21 of 25
+17
+Under New York law, claims for quantum meruit and unjust enrichment are
+analyzed as a single quasi-contract claim. Mid-Hudson Catskill Rural Migrant Ministry,
+Inc. v. Fine Host Corp., 418 F.3d 168, 175 (2d Cir. 2005) (“‘quantum meruit and unjust
+enrichment are not separate causes of action,’ and [] ‘unjust enrichment is a required
+element for an implied-in-law, or quasi contract, and quantum meruit . . . is one
+measure of liability for the breach of such a contract.’”) (citing Seiden Assocs., Inc. v. ANC
+Holdings, Inc., 768 F. Supp. 89, 96 (S.D.N.Y. 1991) (rev’d on other grounds).)
+Like unjust enrichment, quantum meruit is an equitable remedy. It is not a
+backdoor to enforce an otherwise invalid contract. See Martin H. Bauman Assoc., Inc. v.
+H & M Intern. Transport, Inc., 171 A.D.2d 479, 484 (1st Dep’t 1991) (dismissing quantum
+meruit claim and noting “quantum meruit is intended to avoid a party’s unjust
+enrichment; it is certainly not a device wherein a plaintiff may enforce a purported
+agreement which might ultimately be found not to be viable.”) To that end, a cause of
+action for quantum meruit is not stated when it requests that the court enforce the
+benefit of the bargain rather than “recovery for the value of the services []rendered.”
+Toll v. Tannebaum, 982 F. Supp. 2d 541, 559 (E.D. Penn. 2013) (applying New York state
+law) (dismissing claim when “Complaint does not seek recovery for the value of the
+services he rendered . . . [but] [r]ather, he asks the Court to order payment “that he
+would have contracted for.”).
+Burton’s quantum meruit claim is based on the same factual allegations and
+seeks the same relief as his contract claim. In support of the third cause of action, the
+complaint expressly alleges that Burton “performed the services described in this
+FILED: KINGS COUNTY CLERK 06/03/2021 06:52 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 11 RECEIVED NYSCEF: 06/03/2021
+22 of 25
+18
+Complaint” and it asserts that the reasonable value of the purported services rendered
+can be “readily calculated and is equal to, at a minimum, $100 million, the value of the
+investment which Mr. Burton was not allowed to make.” (Compl. ¶¶ 50, 53 (emphasis
+added).) This is a serious problem. Burton is not seeking to recover the reasonable
+value of his purported services, but rather is attempting to use the equitable theory of
+quantum meruit as a backdoor to enforce an unenforceable agreement to agree. The
+quantum meruit claim is therefore not properly stated and should be dismissed.
+B. Burton Fails to Allege the Reasonable Value of Any Services that He
+Provided
+The cause of action for quantum meruit also fails because other than money, the
+complaint does not sufficiently allege what “services” he provided or the reasonable
+value of those services.
+“To state a claim in quantum meruit, a plaintiff must allege its good faith
+performance of services, the defendant’s acceptance of those services, an expectation of
+compensation for the services, and the reasonable value of those services.” Skillgames,
+LLC v. Brody, 1 A.D.3d 247, 251 (1st Dep’t 2003). To support such a claim, a plaintiff
+must allege that it actually performed services for defendant not “only that it provided
+him with money.” Id.; see also id. (affirming dismissal of quantum meruit claim and
+stating that the claim does not apply “to the provision of money rather than services”).
+Here, the complaint alleges that Burton “gave Mr. Adams money” (Compl. ¶ 19),
+“paid Mr. Adams $10,000” (id. ¶ 22), “provided Mr. Adams with money for travel
+expenses” (id. ¶ 23), and “sent [Adams] $15,000 to help him cover rent and costs.” (Id. ¶
+FILED: KINGS COUNTY CLERK 06/03/2021 06:52 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 11 RECEIVED NYSCEF: 06/03/2021
+23 of 25
+19
+24.) These allegations that Burton provided Adams with money rather than “services”
+cannot support a quantum meruit cause of action. See Skillgames, 1 A.D.3d at 251.
+Moreover, the complaint fails to plead any facts that Burton in fact provided any
+services to Adams, let alone the reasonable value of such services. At most, Burton
+includes a passing allegation that he provided “technical and design advice” to Adams,
+but such vague allegations are insufficient to state a claim. See DeSilva v. North Shore-
+Long Island Jewish Health System, Inc., 770 F. Supp. 2d 497, 535 (E.D.N.Y. 2011) (“because
+plaintiffs have set forth no more than vague and conclusory allegations regarding what
+services they provided to defendants or what the reasonable value for these services
+was, they have failed to state a claim for quantum meruit.”). Burton’s quantum meruit
+claim must fail.
+IV. This Court Should Dismiss the Complaint with Prejudice
+Although leave to amend is freely granted, it is permissible to dismiss a claim
+with prejudice where it would be futile to permit amendment. See Carroll ex rel Pfizer,
+Inc. v. McKinnell, 19 Misc. 3d 1106(A), 859 N.Y.S.2d 901 (Sup. Ct. 2008) (“it is well-settled
+that a complaint should be dismissed with prejudice where the plaintiff is unable to
+adequately allege facts sufficient to support his or her claim.
+”)
+Burton’s alleged oral agreement is hopelessly indefinite. He has not and cannot
+allege the material terms necessary to prove an enforceable contract, and if Burton had
+the facts to do so, he would have. Further, his causes of action for unjust enrichment
+and quantum meruit are duplicative of the invalid contract. For these reasons
+dismissing the complaint with prejudice is more than justified.
+FILED: KINGS COUNTY CLERK 06/03/2021 06:52 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 11 RECEIVED NYSCEF: 06/03/2021
+24 of 25
+20
+CONCLUSION
+Burton never thought to memorialize any alleged agreement in writing since
+there was no enforceable contract for Adams to provide anything, and he even rejected
+a term sheet when provided one. Burton is now simply seeking an undeserved
+windfall. His claim for breach of contract, and his duplicative claims for unjust
+enrichment and quantum meruit should all be dismissed with prejudice.
+Dated: Los Angeles, California
+June 3, 2021
+By:
+Brian E. Klein
+Scott M. Malzahn (p.h.v. app. forthcoming)
+Jose R. Nuño (p.h.v. app. forthcoming)
+Chloe N. George
+WAYMAKER LLP
+777 S. Figueroa Street, Ste. 2850
+Los Angeles, California 90017
+Telephone: (424) 652-7800
+Facsimile: (424) 652-7850
+bklein@waymakerlaw.com
+smalzahn@waymakerlaw.com
+jnuno@waymakerlaw.com
+cgeorge@waymakerlaw.com
+Dated: New York, New York
+June 3, 2021
+By:
+John G. Balestriere
+Mandeep S. Minhas
+BALESTRIERE FARIELLO
+225 Broadway, 29th Floor
+New York, New York 10007
+Telephone: (212) 374-5401
+Facsimile: (212) 208-2613
+john.balestriere@balestrierefariello.com
+mandeep.minhas@balestrierefariello.com
+Attorneys for Defendant Hayden Adams
+FILED: KINGS COUNTY CLERK 06/03/2021 06:52 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 11 RECEIVED NYSCEF: 06/03/2021
+25 of 25
+
+
+---------
+
+Richard files a response with Stephen Palley against Hayden on 07/29/2021
+
+SUPREME COURT OF THE STATE OF NEW YORK
+COUNTY OF KINGS
+
+
+
+
+PLAINTIFF RICHARD BURTON’S MEMORANDUM OF LAW IN OPPOSITION TO DEFENDANT HAYDEN ADAMS’ MOTION TO DISMISS
+
+
+
+
+
+
+TABLE OF CONTENTS
+Page
+
+[TO BE FILLED]Table of Authorities
+	Page(s)
+[TO BE FILLED]
+Introduction
+Richard Burton provided Hayden Adams the money and assistance he needed to build his massively successful Uniswap Protocol and the business behind it.  In exchange, Mr. Adams promised Mr. Burton that he would allow Mr. Burton to be an early investor in Uniswap.  The clear terms of this agreement are pleaded in the Complaint.  When the time came for Mr. Burton to invest, however, Mr. Adams reneged.   Instead, Mr. Adams kept for himself the money and the value of the assistance that Mr. Burton had provided.  Mr. Adams was bound by law and equity to abide by the promise he had made to Mr. Burton.  Mr. Adams refused to honor that promise, leaving Mr. Burton no recourse but this action. 
+Mr. Adams now moves to dismiss the Complaint.  Fundamentally, Mr. Adams ignores the facts alleged in the Complaint, which state with specificity the services provided by Mr. Burton to Mr. Adams, and the reasonable value of those services.  Additionally, contrary to Mr. Adams’ contentions, the Complaint adequately pleads the key terms of the parties’ agreement.  Moreover, the allegations of the Complaint, and the agreement between Mr. Burton and Mr. Adams, do not run afoul of the statute of frauds.  Finally, Mr. Adams’ motion fails to grasp that Mr. Burton’s equitable relief is pleaded in the alternative because quasi-contract claims can only duplicate a contract claim where there is a contract claim from which a remedy may be had, and Mr. Adams argues there is none here.  If the parties’ contract is not legally enforceable, then qausi-contract claims exist to fill the vacuum and provide Mr. Burton a remedy for Mr. Adams’ unjust receipt of value for which he gave nothing to Mr. Burton.  Mr. Adams’ motion has no merit.  
+As set forth below, the parties’ agreement is legally enforceable, and Mr. Burton’s breach of contract claim is adequately pleaded under the law.  In the alternative, if the Court finds the parties’ agreement unenforceable, Mr. Burton’s quasi-contract claims remain viable.  For these reasons, and as set forth below, Mr. Adams’ motion to dismiss should be denied.
+Factual Background
+This case involves Defendant Mr. Adams’ breach of an oral contract between him and Mr. Burton (the “Contract”).  Rather than including a full recitation of the facts, which are fully set forth in the Complaint and incorporated herein, Mr. Burton seeks to clarify certain discrete issues that Mr. Adams mischaracterizes or ignores in his motion to dismiss (the “Motion”). 
+First, to support an argument that the Statute of Frauds bars the contract claims in this lawsuit, Mr. Adams suggests that the consideration Mr. Burton provided to Mr. Adams included “the use of Burton’s ‘know how’ and ‘know who’” to facilitate investments in Uniswap. See Motion at p. 13.  To support his arguments, Mr. Adams points to the allegation in Paragraph 21 of the Complaint that Mr. Burton “did whatever was possible to help Hayden connect with the right people to work and partner with.”  Motion at 13.  Thus, the argument is a mischaracterization of the allegations in the Complaint.  In reality, the Complaint does not say that Mr. Burton made introductions, drew on his connections, attended any presentation to investors, or otherwise “facilitate[d] or assist[ed] in [a] transaction by helping the acquirer of the business opportunity to meet the right people and have the right information.”  See Motion at 13.  
+The Complaint does allege that Mr. Burton “help[ed] [Mr. Adams] think through the project and pitch” (Complaint ¶ 20) and provided him “technical and design advice” (id. ¶ 23).  The allegation that Mr. Burton “did whatever was possible to help Hayden connect with the right people to work and partner with” (id. ¶ 21) is meant in the most literal sense: Mr. Burton “paid Mr. Adams $10,000” (id. ¶ 22); “provided Mr. Adams with money for travel expenses” (Id. ¶ 23); “sent [Mr. Adams] $15,000” (id. ¶ 24); and “sent Mr. Adams additional cash so he could fly to San Francisco and pitch Uniswap to Paradigm” (id. ¶ 26).  None of these allegations contemplates the use of Mr. Burton’s “know how” or “know who” to facilitate investments.  They expressly allege that Mr. Burton provided financial support and resources in exchange for Mr. Adams’ promise to provide Mr. Burton an early investment opportunity in return.
+Second, Mr. Adams argues that “the complaint acknowledges that Burton was given an early investment opportunity [in the form of the term sheet Mr. Adams provided to Mr. Burton] and rejected it.”  Motion at 11.  But nothing in the Complaint suggests that Mr. Burton ever rejected Mr. Adams’ early investment offer.  On the contrary, the Complaint alleges that “Mr. Adams sent Mr. Burton a term sheet and Mr. Burton confirmed the desire to and intention to invest.”  Complaint ¶ 26.  Further, “Mr. Adams initially agreed to allow Mr. Burton to invest in Uniswap at a $10 million valuation for $100,000.  When Mr. Burton attempted to accept that offer to invest, he was told that he could not.”  Id. ¶ 30.  Mr. Burton neither rejected Mr. Adams’ offer nor made a counteroffer.  He accepted the offer, performed his obligations, and Mr. Adams breached the Contract. 
+Argument
+Legal Standards
+A defendant seeking dismissal under CPLR 3211(a)(7) “bear[s] the burden of establishing that the complaint fails to state a viable cause of action.”  Connolly v. Long Island Power Auth., 30 N.Y.3d 719, 728 (2018).  On a motion to dismiss, the Court is tasked with determining only whether the facts as alleged fit within “any cognizable legal theory.”  Leon v. Martinez, 84 N.Y.2d 83, 88 (1994) (emphasis added).  “[T]he criterion is whether the proponent of the pleading has a cause of action, not whether he has stated one.”  Leon, 84 N.Y.2d at 88 (quotation and citation omitted).  Indeed, “[t]he test of the sufficiency of a pleading is ‘whether it gives sufficient notice of the transaction, occurrences, or series of transactions or occurrences intended to be proved and whether the requisite elements of any cause of action known to our law can be discerned from its averments.’”  Hampshire Properties v. BTA Bldg. & Developing, Inc., 122 A.D.3d 573, 573 (2d Dep’t 2014) (citations omitted).  In making this determination, the Court must construe the pleadings liberally, accepting the facts as alleged in the complaint as true, and according the plaintiff “the benefit of every possible favorable inference.”  Leon, 84 N.Y.2d at 87; Jannetti v. Whelan, 97 A.D.3d 797, 797 (2d Dep’t 2012).  
+The Claim for Breach of Contract Is Based on Well-Pleaded Allegations That the Parties Had an Oral Contract Which Mr. Adams Breached; Thus, Dismissal Is Not Warranted.
+A viable claim for breach of contract must allege: (1) the existence of an oral contract; (2) the plaintiff's performance under the contract; (3) the defendant's breach of that contract; and (4) resulting damages.  See Zentz v. Int'l Foreign Exch. Concepts, L.P., 33 Misc. 3d 1212(A), 939 N.Y.S.2d 745 (Sup. Ct. 2011), aff'd, 106 A.D.3d 904, 965 N.Y.S.2d 180 (2013) (citing JP Morgan Chase v. J.H. Elec. of New York, Inc., 69 A.D.3d 802, 803 (2d Dep’t 2010)).  The Complaint pleads each of these elements.  The Contract existed between Mr. Burton and Mr. Adams.  (Complaint at ¶¶ 17, 19, 37-39).  Mr. Burton performed his obligations under that Contract.  (Complaint at ¶¶ 19-24, 41).  Mr. Adams did not perform, thereby breaching the Contract.  (Complaint at ¶¶ 30-31, 42).  And as a result of Mr. Adams breach of the Contract, Mr. Burton suffered damages.  (Complaint at ¶¶ 33, 43).  
+The Complaint Pleads the Existence of An Enforceable Oral Contract. 
+The Motion incorrectly argues that Mr. Burton’s breach of contract claim is not “sufficiently certain and specific to ascertain the parties’ intentions and the terms of the agreement.” Motion at 6 (citing Balco Dev. Corp. v. Peters, 276 A.D.2d 729, 729 (2d Dep’t 2000).  But far from “trap[ing] [Mr. Adams] into surprise contractual obligations” (see Motion at 7)—and the Motion does not argue that Mr. Adams has been surprised—the Complaint specifically alleges both the parties’ intentions and the terms of their oral contract.  
+In support for the proposition that the breach of contract claim is insufficiently pleaded, the Motion cites Brembo, S.P.A. v. T.A.W. Performance LLC, 176 A.D.3d 535, 536 (1st Dep’t 2019), in which the court found that “[n]o terms were agreed upon when the plaintiff allegedly made the promise: not the duration of the agreement, not the pricing of [the] plaintiff’s parts, and not any other term governing the alleged [agreement].” Motion at 7-8 (citing Brembo, 176 A.D.3d at 536).   The Motion also cites Kunica v. St. Jean Financial, Inc., in which the court found that “the oral agreement is silent with respect to the amount of stock options … to be awarded, the exercise price of the stock options or the date on which [plaintiff] could exercise the options.” No. 97 Civ. 3804(RWS), 1998 WL 437153, at *6 (S.D.N.Y. Aug. 3, 1998).  See Motion at 8.  But these cases are inapposite.  There, the respective courts found that the material terms of the contracts at issue had not been pleaded; on the contrary, here Mr. Burton has pleaded the material terms of the parties’ agreement.  
+The Complaint specifically pleads the kinds of support that Mr. Burton provided to Mr. Adams in the form of advice and money.  See Complaint ¶¶ 17-24.  Mr. Burton has pleaded that Mr. Adams assured him an early investment opportunity “in exchange for his support.” Id. ¶ 26.  And the Complaint alleges the particulars of that investment opportunity based on the term sheet that Mr. Adams gave Mr. Burton:  Mr. Burton would be permitted “to invest in Uniswap at a $10 million valuation for $100,000” (id. ¶ 30) “when Mr. Adams had found a lead investor” (id. ¶ 26).  This condition precedent was satisfied when Mr. Adams found Paradigm as a lead investor and Paradigm invested in Uniswap with $1 million in seed funding at a $10 million valuation.  See id. ¶ 32.  These allegations represent the material terms of the parties’ agreement and must be taken as true for purposes of a motion to dismiss.  See Leon, 84 N.Y.2d at 87.  
+Mr. Adams next argues that the parties’ agreement represents an unenforceable “agreement to agree,” and did not contain an objective method for setting a price.  See Motion at 9-10.  While it is true that the parties agreed that Mr. Burton would invest “when Mr. Adams had found a lead investor to set the terms and price the deal” (Complaint ¶ 26), Mr. Adams ignores the allegation in the Complaint that the parties actually agreed on a price:  “Specifically, Mr. Adams initially agreed to allow Mr. Burton to invest in Uniswap at a $10 million valuation.  When Mr. Burton attempted to accept that offer to invest, he was told that he could not.”  Id. ¶ 30 (emphasis added).  In each of the cases cited by Mr. Adams in support of his argument, the parties disagreed about the price of the transactions at issue and the methods of setting terms.  See Motion at 10 (citing Gutkowski v. Steinbrenner, 680 F. Supp. 2d 602, 610 (S.D.N.Y. 2010); Ashkenazi v. Kelly, 157 A.D.2d 578, 579 (1st Dep’t 1990); Grasso v. Donnelly-Schoffstall, No. 1:20-CV-521 (LEK/DJS), 2021 WL 1224052, at *3 (N.D.N.Y. Mar. 31, 2021)).  That is not the case here, where the parties actually agreed on a price and terms, and those terms are pleaded in the Complaint.  As such, the oral contract pleaded in the Complaint is not an unenforceable agreement to agree.  It is an agreement, period.
+Finally, Mr. Adams argues that the parties’ agreement is unenforceable because, Under General Obligations Law (“GOL”) section 5-701(a)(10), “a contract to pay compensation for services rendered in negotiating a …  ‘business opportunity’ must be made in writing.”  Motion at 12.  In support of this argument, Mr. Adams cites cases in which plaintiffs drew on their connections and contacts and made introductions and presentations to potential investors. See Motion at 12-13 (citing Goldfarb v. Schaeffer, 135 A.D.3d 505, 505 (1st Dep’t 2016); Zeising v. Kelly, 152 F. Supp. 2d 335, 344 (S.D.N.Y. 2001).  The Complaint alleges no such activities by Mr. Burton. 
+The Complaint does not allege that Mr. Burton made introductions, drew on his connections, attended any presentation to investors, or otherwise “facilitate[d] or assist[ed] in [a] transaction by helping the acquirer of the business opportunity to meet the right people and have the right information.” See Motion at 13. (citing Zeising v. Kelly, 152 F. Supp. 2d 335, 344 (S.D.N.Y. 2001).  It does allege that Mr. Burton “help[ed] [Mr. Adams] think through the project and pitch” (Complaint ¶ 20) and provided him “technical and design advice” (id. ¶ 23).  Mr. Burton “did whatever was possible to help Hayden connect with the right people to work and partner with” (id. ¶ 21) in a financial sense:  Mr. Burton “paid Mr. Adams $10,000” (id. ¶ 22); “provided Mr. Adams with money for travel expenses” (id. ¶ 23); “sent [Mr. Adams] $15,000” (id. ¶ 24); and “sent Mr. Adams additional cash so he could fly to San Francisco and pitch Uniswap to Paradigm” (id. ¶ 26).  
+Unlike the services provided in Goldfarb and Zeising, the services Mr. Burton alleges he provided to Mr. Adams were limited to assisting him to develop the Uniswap software itself, not making introductions or presentations.  To the extent that Mr. Burton enabled Mr. Adams to make presentations, pitches, or introductions, it was through the use of Mr. Burton’s dollars, not his “know how” or “know who.”  Courts have not found that technical support and financial facilitation fall within the ambit of Section 5-701(a)(10).  See Dorfman v. Reffkin, 144 A.D.3d 10, 16 (2016) (holding that services “including developing materials to secure investor backing, recruiting engineers and others to [the company], and developing the details of how [the company’s] software product, web, and mobile applications would be ‘architected’” did not fall within Section 5-701(a)(10)”).   As such, the parties’ agreement is enforceable, and Mr. Burton’s claim is not barred by the statute of frauds. 
+The Complaint Pleads That Mr. Adams Breached the Contract. 
+The Motion also argues that Mr. Burton has not pleaded that Mr. Adams breached the Contract.  Mr. Adams argues that “Burton nowhere alleges that the parties had reached agreement on those specific price or valuation terms,” (Motion at 11) i.e., that Mr. Burton would invest $100,000 at a $10 million valuation.  Again, Mr. Adams ignores the Complaint’s allegations.  Paragraph 30 of the Complaint states that “Mr. Adams initially agreed to allow Mr. Burton to invest in Uniswap at a $10 million valuation.  When Mr. Burton attempted to accept that offer to invest, he was told that he could not.”  Id. ¶ 30 (emphasis added).  
+Next, in characterizing the allegation in Paragraph 26 of the Complaint that “Mr. Burton confirmed the desire and intention to invest when Mr. Adams had found a lead investor to set the terms and price the deal,” Mr. Adams reaches the non sequitur that “the complaint acknowledges that Burton was given an early investment opportunity and rejected it.” Motion at 11.  The Complaint does not allege that Mr. Burton rejected an early investment offer from Mr. Adams, or that Mr. Burton made a counteroffer.  Rather, it alleges that “Mr. Adams initially agreed to allow Mr. Burton to invest in Uniswap at a $10 million valuation [i.e., offer].  When Mr. Burton attempted to accept that offer to invest [i.e., acceptance], he was told that he could not [i.e., breach].”  Complaint ¶ 30 (emphasis added).)  Paragraph 30 of the Complaint manifestly demonstrates that Mr. Adams breached the Contract—namely, he refused to allow Mr. Burton to make an early investment on the terms to which the parties agreed.  To argue that this paragraph does not plead a breach of the agreement strains credulity. 
+The Complaint pleads the existence of an enforceable oral contract.  It pleads that Mr. Burton upheld his end of the bargain, and that Mr. Adams did not.  And it pleads that Mr. Burton was damaged by this breach.  For these reasons, the motion to dismiss should be denied.  
+Mr. Adams’ Motion to Dismiss the Quasi-Contract Claims Should Be Denied Because They Are Properly Pleaded in The Alternative.
+Mr. Adams further contends that the Complaint’s quasi-contract claims (Counts II and III) should be dismissed because they rely on the same allegations as Mr. Burton’s contract claim.  See Motion at 14-18.  These quasi-contract claims are pleaded in the alternative: if Mr. Burton cannot recover on his contract claim, he should be able to recover on the contract claims because it would be unjust for Mr. Adams to retain the benefits that Mr. Burton afforded him at Mr. Burton’s expense.  By definition, then, the quasi-contract claims cannot be “duplicative” of the contract claim because recovery on Count I would render recovery on Counts II and III superfluous.  “[S]ince plaintiff is entitled to plead inconsistent causes of action in the alternative, the quasi-contractual claims are not precluded by the pleading of a cause of action for breach of an oral agreement.”  Winick Realty Grp. LLC v. Austin & Assocs., 51 A.D.3d 408, 408, 857 N.Y.S.2d 114, 115 (2008).  Mr. Adams has called into question the existence of the contract between him and Mr. Burton, and “where there is a bona fide dispute as to the existence of a contract or the application of a contract in the dispute in issue, a plaintiff may proceed upon a theory of quasi contract as well as breach of contract, and will not be required to elect his or her remedies.”  Zentz, 33 Misc 3d at *5.  
+Mr. Burton’s Quantum Meruit Claim Is Sufficiently Pleaded. 
+Finally, Mr. Adams claims that Mr. Burton’s quantum meruit claim should be dismissed because the Complaint alleges neither the services that Mr. Burton provided nor the value of such services.  Motion at 19-20.  The first part of this argument ignores the specific allegations that “Mr. Burton spent countless hours in front of a whiteboard with Mr. Adams helping to think through the project and pitch” (Complaint ¶ 4) and that Mr. Burton provided “technical and design advice” (id. ¶ 23).  The specificity of these allegations distinguishes them from the “vague and conclusory” allegations of DeSilva v. North Shore-Long Island Jewish Health System, Inc., 770 F. Supp. 2d 497, 535 (E.D.N.Y. 2011), on which the Motion relies.  In contrast, the Complaint identifies with specificity the services that Mr. Burton performed, thereby sufficiently pleading a cause of action for quantum meruit.  
+Further, Mr. Burton has pleaded with specificity the reasonable value of his services.  In Paragraph 34 of the Complaint, it is alleged that “[b]ut for Mr. Burton’s belief that he would be allowed to invest in and benefit from his support of Mr. Adams and the Uniswap project, Mr. Burton would not have provided the measure of assistance that was offered and accepted by Mr. Adams.”  Mr. Burton is not a consultant and does not ordinarily provide services like those he provided to Mr. Adams.  For his services, the reasonable value is an opportunity, not dollars.  The type of opportunity that represents the reasonable value of Mr. Burton’s services is the early investment opportunity that is described in the Complaint—that is, investing $100,000 in Uniswap at a $10 million valuation. See Complaint ¶ 30.  That value, as a damages figure representing the lost opportunity, is $100 million.  Id. ¶ 53.
+“The elements of a cause of action sounding in quantum meruit are (1) performance of services in good faith, (2) acceptance of services by the person to whom they are rendered, (3) expectation of compensation therefor, and (4) reasonable value of the services rendered.”  Evans-Freke v. Showcase Contr. Corp., 85 A.D.3d 961, 962 (2d Dep’t 2011).  Mr. Burton had pleaded each of these elements.  The Complaint identifies that he provided services in good faith (Complaint ¶ 20), that Mr. Adams accepted those services (id. ¶ 34), that Mr. Burton expected top be compensated for those services (id.), and the value of those services (id. ¶ 33).  
+Because Mr. Burton has pleaded the specific services he provided to Mr. Adams and the reasonable value of those services, his quantum meruit claim is adequately pleaded and should not be dismissed. 
+Even If Mr. Burton’s Claims Were Not Sufficiently Pleaded, Which They Are, Available Documents Warrant Leave to Replead.
+Although Mr. Burton maintains that he has pleaded his claims with sufficient detail, should the Court determine otherwise, Mr. Burton requests that he be provided the opportunity to replead to incorporate the term sheet and written communications identified in Paragraph 26 of the Complaint, which demonstrate the parties’ understanding of their agreement.  
+Leave to amend pleadings pursuant to CPLR 3025(b) “‘shall be freely given’ absent prejudice or surprise.”  McCaskey, Davies and Assoc., Inc. v. New York City Health & Hosps. Corp., 59 N.Y.2d 755, 757 (1983) (citations omitted); Raney v. Seldon Stokoe & Sons, Inc., 42 A.D.3d 617, 620 (3d Dep’t 2007) (because defendants did not allege surprise or prejudice, granting plaintiff leave to amend complaint was warranted); Nyahsa Services, Inc., Self-Ins. Tr. V. People Care Inc., 156 A.D.3d 99, 102 (3d Dep’t 2017) (joining the First, Second, and Fourth Departments in declining to require an evidentiary showing of merit on a motion to amend pleadings) (quotation and citations omitted).
+Here, leave to amend is warranted in the event that the Court decides that the parties’ Contract has not been alleged “in detail” because material available both to Mr. Burton and Mr. Adams will confirm the particulars of the parties’ agreement.  
+CONCLUSION
+For the foregoing reasons, Defendant Hayden Adams’ motion to dismiss should be denied in its entirety.  
+
+
+CERTIFICATE OF SERVICE
+I hereby certify that on July 29, 2021, I caused to be served a copy of Plaintiff Richard Burton’s Memorandum of Law in Opposition to Defendant Hayden Adams’ Motion to Dismiss via email addressed to the following:  
+
+
+
+-------
+
+Hayden & Richard receive a response from Hon. Larry D. Martin on 12/21/2021
+
+(FILED: KINGS COUNTY CLERK 12/21/2021 12:41 PM INDEX NO. 506967/2021
+NYSCEF DOC, NO, 24 RECEIVED NYSCEF: 12/21/2021
+
+SUPREME COURT OF THE STATE OF NEW YORK
+
+COUNTY OF KINGS |
+X
+RICHARD BURTON,
+Plaintiff, Index No. 506967/2021
+DECISION & ORDER
+: Hon. Larry D. Martin
+HAYDEN ADAMS,
+Defendant.
+>< i
+
+Plaintiff RICHARD BURTON commenced this action against Defendant HAYDEN
+ADAMS, founder and chief executive officer of Universal Navigation, Inc. (“Universal”), seeking
+i
+$100 million in damages for breach of contract, and, in the alternative, restitution for unjust
+enrichment sounding in quantum meruit in connection with Plaintiffs role in developing
+““Uniswap,’ a multi-billion-dollar . . . software and crypto¢urrency enterprise used to trade
+i
+cryptocurrency and digital assets.” Defendant moves to dismiss the complaint (Seq. No. 1)
+pursuant to CPLR § 3211. |
+Background |
+A. Cryptocurrency
+Each unit of cryptocurrency, “virtual or digital money,” is either called a “coin” or a
+“token.” Coins—the most notable of which is Biteoin—have a stated or discernible monetary
+value! The terms coins (or “convertible coins”) and “tokens” are often used interchangeably,
+
+|
+however, tokens are better thought of as “digital assets” that may “fluctuate in value as any
+
+commodity would.” Sec. and Exch. Commn. v Telegram Grp Ine., 448 F Supp 3d 352, 358 (SDNY
+
+'  § 9:14, Cryptocurrencies/Coins and SAFT's, Limited Offering Exemptions Reg. D § 9:14
+
+i
+
+1 of 8
+(FILED: KINGS COUNTY CLERK 12/21/2021 12:41 PM INDEX NO, 506967/2021
+NYSCEF DOC. NO. 24 : RECEIVED NYSCEF: 12/21/2021
+
+i
+
+2020). As a practical matter, both coins and tokens are cryptocurrency that "may be used to pay
+
+for goods or services[] or held for investment."?
+
+Cryptocurrencies operate, via a record-keeping technology called “blockchain,” which
+
+i
+
+conspicuously (i.e., viewable by anyone) and permanently stores every transaction. Bitcoin is just
+one of several cryptocurrencies. | Another cryptocurrency, “Ether,” operates on the “Ethereum”
+
+blockchain.
+
+Cryptocurrency transactions may occur directly between parties via “decentralized
+cryptocurrency exchanges” (DEX), which allow users to trade one cryptocurrency for another, or
+
+for traditional currencies such as US. dollars.3
+
+i
+i
+i
+
+B. Factual Background
+
+Since the Court is bound to accept the facts alleged in the complaint as true (Leon v
+Martinez, 84 NYS2d 83, 87, 614 NYS2d 972 [1994]), Plaintiff Burton is a software developer,
+designer and entrepreneur, and the founder of “Balance,” an Ethereum blockchain wallet startup.
+Defendant Adams is founder and CEO of “Uniswap,” a DEX software that improves the
+functionality of trading on the Ethereum platform. While Uniswap bills itself as the largest DEX
+on Ethereum, when the parties met in 2018, Uniswap was “little more than an idea.”
+
+Burton allowed Adams to Work on Uniswap daily in Balance’s offices, spending “countless
+hours in front of a whiteboard,” helping Adams think through the project and pitch the project to
+prospective investors, all in the hopes of financially benefitting. In addition to technical and design
+
+advice, Burton, knowing Adams was running low on funds, also supplied him $25,000 for software
+
+development, rent, and other costs.
+
+2 Internal Revenue Service, Virtual Currency Guidance, 2014-16 IRB 938, 2014 WL 1224474 (2014)
+3 Internal Revenue Service, Chief Counsel Advisory, IRS CCA 202124008, 2021 WL 2483863 (2021).
+
+2
+
+2 of 8
+(FILED: KINGS COUNTY CLERK 12/21/2021 12:41 PM) INDEX NO. 506967/2021
+NYSCEF DOC, NO, 24 RECEIVED NYSCEF: 12/21/2021
+
+Burton alleges that, “[a]s consideration for [Burton’s] assistance,” they agreed he would
+have the ability to be an early investor in Uniswap, and that, <pjut for” such agreement, Burton
+would not have provided the support that he offered to, and that was accepted by, Adams. It is
+undisputed that, at some point thereafter, Adams offered Burton a deal “a term sheet,” and that
+Burton confirmed his continued interest in investing, indicating he would only do so after Adams
+had found a “lead investor to set the terms and price the deal.” Burton thereafter financed Adams’s
+flight to San Francisco to “pitch Uniswap to Paradigm, a well-known blockchain focused venture
+i
+capital firm.” Paradigm went on to seed $1 million into Adams’s then still-unincorporated
+
+enterprise, now Universal, at a $10 million valuation.
+
+The Complaint alleges that, since then, and as a product of Burton’s assistance, Uniswap
+
+has seen a major increase in trading, processing over $110 billion in volume, and “increasing to
+
+the tune of more than $1 billion daily.”
+
+C. Arguments
+
+Burton argues the foregoing facts set forth a prima facie case that the parties entered an
+oral “contract,” whereby he would be given the opportunity to invest in Uniswap once it took a
+“concrete” form into which an investment could be made, and that this contract is supported by
+Adams’s assurances provided “in writing, in person and on voice-calls.” Burton commenced the
+instant action after Adams rejected his post-Paradigm $100,000 investment proffer, alleging
+breach of contract, or alternatively, unjust enrichment. Burton argues that $100 million is the
+
+reasonable value of his $25,000 cash and critical developmental support, enabling Adams to be
+
+enriched by hundreds of millions of dollars.
+
+3 of 8
+(FILED: KINGS COUNTY CLERK 12/21/2021 12:41 PM INDEX NO, 506967/2021
+NYSCEF DOC. NO. 24 RECELVED NYSCEF: 12/21/2021
+
+Adams disputes Burton’s characterizations and seeks to limit Burtons claim sounding in
+quantum meruit to $25,000 in addition to something akin to an hourly breakdown of the
+“reasonable value” of Burton’s services.
+
+| Discussion
+A. Contract Claim
+
+The elements of a cause of action for breach of contract are (1) formation of a contract
+between plaintiff and defendant, 2) performance by plaintiff, (3) defendant's failure to perform,
+(4) resulting damage (Riccio v Genworth Fin., 184 AD3d 590, 124 NYS3d 370 [2d Dept 2020]).
+The requirements for the formation of a contract are (1) at least two parties with legal capacity to
+contract, (2) mutual assent to the terms of the contract, and (3) consideration (Restatement
+[Second] of Contracts §§ 9, 12, 23). The first step in considering whether a contract was formed
+is to determine if there was a sufficiently definite offer such that its unequivocal acceptance would
+have given rise to an enforceable contract (Kolchins v Evolution Mkts., Inc., 31 NY3d 100, 73
+NYS3d 519 [2018]). This determination must be made looking to the objective manifestations of
+the parties’ intents (Utica Builders, LLC v Collins, 176 AD3d 897, 899, 110 NYS3d 49, 51-52 [2d
+Dept 2019}), bearing in mind that assent may take the form of written or spoken words (express
+contract) or conduct manifesting hgreement (contract implied-in-fact) (Miller v Schloss, 218 NY
+400, 113 NE 337 [1916]).* |
+
+As a general rule, if an acceptance is qualified with conditions, it is treated as a rejection
+
+and counteroffer (Roer v Cross Coty. Med. Ctr. Corp., 83 AD2d 861, 441 NYS2d 844 [2d Dept
+
+1981]). Specifically, where material terms are left for future negotiations, courts consider it merely
+
+4 A binding contract may also be formed by the oral acceptance of a written contract (Mor v Fastow, 32
+AD3d 419, 819 NYS2d 560 [2d Dept 2006]; Morton 's of Chicago/Great Neck LLC v Crab House, Inc.,
+297 AD2d 335, 746 NYS2d 317 [2d Dept 2002]).
+
+4
+
+4 of 8
+(PILED: KINGS COUNTY CLERK 12/21/2021 12:41 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 24 i RECEIVED NYSCEF: 12/21/2021
+
+i
+
+an agreement to agree and, therefore, unenforceable (4/0 BPR Corp. v Chmelecki Asset Mgmt.,
+Inc., 51 AD3d 715, 859 NYS2d 209 [2d Dept 2008]). This is true when an agreement contains
+open terms, calls for future approval, and expressly anticipates future preparation and execution
+of contract documents (Carmon v Soleh Boneh Ltd., 206 AD2d 450, 450, 614 NYS2d 555, 556
+[2d Dept 1994]). There, courts operate with a strong presumption against finding a binding and
+
+enforceable obligation (id).
+
+Here, Plaintiff alleges that the parties agreed that he would be given the opportunity to
+invest in Uniswap, if, when, or once Uniswap “took a concrete form into which investment could
+be made.” Accordingly, any purported “agreement” was unenforceable because it was qualified
+with conditions, devoid of material terms, expressly anticipating future approval, preparation, and
+
+i
+execution of contract documents. The Court, therefore, finds that the parties do not have a binding
+and enforceable contract. |
+
+To the extent that Plaintiff maintains that agreement was supported by Defendant’s
+
+t
+
+assurances provided “in writing, in person and on voice-calls,” New York’s “Statute of Frauds,
+
+i
+
+codified in General Obligations Law Sections 5-701 and 5-703, provides, with many exceptions,
+
+that certain agreements, promises, or undertakings are void unless in writing. Most relevant here,
+
+section 5-701(a) applies the Statute of Frauds to “a contract to pay compensation for services
+
+rendered in negotiating a . . . business opportunity, business, i . .or-an. interest therein... .”5
+
+Accordingly, such writings are material. Here, however, the only writings referenced are. the
+
+|
+
+> Inacommercial context, courts sometime look at partial performance as an indicia of an agreement even
+without writing, and indeed, New York’s Commercial Code, dealing with transactions between
+merchants, has a specific section addressing the practical business reality of transactions between a
+buyer and a seller (see § 2-201). Plaintiff has not suggested, however, that the underlying transaction
+was between commercial entities. ;
+
+5 of 8
+(FILED: KINGS COUNTY CLERK 12/21/2021 12:41 PM INDEX NO, 506967/2021
+NYSCEF DOC. NO. 24 RECELVED NYSCEF: 12/21/2021
+
+foregoing term sheet and emails, which, for the reasons previously stated, do not suggest the
+existence of a contract.
+B. Duplicative Claim
+Contrary to Defendant’s allegations, it is well established that quasi contract and breach of
+contract claims may be pleaded jointly and that a party is not precluded from proceeding on both
+breach of contract and quasi-contractual theories where there is a bona fide dispute as to the
+existence of a contract (see Polley v Plainshun Corp., 8 AD2d 638, 186 NYS2d 295 [2d Dept
+1959]; Krigsfeld v Feldman, 115 AD3d 712, 982 NYS2d 487 [2d Dept 2014]; AHA Sales, Inc. v
+Creative Bath Products, Inc., 58 AD3d 6, 867 NYS2d 169 [2d Dept 2008]). The action is
+predicated on an obligation the law creates precisely in the absence of an agreement (Pappas v
+Tzolis, 20 NY3d 228, 958 nvs2d 656 [2012]; Goldman v Metro. Life Ins. Co., 5 NY3d 561, 807
+NYS2d 583 [2005]; Georgia Malone & Co., Inc. v Rieder, 19 NY3d 511, 950 NYS2d 333 [2012]).
+C. Quantum Meruit |
+In order to make out a claim in quantum meruit, a plaintiff must establish (1) the
+performance of the services in good faith, (2) the acceptance of the services by the person to whom
+they are rendered, (3) an expectation of compensation, and (4) the reasonable value of the services
+(Miranco Contracting, Inc. v Perel, 57 AD3d 956, 871 NYS2d 310 [2d Dept 2008]; Tesser v
+Allboro Equip. Co., 302 AD2d 589, 590, 756 NYS2d 253, 254 [2d Dept 2003]; Geraldi v Melamid,
+212 AD2d 575, 622 NYS2d 742 [2d Dept 1995]).
+Here, the pleadings are clearly sufficient to establish three of the four foregoing elements of
+quantum meruit for purposes of defeating the motion, i.e., (1) the performance of the services in
+
+good faith, (2) the acceptance of the services by the person to whom they are rendered, and (3) an
+
+expectation of compensation. What remains less clear is the proper standard for calculating the
+
+6 of 8
+(FILED: KINGS COUNTY CLERK 12/21/2021 12:41 PM INDEX NO, 506967/2021
+NYSCEF DOC. NO. 24 . : RECEIVED NYSCEF: 12/21/2021
+
+“reasonable value of the services” within the context of a quantum meruit claim, and, specifically,
+when and whether “other factors,” such as the amount of a defendant's enrichment should be
+considered where, as here, there is no claim of misconduct, malfeasance, or statutory violation. In
+the interest of justice, both sides should be afforded an opportunity to brief this Court on that issue.
+
+Accordingly, Defendant’s motion to dismiss (Seq. No. 1) is granted solely to the extent of
+granting both sides until January 16, 2022 to submit one further affirmation or memorandum of
+law, narrowly focusing on arguments as to the proper standard of calculating the “reasonable value
+of the services” with respect to a quantum meruit claim where no claim of misconduct,
+
+malfeasance, or violation of a statue has been made.
+
+Dated: | December 17, 2021
+
+‘Hon. Larry D. Martin, J.S.C.
+
+_ HON. LARRY MARTIN
+JUSTICE OF THE SUPREME COURT
+
+7 of 8
+(FILED: KINGS COUNTY CLERK 12/21/2021 12:41 PM INDEX NO, 506967/2021
+NYSCEF DOC. NO. 24 RECEIVED NYSCEF: 12/21/2021
+
+8 of 8
+
+
+------
+
+Hayden & Richard receive a Decision Order from Hon. Larry D. Martin on 05/20/2022
+
+INDEX NO. 506967/2021
+NYSCEF DOC. NO. 37 : RECEIVED NYSCEF: 05/20/2022
+
+SUPREME COURT OF THE STATE OF NEW YORK
+
+COUNTY OF KINGS
+
+ween eee eee = wees nnn encnnsen ei
+RICHARD BURTON,
+
+Plaintiff, ; Index No. 506967/2021
+
+¥,
+DECISION & ORDER
+Hon. Larry D. Martin
+
+HAYDEN ADAMS,
+
+Defendant.
+
+waueunen panne _— we
+
+Plaintiff RICHARD BURTON cormenced ‘this action against Defendant HAYDEN
+ADAMS, founder aiid chief executive officer of Universal Navigation, Inc. (“Universal”) seeking
+$100 millton in damagés for breach of contract or restitution for unjust enrichmerit sounding in
+quantun meruif in connection with Plaintiff's role in developing “Uniswap,” a multi-billion-dollar
+software used, to trade cryptocurrency and digital assets on possibly the largest erypto-asset
+exchange inthe world. Defendant moved to dismiss the complaint pursuant to CPLR § 3211. By
+December 17, 2021 interim decision (the “Interim Decision”),! this Court found that Plaintiff failed
+to set forth a prima facie breach of contract cause of action, but had set’ forth three of the four
+requisite elements of a prima facie cause of action for unjust enrichment and/or quantum meruit.
+The fterim Decision granted the parties leave: to brief ihe Court on the proper measure of
+calculating the value of services in unjust. enrichment and/or quantum meruit cases involving
+eryptocurrency startups, ‘particularly where, as here, no misconduct, malfeasance. or ‘statutory:
+violation is alleged, ije., whether there is a clear arid accepted tnarket-place conveition for valumg.
+
+such services beyond reasonable hourly rate. Now,:the case.is decided as follows.
+
+| 2021 NY Slip Op 32745
+
+1 of 8
+INDEX NO. 506967/2021
+NYSCEF DOC. NO. 37 ; RECEIVED NYSCEF: 05/20/2022
+
+Background
+A. €ryptocurtency
+
+Each unit of cryptocurrency, “virtual or digital money,” is. either called a “coin” or a
+“token.” The terms coins (or “convertible coins”} and “tokens” are often used interchangeably,
+however, while coins - the most notable of which is Bitcoin - have a stated or discernible monetary
+value;* by contrast,-tokens are better thought of as “digital assets” that “fluctuate in value as any
+comniodity, would.” Sec. & Exeh, Commn. v. Telegram Grp Inc., 448 F Supp-3d 352, 358 (SDNY
+2020). As a practical matter, both coins and tokens are eryptocurrency that "nay be used to pay
+for goods or’services[ ] or held for investment."4
+
+Cryptocurrencies operate via a record-keeping technology called “blockchain,” which
+conspicuously (ie., viewable by anyone) and permanently stores every transaction, The
+blockchain mechanism allows for the use. of crypto-assets as secure stores of value and media of
+exchange that do not. rely on a centralized government or singular conirol. Cryptocurrency-
+transactions may occur directly bétween parties via “decentralized eryptocurrency exchanges”
+(DEX), which ‘allow users to trade: one’ cryptocutrericy for another, or for traditional currérictes
+such as U.S. dollars.4
+
+Bitcoin, the first and most popular cryptocurency. is an example of a crypto-asset that
+serves primarily as a medium of exchange. Ether,” another popular crypto-asset, “operates on
+Ethereum. which is a different blockchain from Bitcoin, and has some additional features, but
+
+otherwise functions similarly,
+
+§ 9:14, Cryptocurrencies/Coins and SAFT's, Limited Offering Exemptions Reg. D § 9:14.
+
+Internal Revenue Service, Virtual Currency Guidance, 2014-16 IRB 938, 2014 WL 1224474 (2014).
+Internal Revenue ‘Service; see.also! ln re Bibox Group Holdings Limited Seéeurities Litigation, 534 F
+Supp3d.326 (SDNY 2021). ,
+
+= iw Ba
+
+2 of 8
+INDEX NO. 506967/2021
+NYSCEF DOC. NO. 37 ; RECEIVED NYSCEF: 05/20/2022
+
+B. Factual Background.
+
+As the Court.is bound to accept the facts alleged by the non-moving party as true, for
+purposes of the CPLR § 3211 dismissal motion (/F Capital Advisors, LLC v Lightstone:Group,
+LLC, 25 NY3d.759, 762, 16 NYS3d 222 citing Leon v.Martinez, 84 NYS2d 83, 87,614 NYS2d
+972 [1994)), Plaintiff Burton is‘a. software developer, ‘designer and entrepreneur, and the founder
+‘of “Balance,” an Etheréum blockchaii wallet startup. Defendant Adams is fourider and CEO of
+“Uniswap,” a DEX software that “improves the functionality” of trading on. the Ethereum
+blockchain’s.platform. While Uniswap is currently the largest DEX on Ethereum, when the.parties
+met. in-2018, Uniswap was “little more than an idea.” Burton loaned Adams money and office
+space. within Balance’s offices to support Adams in creating Uniswap, including: “technical and
+design advice,” and $25,000 for software-development, rent, and other costs.
+
+As consideration for Burton’s assistance, the parties corally agreed that Burtom would be
+given the.option.to be an early investor-in Uniswap, and, but for that oral agreement, Burton would
+not have provided the support that Adams relied upon:
+
+At some point, Adams offered Burton a deal “term sheel,” however, while Burton
+confirméd his continued interest in investing, he indicated he would now only do-so after Adams
+had found a “lead investor to set'the terms aiid price the deal.” Burton thereafter financed Adams’s
+flight to San Francisco t6 “pitch Uniswap:toe Paradi gm,” a well-known blockchain-focused venture
+capital firm. Paradigm went on to seed $1 million into Adams’s. then-still-unincorporated
+enterprise, now Universal, which, at the time of briefing, was valued at.$10 million. Since then,.
+Uniswap has seen a major increase in trading, processing over $110 billion in volume, and
+
+“increasing to the tune of more than $1 billion daily.”
+
+3 of 8
+INDEX NO. 506967/2021
+NYSCEF DOC. NO. 37 ; RECEIVED NYSCEF: 05/20/2022
+
+Analvsis
+A. Contract Claim
+
+As noted in the Jnterim Decision, the basic requirements for contract:formation are (1) at
+least two parties with legal capacity te contract, (2) mutual assent to. the terms ofthe contract, and
+(3) consideration (Restatement [Second] of Contracts §§ 9, 12,23). The basic elements of a breach.
+of contract cause of action are (1) formation of a contract between plaintiff and defendant, (2)
+performance by plaintiff, (3).defendant’s failure to perform, (4) resulting damage (Riccio p
+Genworth Fin., 184 AD3d 590,.124:NYS3d.370 [2d Dept 20201).
+
+In analyzing the first step, the parties’ legal capacity to contract, this Court accepted the
+Burton’s statement that the parties reached an “oral agteement,” bearing in mind that assent to
+such an agreement may: také. the forin of written or spoken words (express contract) or conduct:
+manifesting agreement (contract implied-in-fact) (Miller v Schloss, 218 NY 400, 113 NE 337
+[1916]). Thus, an oral agreement can be enforceable as long as the terms are cleat and definite
+and the conduct of the parties evinces mutual assent "sufficiently definite to assure that the parties
+are truly in agreement with respect.to all material terms" (Matter of Express Indus. & Term, Corp.
+‘y New York State Dept. of Transp., 93 NY2d 584, 589 [1999]), A contract also may be implied
+where inferences can be drawn from the facts and circumstances of the case and the intention ‘of
+the parties as indicated by their conduct. However, not all terms of a contract need be fixed with
+absolute. certainty. Thus, the.doctrine of indefinitenese should not be used to "defeat the reasonable
+expectations of the parties in entering into the contract" (Cobble Hill Nursing Home v Henry &
+Warren Corp., 74 NY¥2d 475, 483 [1989], cert denied 498 US 816 [1990]). Where "there may exist.
+an objective method for supplying the missing terms heeded to calculate the alleged compensation
+
+owed plaintiff,"-an oral agreement is not; as’a matter of law, unenforceable for indefiniteness (see,
+
+4 of 8
+INDEX NO. 506967/2021
+NYSCEF DOC. NO. 37 RECEIVED NYSCEF: 05/20/2022
+
+e.g. Basu v Alphaber Mgt. LEC, 127 AD3d 450, 450 [ist. Dept 2015]; Abrams Realty Corp. v
+Ele, 279 AD2d 261 [Ist Dept 2001], fy denied 96 N.Y.2d 745 [2001)).
+
+The /nferim Decision noted, however, that when, as here; acceptance. is expressly qualified
+with conditions, it is generally treated as either a rejection and counteroffer or an agreement to
+agree. (Roer v Cross Catv. Méd. Ctr. Corp., 83 AD2d 861, 441 NYS2d 844 [2d Dept 1981]; 470.
+BPR Carp. v Chmelecki Asset Mem, ine., 51 AD3d7 15, 859 NYS2d 209 [2d Dept 2008): Carmon
+v Soleh Boneh Ltd., 206 AD2d 450, 450, 614 NYS2d 555, 556 [2d Dept 1994]). Thus, this Court.
+concluded that, even if the parties initially reached what could have been an enforceable: oral
+contract, Burton rejected that agreement by declining ‘the ptoposed term sheet unless and until
+Adams found a lead investor to set the: term: The question then became whether a second
+eriforceabie express otal contract was formed thereafter, i¢.,, of whether the parties’ course of
+conduct manifested a new implied-in-fact contract when Adams accepted Burton's financed flight
+te San Francisco to “pitch Uniswap to Paradigm.”
+
+This-Court now finds that even if such conduct suggested.a potential new implied-in-fact
+agreement, that new agreement would again be too indefinite to give rise to an enforceable
+contract. There has. been no suggestion that Plaintiff will ‘be able, after discovery, to show proof
+of key material terms, and it would agaiti anticipate future approval, preparation and execution of
+documents. ‘In brief, Plaintiff has-provided no hint of a prospective basis or standard for deciding
+whether the-agreement had been kept or broken, or to fashion a remedy. (Kofchins v Evolution
+Mkts, Inc., 3.1 NY3d 100, 73 NYS3d 319 [2018]; Foros Advisor LLC y Digital Globe, Inc. 333 F
+Supp3d 354, 360 [SDNY 2018]; 7. Groppa Pools, Ine. y Massello, 106 AD3d 722, 712 [2d Dept
+
+2013]; Schuckman Realty v Marine Midland Bank, 244 .D2d_400,.401 [2d Dept 1997)]).
+
+5 of 8
+INDEX NO. 506967/2021
+NYSCEF DOC. NO. 37 ; RECEIVED NYSCEF: 05/20/2022
+
+B. ‘Statute of Frauds and the
+Doffman Exceptiori
+
+Adams further argued.that contract formation was. prohibited by New York's “Statute of Frauds,”
+codified in General Obligations Law Sections 5-701 and 5-703, which provides, with many exceptions, that
+cerlain agreements, promises, or undertakings are void unless in writing, Section 5-701(a) applies the
+Statute of Frauds to “a contract to. pay compensation for services rendered in negotiating a... business:
+opportunity, business, ... or an friterest therein ..:” Burton argues, however, that he also “spent countless
+hours in front-of a whiteboard” providing Adams with “technical and design advice” when “the Uniswap
+protocol and project were still in proof'of concept form.”
+
+In Dorfinan v Refki, 144 AD 34 10, 16, 19 ¢ Ist Dept 2016) (“Dorfman”), the First Department
+noted that the services therein, where not merely “developing: materials. to secure investor backing,
+recruiting engineers,” but further “develop[ed] the details of how [the company’s] software. . . would be
+‘architected,”” and accordingly found that. they consisted of more thar just assisting in the negotiation or
+corisuimmation of the business opportunity. ‘Thus, the First Department ruled that the oral agreement therein:
+was not void pursuant to Section 5-701 (ay(l 0). |
+
+Here, however, even ‘if the Derfinan exception applied, and the agreement was not void per se
+pursuant to. New York’s “Statute. of Frauds, i¢ would still suffer fiom the same uncertainty. and. rejection-
+of-offer-issues that precluded it from being deemed an enforceable contract.
+
+C. Unjust Enrichment, Quantum Meruit, and
+Reasonable Value of Services.
+
+Under New York law, guaritum meruit.and unjust enrichment are not separate causes of
+action and are therefore andlyzed under the same principles (Assoc. Morte. Bankers, Inc. v
+Calcon Mut. Morte. LEC, 159 F Supp 3d 324, 33 7 [EDNY 2016]. As noted in the Juterim
+Decision, inorder to set forth acclaim in quantum meruil, a plaintiff must establish (1) the
+performance of the services in good faith, (2) the acceptance of the services by the person:to
+
+whont they are renderéd, (3) an éxpectation of compensation, anid (4) the reasonable value of the
+
+6 of 8
+INDEX NO. 506967/2021
+NYSCEF DOC. NO. 37 : RECEIVED NYSCEF: 05/20/2022
+
+services (see, e.g., Mirance Contracting, Inc, v Perel,’57 AD3d 956, 871 NYS2d 310 [2d Dept
+2008); Geraldi y-Melamid, 212 AD2d 575, 622 NYS2d 742 [2d Dept 1995]; Tesser v Allboro:
+Equip. Co., 302 AD2d 589, 590, 756 NYS2d 253, asd [2d Dept 2003]. An unjust enrichment
+claims rooted in “the equitable principle that a person shall not be-allowed to enrich himself
+unjustly-at the expense of another” (Miller v Schloss, 218 N.Y. 400, 407, 113 N.E. 337 [1916]),
+and a viable claim merely tequires that the plaintiff allege “that (1) the other party was enriched,
+(2) at.that party's expense, and.(3) that it is against equity and good conscience to permit the
+other party to retain what is sought to be recovered” (Mandarin Trading Lid. v Wildenstein, 16
+NY3d 173, 182, 919 NYS2d 465. The Jnterim Decision noted that the pleadings herein were
+sufficient to establisti the first three of those-elements of an unjust enrichment claim, at least for
+purposes of defeating the instant dismissal motion, but granted the parties leave to brief the issue.
+of calculating the “reasonable value of services” in connection with assisting.a cryptocurrency
+startup, with respect to unjust enrichment and. quantum meruit claims.”
+
+Without a contract to govern. the terms of payment for services, Adams argues that the
+measure of compensation is generally.based.on a reasonable hourly rate multiplied by the number
+of hours of services (see; ¢.g., Carlino v Kaplan. 139 F Supp2d 563, 566 [SDNY 2001]; Wong v.
+Michael Kennedy, P.C., 853 F Supp 73, 81-82 [EDNY 1994]. There are, however, exceptions.
+where, even absent a.contract, industry conventions dictate that the value of sérvices may be based
+
+upon the value of the product. The question presented was whether the facts and/or industry
+
+5 The Interim Decision rejected Defendant argument that Plaintiff could not plead quasi contract and breach
+of contract in the alternative, where as here there is a bora fide disputé as to the existence of a contract
+(Polley v Plainsinin Corp., 8. AD2d 638, 186 NYS2d 295 [2d Dept 1959]; Krigsfeld v Feldman, 115 AD3d.
+712, 982 NYS2d 487 [2d Dept 2014]; 444 Sales, Ine. v Creative Bath. Products, Ine., 58 AD3d 6, 867
+NYS2d 169 [2d Dept 2008]).
+
+7 of 8
+INDEX NO. 506967/2021
+NYSCEF DOC. NO. 37 ; RECEIVED NYSCEF: 05/20/2022
+
+conventions within the start-up field, or perhaps more. specifically emerging cryptocurrency field,
+where-vast fortunes may be made or lost, warrant such an exception.
+
+At stake is the'difference between the Complaint’s allegations of Burton’s ‘provision of services”
+and funds totaling $25,000, versus his claim for $100 million in “restitution” under unjust enrichment or
+quantum meruit theories. There remains a question of fact whether the “reasonable value” of services
+should be limited to a calculation based upon hours and costs purportedly spent (Collins Tuttle -& Co. v.
+Leucadia, inc., 153 AD2d: 526,526. [1st Dept 1989]; Hindsight Sots., LEC v-Citigtoup Inc., 53. F Supp 3d
+747, 776-77 [SDNY 2014]; Caribbean Direct, inc. v Dubset ELC, 100 A.D3d 510, 511 [1st Dept 2012]),.
+or whether in fact industry standards, and/or the parties discussions or conduct reflects some other
+reasonable value of services. The parties will procéed with discovery on this narrowed issue. Burton
+argues that $100-million is the’ reasonable value of his roughly $25,000 in cash. and. critical
+developmental support. The parties: shall proceed with discovery. on that issue of whether their
+industry and/or their communications or conduct support a finding consistent or inconsistent with
+that argument.
+
+Dated: May 20,2022
+
+“,
+5
+
+“Hon. Larry D. Martin. US.C.
+
+HON. LARRY MARTIN
+JUSTICE OF THE GLiMttIME COURT
+
+8 of 8
+
+
+------
+
+Hayden Adams responds with Brian Klein on 08/20/2021
+
+Brian E. Klein
+Scott M. Malzahn (pro hac vice application pending)
+Jose R. Nuño (pro hac vice application pending)
+Chloe N. George
+WAYMAKER LLP
+777 S. Figueroa St., Suite 2850
+Los Angeles, California 90017
+Telephone: (424) 652-7800
+Facsimile: (424) 652-7850
+bklein@waymakerlaw.com
+smalzahn@waymakerlaw.com
+jnuno@waymakerlaw.com
+cgeorge@waymakerlaw.com
+John G. Balestriere
+Mandeep S. Minhas
+BALESTRIERE FARIELLO
+225 Broadway, 29th Floor
+New York, New York 10007
+Telephone: (212) 374-5401
+Facsimile: (212) 208-2613
+john.balestriere@balestrierefariello.com
+mandeep.minhas@balestrierefariello.com
+Attorneys for Defendant Hayden Adams
+SUPREME COURT OF THE STATE OF NEW YORK
+COUNTY OF KINGS
+RICHARD BURTON,
+Plaintiff,
+– against –
+HAYDEN ADAMS,
+Defendant.
+Index No. 506967/2021
+DEFENDANT HAYDEN
+ADAMS’S REPLY BRIEF IN
+SUPPORT OF MOTION TO
+DISMISS THE COMPLAINT
+PURSUANT TO CPLR 3211
+FILED: KINGS COUNTY CLERK 08/20/2021 04:36 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 23 RECEIVED NYSCEF: 08/20/2021
+1 of 17
+i
+TABLE OF CONTENTS
+PRELIMINARY STATEMENT ..............................................................................................1
+ARGUMENT...........................................................................................................................3
+I. Burton’s Breach of Contract Claim Should Be Dismissed ...................................3
+A. The “Oral Contract” Alleged in Paragraph 17 Is an Unenforceable
+Agreement to Agree..............................................................................................3
+B. Burton’s Other Allegations Fail to Establish the Existence of an Agreement
+or a Breach .............................................................................................................5
+C. Burton Concedes that the Statute of Frauds Bars Any Contract Claims Based
+on Plaintiff’s “Know How” or “Know Who” .....................................................7
+II. Burton’s Equitable Claims Should Be Dismissed ......................................................9
+A. Burton’s Request for Contract Damages Leaves No Doubt He is Using the
+Unjust Enrichment and Quantum Meruit Claims in an Attempt to Enforce
+an Unenforceable Contract ...................................................................................9
+B. Burton Has Not Sufficiently Alleged the “Services” that He Performed ....... 11
+III. The Court Should Deny Burton Leave to Amend ................................................... 11
+CONCLUSION ..................................................................................................................... 12
+FILED: KINGS COUNTY CLERK 08/20/2021 04:36 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 23 RECEIVED NYSCEF: 08/20/2021
+2 of 17
+ii
+TABLE OF AUTHORITIES
+Page(s)
+Cases
+25 Bay Area Terrace Ass’ns v. Pub. Serv. Mut. Co,
+144 A.D.3d 665 (2d Dep’t 2016) ....................................................................................... 12
+Akerson Advertising & Marketing, Inc. v. St. John & Partners Advertising,
+89 F. Supp. 3d 341 (N.D.N.Y. 2015) ................................................................................. 10
+Balco Development Corp. v. Peters,
+276 A.D.2d 729 (2d Dep’t 2000) ......................................................................................... 3
+Brembo, S.P.A. v. T.A.W. Performance LLC,
+176 A.D.3d 535 (1st Dep’t 2019) ......................................................................................... 4
+Caribbean Direct, Inc. v. Dubset, LLC,
+100 A.D.3d 510 (1st Dep’t 2012) ....................................................................................... 10
+Citibank, National Association v. London,
+526 F. Supp. 793 (S.D. TX 1981) ......................................................................................... 4
+Collins Tuttle & Co. v. Leucadia, Inc.,
+153 A.D.2d 526 (1st Dep’t 1989) ....................................................................................... 10
+Desilva v. North Shore-Long Island Jewish Health System, Inc.,
+770 F. Supp. 2d 497 (E.D.N.Y. 2011) ................................................................................ 11
+Dionisio v. George De Rue Contractors, Inc.,
+38 A.D.3d 1172 (4th Dep’t 2007) ...................................................................................... 12
+Doller v. Prescott,
+167 A.D.3d 1298 (3d Dep’t 2018) ................................................................................. 9, 10
+Dorfman v. Refkin,
+144 A.D.3d 10 (1st Dep’t 2016) ........................................................................................... 8
+Foros Advisor LLC v. Digital Globe, Inc.,
+333 F. Supp. 3d 354 (S.D.N.Y. 2018) .................................................................................. 4
+Grasso v. Donnelly-Schoffstall,
+No. 1:20-CV-521 (LEK/DJS), 2021 WL 1224052 (N.D.N.Y. Mar. 31,
+2021) ..................................................................................................................................... 6
+FILED: KINGS COUNTY CLERK 08/20/2021 04:36 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 23 RECEIVED NYSCEF: 08/20/2021
+3 of 17
+iii
+Hindsight Sols., LLC v. Citigroup Inc.,
+53 F. Supp. 3d 747 (S.D.N.Y. 2014) .................................................................................. 10
+Kunica v. St. Jean Financial, Inc.,
+No. 97 CIV. 3804 (RWS), 1998 WL 437153 (S.D.N.Y. Aug. 3, 1998) ................................ 4
+McNeary v. Niagara Mohawk Power Corp.,
+286 A.D.2d 522 (3d Dep’t 2001) ......................................................................................... 7
+Moses v. Savedoff,
+96 A.D.3d 466 (1st Dep’t 2012) ......................................................................................... 10
+Municipal Grocery Stores, Inc. v. Eastern Milk & Cream Co., Inc.,
+233 A.D. 764 (2d Dep’t 1931) ............................................................................................. 4
+New York Military Academy v. New Open Group,
+142 A.D. 3d 489 (2d Dep’t 2016) ........................................................................................ 5
+Schuckman Realty v. Marine Midland Bank,
+244 A.D.2d 400 (2d Dep’t 1997) ......................................................................................... 7
+Scott v. Bell Atlantic Corp.,
+282 A.D.2d 180 (1st Dep’t 2001) ....................................................................................... 12
+Skillgames, LLC v. Brody,
+1 A.D.3d 247 (1st Dep’t 2003)............................................................................................. 8
+Startech, Inc. v. VSA Arts,
+126 F. Supp. 2d 234 (S.D.N.Y. 2000) .................................................................................. 4
+V. Groppa Pools, Inc. v. Massello,
+106 A.D.3d 722 (2d Dep’t 2013) ......................................................................................... 7
+FILED: KINGS COUNTY CLERK 08/20/2021 04:36 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 23 RECEIVED NYSCEF: 08/20/2021
+4 of 17
+1
+PRELIMINARY STATEMENT1
+Plaintiff Richard Burton (“Burton”) is disgruntled that he chose not to invest
+early in a company that turned out to be a great financial success and seeks to use the
+court system to go back in time to create an investment contract that does not exist.
+Despite being unable to allege facts in the Complaint to establish the existence of an
+agreement with defendant Hayden Adams (“Adams”), Burton argues that he is entitled
+to a “lost opportunity” contract-based measure of damages worth around $100 million
+under all three of his claims for breach of contract, unjust enrichment and quantum
+meruit. Yet, Burton has not identified specific facts in his opposition that would
+establish the existence of an enforceable agreement, nor does the law permit Burton to
+use quasi-contract claims to obtain contract-based damages.
+Burton’s first claim for breach of contract claim fails because he has not alleged
+that the parties reached agreement on definite and certain contract terms. The “oral
+contract” pleaded in Paragraph 17 of the Complaint – i.e., that Burton promised to
+provide “assistance” and Adams promised to give Burton an “ability to be an early
+investor” – is too vague to enforce and leaves material terms such as the exact timing of
+any investment and a purchase price open for future negotiations. Burton does not
+contend otherwise. Instead, in an attempt to establish that the parties reached an
+enforceable agreement, Burton’s opposition cobbles together scattered factual
+1 All capitalized terms are defined in the Memorandum of Law in Support of
+Defendant’s Motion to Dismiss the Complaint, Dkt. No. 11 (the “Opening Brief”). Some
+terms are redefined herein for the Court’s convenience.
+FILED: KINGS COUNTY CLERK 08/20/2021 04:36 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 23 RECEIVED NYSCEF: 08/20/2021
+5 of 17
+2
+allegations from events that took place after there was a supposed agreement. (See
+Opposition (“Opp.”), Dkt. No. 13 at 6 (citing Compl. ¶¶ 26, 30).) Even then, the
+Complaint still fails to plead facts showing that the parties reached agreement on when
+Burton would be able to invest, a purchase price, and other essential terms.2 The
+Complaint does not describe the terms of the unsigned term sheet that Adams allegedly
+gave to him, does not allege that Adams agreed that Burton could wait until a lead
+investor was found to jump on the train and invest himself, and does not allege how a
+lead investor would set the terms and price of a deal between Burton and Adams. As
+the authority in Adams’ Opening Brief establishes (which Burton largely ignores), the
+Complaint’s allegations are legally insufficient to establish the existence of an
+enforceable agreement or a breach.
+Burton’s quasi-contract claims for unjust enrichment and quantum meruit also
+fail. Though a “plaintiff is entitled to plead inconsistent causes of action in the
+alternative” (Winick Realty Grp. LLC v. Austin & Assocs., 51 A.D.3d 408, 408 (1st Dep’t
+2008) (italics added)), this rule does not permit a plaintiff, like Burton, to use equitable
+causes of action as a vehicle to duplicate a legal claim for breach of contract. But that is
+what Burton seeks to do here. Burton improperly attempts to use equitable doctrines to
+enforce an otherwise unenforceable agreement to agree. (See, e.g., Compl. ¶¶ 33, 44, 49,
+53; Opp. at 11.) And rather than limit his purported damages to the reasonable value of
+2 Among other things, Burton— presumably attempting to keep his options open— still
+does not state in his opposition if Adams promised him shares in a future company or if
+he was promised tokens or other digital assets associated with the Uniswap technology.
+Nor does Burton identify any other interests or rights that he was or was not promised.
+FILED: KINGS COUNTY CLERK 08/20/2021 04:36 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 23 RECEIVED NYSCEF: 08/20/2021
+6 of 17
+3
+his services, Burton admits that he seeks a “lost opportunity” contract-based measure of
+damages totaling $100 million based on the exact same facts as his contract claim. (See
+Opp. at 11 (asserting that the “reasonable value of Mr. Burton’s services is the early
+investment opportunity that is described in the Complaint—that is, investing $100,000
+in Uniswap at a $10 million valuation”).) As pleaded, Burton’s claims for unjust
+enrichment and quantum meruit merely duplicate his contract claim and should be
+dismissed.
+Nothing Burton has argued salvages the Complaint. This Court should dismiss
+it in its entirety and not permit leave to amend.
+ARGUMENT
+I. Burton’s Breach of Contract Claim Should Be Dismissed
+Burton has not met his burden of alleging the existence of an enforceable contract
+with “sufficiently certain and specific” terms. See Balco Dev. Corp. v. Peters, 276 A.D.2d
+729, 729 (2d Dep’t 2000) (citations omitted). Regardless of the contract theory, Burton
+has failed to adequately allege an agreement or a breach.
+A. The “Oral Contract” Alleged in Paragraph 17 Is an Unenforceable
+Agreement to Agree
+Burton has not alleged in the Complaint – and does not argue in his opposition –
+that the parties reached an agreement on specific contract terms in the spring of 2018
+when they allegedly made the oral contract. Even assuming Burton promised at that
+time to provide “assistance” and Adams promised to give Burton an “ability to be an
+early investor” (Compl. ¶ 17), those promises are far too vague and indefinite to enforce
+FILED: KINGS COUNTY CLERK 08/20/2021 04:36 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 23 RECEIVED NYSCEF: 08/20/2021
+7 of 17
+4
+in court. See, e.g., Brembo, S.P.A. v. T.A.W. Performance LLC, 176 A.D.3d 535, 536 (1st
+Dep’t 2019); Kunica v. St. Jean Financial, Inc., 1998 WL 437153, *6 (S.D.N.Y. Aug. 3, 1998)
+(claim for breach is insufficient when the complaint “is silent with respect to the amount
+of stock options [plaintiff] is to be awarded, the exercise price of the stock options or the
+date on which [plaintiff] could exercise the options.”)
+Burton does not seriously debate this, but instead, asserts the red herring
+argument that he did plead “the kinds of support that Mr. Burton provided to Mr.
+Adams in the form of advice and money[.]” (See Opp. at 6.) But the Complaint’s
+allegations that Burton provided Adams with money and other assistance do not
+establish the existence of a contract – i.e., a legally enforceable promise to provide that
+support.3 The Complaint nowhere alleges that the parties bargained over and reached
+agreement on the scope of Burton’s services in the spring of 2018 or at any other time,
+rendering it hopelessly vague. The Complaint’s vague and indefinite promises to
+“provide assistance” in Paragraph 17 do not provide any “basis or standard for
+deciding whether the agreement had been kept or broken, or to fashion a remedy” and
+thus are legally insufficient to state a claim for breach of contract. See Foros Advisor LLC
+v. Digital Globe, Inc., 333 F. Supp. 3d 354, 360 (S.D.N.Y. 2018).
+3 At most, the Complaint may establish that the parties exchanged gratuitous promises,
+which are not legally enforceable. See Startech, Inc. v. VSA Arts, 126 F. Supp. 2d 234,
+236–37 (S.D.N.Y. 2000) (“when it is clear from the face of the pleading and terms of the
+contract that a promise is gratuitous, the complaint will be dismissed”); Citibank, Nat’l
+Assoc. v. London, 526 F. Supp. 793, 803 (S.D. TX 1981) (“in order for a promise to be
+enforceable as a contract, the promise must be supported by valid consideration”);
+Municipal Grocery Stores, Inc. v. Eastern Milk & Cream Co., Inc., 233 A.D. 764 (2d Dep’t
+1931) (a promise or performance of a clearly gratuitous act is not good consideration).
+FILED: KINGS COUNTY CLERK 08/20/2021 04:36 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 23 RECEIVED NYSCEF: 08/20/2021
+8 of 17
+5
+B. Burton’s Other Allegations Fail to Establish the Existence of an
+Agreement or a Breach
+Unable to establish specific terms for the oral contract in Paragraph 17, Burton
+instead argues that the “particulars of the investment opportunity [were] based on the
+term sheet that Mr. Adams gave Mr. Burton” at a later time. (Opp. at 6 (italics added).)4
+This argument is meritless for multiple reasons.
+First, the Complaint does not describe any of the specific terms in the term sheet.
+Nor did Burton attach a copy of the term sheet to his Complaint or to his opposition.
+Thus, Burton has not met his burden.
+Second, even assuming Burton could produce a (draft and unsigned) term sheet,
+the Complaint does not allege facts showing that the parties signed or mutually agreed
+on the term sheet. Paragraph 26 alleges that Burton responded to the term sheet by
+expressing a “desire and intention to invest when Mr. Adams had found a lead investor
+to set the terms and price the deal.” If anything, this allegation demonstrates that the
+parties had not reached any agreement at that time.
+Third, Burton’s argument that “the parties agreed that Mr. Burton would invest
+‘when Mr. Adams had found a lead investor to set the terms and price the deal‘”
+misquotes his own Complaint. (See Opp. at 6 (citing Compl. ¶ 26).) Paragraph 26 states
+that Burton expressed the desire to invest at a later time “when Mr. Adams had found a
+4 Notably, Burton’s argument that a lead investor would set the price, or that the price
+was later agreed to via a “term sheet” prove that the oral contract alleged in Paragraph
+17 was nothing more than an unenforceable agreement to agree. See New York Military
+Academy v. New Open Group, 142 A.D.3d 489, 490 (2d Dep’t 2016).
+FILED: KINGS COUNTY CLERK 08/20/2021 04:36 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 23 RECEIVED NYSCEF: 08/20/2021
+9 of 17
+6
+lead investor to set the terms and price the deal.” The Complaint nowhere alleges that
+Adams agreed that Burton could invest on the same terms as a future lead investor. At
+most, the Complaint alleges that “Adams agreed that Mr. Burton would have the ability
+to be an early investor” (Compl. ¶ 17), and that Adams allegedly “assure[d]” Burton in
+the summer of 2018 that he would be given “an opportunity to be an early investor if
+and when a lead investor for the Uniswap project was identified.” (Id. ¶ 25.) Even
+assuming these facts to be true, they do not establish that the parties had mutually
+agreed that a lead investor would set the terms of Burton’s opportunity. Further, the
+Complaint does not allege that he provided any consideration for an opportunity to
+invest on the same terms as a lead investor.5
+Fourth, the Complaint’s vague assertion that a lead investor would “set the terms
+and price the deal” (id. ¶ 26) does not provide an objective measure to determine a
+purchase price or any other specific contract terms. Burton does not allege – and does
+not argue in his opposition – that the parties agreed on a formula or any other
+methodology that would be used by them or a lead investor to set the terms of a deal
+with Burton. In the absence of an objective measure to determine the contract terms,
+Burton has not alleged an enforceable agreement. See Grasso v. Donnelly-Schoffstall, 2021
+WL 1224052, at *3 (N.D.N.Y. Mar. 31, 2021).
+5 To the contrary, Burton alleges he provided Adams with money and personal
+assistance pursuant to the prior “oral contract described [] in paragraph 17” that was
+entered into the spring of 2018. (Compl. ¶ 19; see also ¶¶ 23, 29.)
+FILED: KINGS COUNTY CLERK 08/20/2021 04:36 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 23 RECEIVED NYSCEF: 08/20/2021
+10 of 17
+7
+Finally, the Complaint’s barebones allegation in Paragraph 30 that “Adams
+initially agreed to allow Mr. Burton to invest in Uniswap at a $10 million valuation for
+$100,000” does not save his claim, as notice pleading standards provide safeguards
+against this type of elusive pleading. None of the factual allegations in the Complaint
+support the conclusory assertions in Paragraph 30. The Complaint does not allege
+when Adams allegedly agreed to allow Burton to invest $100,000 at a $10 million
+valuation, whether that agreement was part of the alleged “oral contract,” or, if part of
+the alleged term sheet, whether the term sheet included a purchase price at $100,000.
+“The allegations of the pleading cannot be vague and conclusory (citations omitted), but
+must contain sufficiently particularized allegations from which a cognizable cause of
+action reasonably could be found.” V. Groppa Pools, Inc. v. Massello, 106 A.D.3d 722, 712
+(2d Dep’t 2013); see also Schuckman Realty v. Marine Midland Bank, 244 A.D.2d 400, 401
+(2d Dep’t 1997) (dismissing interference with contract claim when “the allegations in
+support of this cause of action are devoid of a factual basis and are vague and
+conclusory”); McNeary v. Niagara Mohawk Power Corp., 286 A.D.2d 522, 524 (3d Dep’t
+2001) (a “conclusory characterization” that there was a valid contract is insufficient).
+Burton does not state a claim for breach of contract under any theory, warranting
+dismissal of the breach of contract claim with prejudice.
+C. Burton Concedes that the Statute of Frauds Bars Any Contract Claims
+Based on Plaintiff’s “Know How” or “Know Who”
+This Court should rule that the statute of frauds bars Burton’s contract claim to
+the extent it is based on allegations that Burton helped Adams “pitch to prospective
+FILED: KINGS COUNTY CLERK 08/20/2021 04:36 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 23 RECEIVED NYSCEF: 08/20/2021
+11 of 17
+8
+investors” and “did whatever possible to help [Adams] connect with the right people to
+work and partner with[.]” (Compl. ¶¶ 20-21.) Though Burton denies that these
+allegations “contemplate[] the use of Mr. Burton’s ‘know how’ or ‘know who’ to
+facilitate investments” (Opp. at 3),6 the Complaint repeatedly suggests that Burton’s
+contract claim is based at least in part on assistance that Burton provided to identify,
+pitch, or otherwise facilitate investments and the capitalization of the company. (See
+Compl. ¶¶ 20-21, 27, 38.)
+Moreover, Burton’s reliance on Dorfman to argue his claim is not subject to the
+statute of frauds is misplaced. In Dorfman v. Refkin, 144 A.D. 3d 10, 16, 19 (1st Dep’t
+2016), the court held that the alleged services, “including developing materials to secure
+investor backing, recruiting engineers and others to [the company], and developing the
+details of how [the company’s] software . . . would be ‘architected,’” consisted of more
+than just assisting in the negotiation or consummation of the business opportunity and
+thus did not fall within Section 5-701(a)(10). However, unlike in Dorfman, the
+Complaint’s allegations of “advice and personal assistance” do not rise to the level of
+the “technical support” that extend beyond the reach of the statute of frauds. In fact,
+the Complaint’s allegations plainly describe his efforts to negotiate the business
+opportunity by helping Adams “pitch to prospective investors” and by doing
+6 Notably, the argument that his claims rest on the “use of Mr. Burton’s dollars” (See
+Opp. at 8) rather than his services is fatal to his quantum meruit claim. See Skillgames,
+LLC v. Brody, 1 A.D.3d 247, 251 (1st Dep’t 2003) (affirming dismissal of quantum meruit
+claim and stating that the claim does not apply “to the provision of money rather than
+services”).
+FILED: KINGS COUNTY CLERK 08/20/2021 04:36 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 23 RECEIVED NYSCEF: 08/20/2021
+12 of 17
+9
+“whatever possible to help [Adams] connect with the right people to work and partner
+with[.]” (Compl. ¶¶ 20-21.) Any argument by Burton that these allegations form the
+basis for the consideration he provided to Adams in accordance with the alleged
+agreement place the contract within the statute of frauds.
+II. Burton’s Equitable Claims Should Be Dismissed
+A. Burton’s Request for Contract Damages Leaves No Doubt He is Using
+the Unjust Enrichment and Quantum Meruit Claims in an Attempt to
+Enforce an Unenforceable Contract
+Although Burton asserts that his quasi-contract claims may be pleaded in the
+alternative and “exist to fill the vacuum and provide Mr. Burton a remedy” in the
+absence of a contract (Opp. at 5, 9), unjust enrichment and quantum meruit cannot be
+used to duplicate a contract claim or enforce an otherwise unenforceable agreement to
+agree. See Doller v. Prescott, 167 A.D.3d 1298, 1301 (3d Dep’t 2018) (affirming dismissal
+of contract claim as an unenforceable agreement to agree and holding that “‘[a]n unjust
+enrichment claim is not available where it simply duplicates, or replaces, a conventional
+contract or tort claim.”)
+Burton does not distinguish Doller or any of the other cases in Adams’ Opening
+Brief that establish that equitable claims cannot be used to duplicate a contract claim or
+enforce an otherwise unenforceable contract. (See Opening Brief at 14-17.) Nor does
+Burton cite any authority to support his legally erroneous argument that he can seek a
+“lost opportunity” contract-based measure of damages based on the exact same facts as
+his contract claim through quasi-contract theories. (See Opp. at 11 (asserting, without
+any legal support, that the “reasonable value of Mr. Burton’s services is the early
+FILED: KINGS COUNTY CLERK 08/20/2021 04:36 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 23 RECEIVED NYSCEF: 08/20/2021
+13 of 17
+10
+investment opportunity that is described in the Complaint—that is, investing $100,000
+in Uniswap at a $10 million valuation”).)
+The Complaint’s allegations regarding Burton’s ‘provision of services’ and funds
+totaling $25,000 do not plausibly support a claim for $100 million in restitution under
+unjust enrichment or quantum meruit theories. (See Compl. ¶¶ 19-24, 27.) “Recovery
+on a claim premised upon quasi-contract or unjust enrichment is limited to
+the reasonable value of the services rendered by the plaintiff[.]” Collins Tuttle & Co. v.
+Leucadia, Inc., 153 A.D.2d 526, 526 (1st Dep’t 1989). The “reasonable value” of services
+provided must be calculated on a reasonable basis, such as “hours purportedly spent”
+(Hindsight Sols., LLC v. Citigroup Inc., 53 F. Supp. 3d 747, 776–77 (S.D.N.Y. 2014)), “cost
+estimates” for developing a project (Caribbean Direct, Inc. v. Dubset, LLC, 100 A.D.3d 510,
+511 (1st Dep’t 2012)), or a record acknowledging fees owed for work purportedly
+performed. Moses v. Savedoff, 96 A.D.3d 466, 471 (1st Dep’t 2012) (relying on “emails
+purportedly sent by defendant to plaintiff acknowledging that defendant owes plaintiff
+certain fees” to calculate reasonable value of services).
+Because Burton’s second and third causes of action merely duplicate his first
+cause of action for breach of contract, they should be dismissed as a matter of law. See
+Doller, 167 A.D.3d at 1301; Akerson Advertising & Marketing, Inc. v. St. John & Partners
+Advertising, 89 F. Supp. 3d 341, 345-46 (N.D.N.Y. 2015) (dismissing equitable claims
+when plaintiff “clearly seeks the benefit of the bargain.”)
+FILED: KINGS COUNTY CLERK 08/20/2021 04:36 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 23 RECEIVED NYSCEF: 08/20/2021
+14 of 17
+11
+B. Burton Has Not Sufficiently Alleged the “Services” that He Performed
+While Burton argues that the Complaint “identifies with specificity the services
+that Mr. Burton performed,” this is simply not true. (See Opp. at 10.) At best, the
+Complaint describes the services allegedly performed by Burton in a vague and
+conclusory manner, all masked in the form of “services,
+” including ambiguous activities
+such as: “thinking through a project” while “spen[ding] countless hours in front of a
+whiteboard” (Compl., ¶ 20), “doing whatever was possible to help [Defendant] connect
+with the right people to work and partner with” (id., ¶ 21), and “providing technical,
+financial and other assistance[.]” (Id., ¶ 45.) This is fatal. “Because plaintiff[] ha[s] set
+forth no more than vague and conclusory allegations regarding what services [he]
+provided to defendants or what the reasonable value for these services was, [he] ha[s]
+failed to state a claim for quantum meruit.” Desilva v. North Shore-Long Island Jewish
+Health System, Inc., 770 F. Supp. 2d 497, 535 (E.D.N.Y. 2011). Further, the Complaint’s
+inadequate description of the services that Burton allegedly performed certainly falls far
+short of supporting his allegation that the reasonable value of his services is $100
+million. (See supra at II.A.)
+Because Burton fails to meet his burden of pleading the services that he provided
+and the reasonable value of those services, the Complaint’s quantum meruit claim
+should be dismissed.
+III. The Court Should Deny Burton Leave to Amend
+Finally, this Court should deny Burton’s request for leave to amend. In
+determining whether to grant leave, “the court must examine the underlying merits of
+FILED: KINGS COUNTY CLERK 08/20/2021 04:36 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 23 RECEIVED NYSCEF: 08/20/2021
+15 of 17
+12
+the causes of action asserted . . . to do otherwise, would constitute a waste of judicial
+resources.” Scott v. Bell Atl. Corp., 282 A.D.2d 180 (1st Dep’t 2001); see also Dionisio v.
+George De Rue Contractors, Inc., 38 A.D.3d 1172, 1174 (4th Dep’t 2007) (denying leave to
+amend where a proposed amendment plainly lacked merit.) Granting Burton’s request
+to “incorporate the term sheet and written communications identified in Paragraph 26
+of the Complaint” (see Opp. at 11-12)—a term sheet which Burton notably did not attach
+to his Opposition—would not save his claims. See 25 Bay Terrace Ass’ns v. Pub. Serv.
+Mut. Co., 144 A.D.3d 665, 667 (2d Dep’t 2016) (stating that in opposing a motion to
+dismiss a complaint, plaintiff may submit other documents to remedy a defective
+complaint.) Burton’s admissions already establish that the parties never reached an
+enforceable agreement. (See supra at I.B.) Additionally, Burton cannot and should not
+be permitted to use the equitable doctrines of unjust enrichment and quantum meruit to
+pursue “lost opportunity” or any other contract-based damages.
+CONCLUSION
+A review of the Complaint and Burton’s opposition makes clear that Burton is
+not able to plead a breach of contract because it is hopelessly indefinite and uncertain.
+Burton’s other claims of unjust enrichment and quantum meruit also do not pass
+muster because they are merely seeking to enforce an otherwise unenforceable contract.
+The motion to dismiss should be granted (Dkt. No. 10), and the Complaint’s three
+causes of action—breach of contract, unjust enrichment, and quantum meruit—should
+be dismissed with prejudice.
+FILED: KINGS COUNTY CLERK 08/20/2021 04:36 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 23 RECEIVED NYSCEF: 08/20/2021
+16 of 17
+13
+Dated: Los Angeles, CA
+August 20, 2021 By:
+Brian E. Klein
+Scott M. Malzahn (p.h.v. app. pending)
+Jose R. Nuño (p.h.v. app. pending)
+Chloe N. George
+WAYMAKER LLP
+777 S. Figueroa Street, Ste. 2850
+Los Angeles, California 90017
+Telephone: (424) 652-7800
+Facsimile: (424) 652-7850
+bklein@waymakerlaw.com
+smalzahn@waymakerlaw.com
+jnuno@waymakerlaw.com
+cgeorge@waymakerlaw.com
+Dated: New York, NY
+August 20, 2021
+By:
+John G. Balestriere
+Mandeep S. Minhas
+BALESTRIERE FARIELLO
+225 Broadway, 29th Floor
+New York, New York 10007
+Telephone: (212) 374-5401
+Facsimile: (212) 208-2613
+john.balestriere@balestrierefariello.com
+mandeep.minhas@balestrierefariello.com
+Attorneys for Defendant Hayden Adams
+FILED: KINGS COUNTY CLERK 08/20/2021 04:36 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 23 RECEIVED NYSCEF: 08/20/2021
+17 of 17
+
+----
+
+
+Proposal to dismiss case by Hayden Adams to Richard Burton on 07/01/2023
+
+
+1
+ SUPREME COURT OF THE STATE OF NEW YORK  COUNTY OF KINGS   RICHARD BURTON,      Plaintiff,   – against –  
+HAYDEN ADAMS, 
+   Defendant.  Index No. 506967/2021  
+ [PROPOSED] ORDER FOR 
+DISMISSAL   
+  Upon consent of Plaintiff Richard Burton, the affirmation of John G. Balestriere on 
+March 16, 2023 (Dkt. No. 55), and the exhibit attached to his affirmation as Exhibit A (Dkt. 
+No. 56), it is hereby  ORDERED, that the above-captioned action be, and the same is, hereby dismissed, 
+with prejudice and without costs to any party.   SO ORDERED     ________________________________   July __, 2023 Hon. Larry D. Martin 

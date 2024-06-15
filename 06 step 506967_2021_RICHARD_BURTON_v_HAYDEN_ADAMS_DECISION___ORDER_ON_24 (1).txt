@@ -1,0 +1,268 @@
+(FILED: KINGS COUNTY CLERK 12/21/2021 12:41 PM INDEX NO. 506967/2021
+NYSCEF DOC, NO, 24 RECEIVED NYSCEF: 12/21/2021
+
+SUPREME COURT OF THE STATE OF NEW YORK
+
+COUNTY OF KINGS |
+X
+RICHARD BURTON,
+Plaintiff, Index No. 506967/2021
+DECISION & ORDER
+: Hon. Larry D. Martin
+HAYDEN ADAMS,
+Defendant.
+>< i
+
+Plaintiff RICHARD BURTON commenced this action against Defendant HAYDEN
+ADAMS, founder and chief executive officer of Universal Navigation, Inc. (“Universal”), seeking
+i
+$100 million in damages for breach of contract, and, in the alternative, restitution for unjust
+enrichment sounding in quantum meruit in connection with Plaintiffs role in developing
+““Uniswap,’ a multi-billion-dollar . . . software and crypto¢urrency enterprise used to trade
+i
+cryptocurrency and digital assets.” Defendant moves to dismiss the complaint (Seq. No. 1)
+pursuant to CPLR § 3211. |
+Background |
+A. Cryptocurrency
+Each unit of cryptocurrency, “virtual or digital money,” is either called a “coin” or a
+“token.” Coins—the most notable of which is Biteoin—have a stated or discernible monetary
+value! The terms coins (or “convertible coins”) and “tokens” are often used interchangeably,
+
+|
+however, tokens are better thought of as “digital assets” that may “fluctuate in value as any
+
+commodity would.” Sec. and Exch. Commn. v Telegram Grp Ine., 448 F Supp 3d 352, 358 (SDNY
+
+'  § 9:14, Cryptocurrencies/Coins and SAFT's, Limited Offering Exemptions Reg. D § 9:14
+
+i
+
+1 of 8
+(FILED: KINGS COUNTY CLERK 12/21/2021 12:41 PM INDEX NO, 506967/2021
+NYSCEF DOC. NO. 24 : RECEIVED NYSCEF: 12/21/2021
+
+i
+
+2020). As a practical matter, both coins and tokens are cryptocurrency that "may be used to pay
+
+for goods or services[] or held for investment."?
+
+Cryptocurrencies operate, via a record-keeping technology called “blockchain,” which
+
+i
+
+conspicuously (i.e., viewable by anyone) and permanently stores every transaction. Bitcoin is just
+one of several cryptocurrencies. | Another cryptocurrency, “Ether,” operates on the “Ethereum”
+
+blockchain.
+
+Cryptocurrency transactions may occur directly between parties via “decentralized
+cryptocurrency exchanges” (DEX), which allow users to trade one cryptocurrency for another, or
+
+for traditional currencies such as US. dollars.3
+
+i
+i
+i
+
+B. Factual Background
+
+Since the Court is bound to accept the facts alleged in the complaint as true (Leon v
+Martinez, 84 NYS2d 83, 87, 614 NYS2d 972 [1994]), Plaintiff Burton is a software developer,
+designer and entrepreneur, and the founder of “Balance,” an Ethereum blockchain wallet startup.
+Defendant Adams is founder and CEO of “Uniswap,” a DEX software that improves the
+functionality of trading on the Ethereum platform. While Uniswap bills itself as the largest DEX
+on Ethereum, when the parties met in 2018, Uniswap was “little more than an idea.”
+
+Burton allowed Adams to Work on Uniswap daily in Balance’s offices, spending “countless
+hours in front of a whiteboard,” helping Adams think through the project and pitch the project to
+prospective investors, all in the hopes of financially benefitting. In addition to technical and design
+
+advice, Burton, knowing Adams was running low on funds, also supplied him $25,000 for software
+
+development, rent, and other costs.
+
+2 Internal Revenue Service, Virtual Currency Guidance, 2014-16 IRB 938, 2014 WL 1224474 (2014)
+3 Internal Revenue Service, Chief Counsel Advisory, IRS CCA 202124008, 2021 WL 2483863 (2021).
+
+2
+
+2 of 8
+(FILED: KINGS COUNTY CLERK 12/21/2021 12:41 PM) INDEX NO. 506967/2021
+NYSCEF DOC, NO, 24 RECEIVED NYSCEF: 12/21/2021
+
+Burton alleges that, “[a]s consideration for [Burton’s] assistance,” they agreed he would
+have the ability to be an early investor in Uniswap, and that, <pjut for” such agreement, Burton
+would not have provided the support that he offered to, and that was accepted by, Adams. It is
+undisputed that, at some point thereafter, Adams offered Burton a deal “a term sheet,” and that
+Burton confirmed his continued interest in investing, indicating he would only do so after Adams
+had found a “lead investor to set the terms and price the deal.” Burton thereafter financed Adams’s
+flight to San Francisco to “pitch Uniswap to Paradigm, a well-known blockchain focused venture
+i
+capital firm.” Paradigm went on to seed $1 million into Adams’s then still-unincorporated
+
+enterprise, now Universal, at a $10 million valuation.
+
+The Complaint alleges that, since then, and as a product of Burton’s assistance, Uniswap
+
+has seen a major increase in trading, processing over $110 billion in volume, and “increasing to
+
+the tune of more than $1 billion daily.”
+
+C. Arguments
+
+Burton argues the foregoing facts set forth a prima facie case that the parties entered an
+oral “contract,” whereby he would be given the opportunity to invest in Uniswap once it took a
+“concrete” form into which an investment could be made, and that this contract is supported by
+Adams’s assurances provided “in writing, in person and on voice-calls.” Burton commenced the
+instant action after Adams rejected his post-Paradigm $100,000 investment proffer, alleging
+breach of contract, or alternatively, unjust enrichment. Burton argues that $100 million is the
+
+reasonable value of his $25,000 cash and critical developmental support, enabling Adams to be
+
+enriched by hundreds of millions of dollars.
+
+3 of 8
+(FILED: KINGS COUNTY CLERK 12/21/2021 12:41 PM INDEX NO, 506967/2021
+NYSCEF DOC. NO. 24 RECELVED NYSCEF: 12/21/2021
+
+Adams disputes Burton’s characterizations and seeks to limit Burtons claim sounding in
+quantum meruit to $25,000 in addition to something akin to an hourly breakdown of the
+“reasonable value” of Burton’s services.
+
+| Discussion
+A. Contract Claim
+
+The elements of a cause of action for breach of contract are (1) formation of a contract
+between plaintiff and defendant, 2) performance by plaintiff, (3) defendant's failure to perform,
+(4) resulting damage (Riccio v Genworth Fin., 184 AD3d 590, 124 NYS3d 370 [2d Dept 2020]).
+The requirements for the formation of a contract are (1) at least two parties with legal capacity to
+contract, (2) mutual assent to the terms of the contract, and (3) consideration (Restatement
+[Second] of Contracts §§ 9, 12, 23). The first step in considering whether a contract was formed
+is to determine if there was a sufficiently definite offer such that its unequivocal acceptance would
+have given rise to an enforceable contract (Kolchins v Evolution Mkts., Inc., 31 NY3d 100, 73
+NYS3d 519 [2018]). This determination must be made looking to the objective manifestations of
+the parties’ intents (Utica Builders, LLC v Collins, 176 AD3d 897, 899, 110 NYS3d 49, 51-52 [2d
+Dept 2019}), bearing in mind that assent may take the form of written or spoken words (express
+contract) or conduct manifesting hgreement (contract implied-in-fact) (Miller v Schloss, 218 NY
+400, 113 NE 337 [1916]).* |
+
+As a general rule, if an acceptance is qualified with conditions, it is treated as a rejection
+
+and counteroffer (Roer v Cross Coty. Med. Ctr. Corp., 83 AD2d 861, 441 NYS2d 844 [2d Dept
+
+1981]). Specifically, where material terms are left for future negotiations, courts consider it merely
+
+4 A binding contract may also be formed by the oral acceptance of a written contract (Mor v Fastow, 32
+AD3d 419, 819 NYS2d 560 [2d Dept 2006]; Morton 's of Chicago/Great Neck LLC v Crab House, Inc.,
+297 AD2d 335, 746 NYS2d 317 [2d Dept 2002]).
+
+4
+
+4 of 8
+(PILED: KINGS COUNTY CLERK 12/21/2021 12:41 PM INDEX NO. 506967/2021
+NYSCEF DOC. NO. 24 i RECEIVED NYSCEF: 12/21/2021
+
+i
+
+an agreement to agree and, therefore, unenforceable (4/0 BPR Corp. v Chmelecki Asset Mgmt.,
+Inc., 51 AD3d 715, 859 NYS2d 209 [2d Dept 2008]). This is true when an agreement contains
+open terms, calls for future approval, and expressly anticipates future preparation and execution
+of contract documents (Carmon v Soleh Boneh Ltd., 206 AD2d 450, 450, 614 NYS2d 555, 556
+[2d Dept 1994]). There, courts operate with a strong presumption against finding a binding and
+
+enforceable obligation (id).
+
+Here, Plaintiff alleges that the parties agreed that he would be given the opportunity to
+invest in Uniswap, if, when, or once Uniswap “took a concrete form into which investment could
+be made.” Accordingly, any purported “agreement” was unenforceable because it was qualified
+with conditions, devoid of material terms, expressly anticipating future approval, preparation, and
+
+i
+execution of contract documents. The Court, therefore, finds that the parties do not have a binding
+and enforceable contract. |
+
+To the extent that Plaintiff maintains that agreement was supported by Defendant’s
+
+t
+
+assurances provided “in writing, in person and on voice-calls,” New York’s “Statute of Frauds,
+
+i
+
+codified in General Obligations Law Sections 5-701 and 5-703, provides, with many exceptions,
+
+that certain agreements, promises, or undertakings are void unless in writing. Most relevant here,
+
+section 5-701(a) applies the Statute of Frauds to “a contract to pay compensation for services
+
+rendered in negotiating a . . . business opportunity, business, i . .or-an. interest therein... .”5
+
+Accordingly, such writings are material. Here, however, the only writings referenced are. the
+
+|
+
+> Inacommercial context, courts sometime look at partial performance as an indicia of an agreement even
+without writing, and indeed, New York’s Commercial Code, dealing with transactions between
+merchants, has a specific section addressing the practical business reality of transactions between a
+buyer and a seller (see § 2-201). Plaintiff has not suggested, however, that the underlying transaction
+was between commercial entities. ;
+
+5 of 8
+(FILED: KINGS COUNTY CLERK 12/21/2021 12:41 PM INDEX NO, 506967/2021
+NYSCEF DOC. NO. 24 RECELVED NYSCEF: 12/21/2021
+
+foregoing term sheet and emails, which, for the reasons previously stated, do not suggest the
+existence of a contract.
+B. Duplicative Claim
+Contrary to Defendant’s allegations, it is well established that quasi contract and breach of
+contract claims may be pleaded jointly and that a party is not precluded from proceeding on both
+breach of contract and quasi-contractual theories where there is a bona fide dispute as to the
+existence of a contract (see Polley v Plainshun Corp., 8 AD2d 638, 186 NYS2d 295 [2d Dept
+1959]; Krigsfeld v Feldman, 115 AD3d 712, 982 NYS2d 487 [2d Dept 2014]; AHA Sales, Inc. v
+Creative Bath Products, Inc., 58 AD3d 6, 867 NYS2d 169 [2d Dept 2008]). The action is
+predicated on an obligation the law creates precisely in the absence of an agreement (Pappas v
+Tzolis, 20 NY3d 228, 958 nvs2d 656 [2012]; Goldman v Metro. Life Ins. Co., 5 NY3d 561, 807
+NYS2d 583 [2005]; Georgia Malone & Co., Inc. v Rieder, 19 NY3d 511, 950 NYS2d 333 [2012]).
+C. Quantum Meruit |
+In order to make out a claim in quantum meruit, a plaintiff must establish (1) the
+performance of the services in good faith, (2) the acceptance of the services by the person to whom
+they are rendered, (3) an expectation of compensation, and (4) the reasonable value of the services
+(Miranco Contracting, Inc. v Perel, 57 AD3d 956, 871 NYS2d 310 [2d Dept 2008]; Tesser v
+Allboro Equip. Co., 302 AD2d 589, 590, 756 NYS2d 253, 254 [2d Dept 2003]; Geraldi v Melamid,
+212 AD2d 575, 622 NYS2d 742 [2d Dept 1995]).
+Here, the pleadings are clearly sufficient to establish three of the four foregoing elements of
+quantum meruit for purposes of defeating the motion, i.e., (1) the performance of the services in
+
+good faith, (2) the acceptance of the services by the person to whom they are rendered, and (3) an
+
+expectation of compensation. What remains less clear is the proper standard for calculating the
+
+6 of 8
+(FILED: KINGS COUNTY CLERK 12/21/2021 12:41 PM INDEX NO, 506967/2021
+NYSCEF DOC. NO. 24 . : RECEIVED NYSCEF: 12/21/2021
+
+“reasonable value of the services” within the context of a quantum meruit claim, and, specifically,
+when and whether “other factors,” such as the amount of a defendant's enrichment should be
+considered where, as here, there is no claim of misconduct, malfeasance, or statutory violation. In
+the interest of justice, both sides should be afforded an opportunity to brief this Court on that issue.
+
+Accordingly, Defendant’s motion to dismiss (Seq. No. 1) is granted solely to the extent of
+granting both sides until January 16, 2022 to submit one further affirmation or memorandum of
+law, narrowly focusing on arguments as to the proper standard of calculating the “reasonable value
+of the services” with respect to a quantum meruit claim where no claim of misconduct,
+
+malfeasance, or violation of a statue has been made.
+
+Dated: | December 17, 2021
+
+‘Hon. Larry D. Martin, J.S.C.
+
+_ HON. LARRY MARTIN
+JUSTICE OF THE SUPREME COURT
+
+7 of 8
+(FILED: KINGS COUNTY CLERK 12/21/2021 12:41 PM INDEX NO, 506967/2021
+NYSCEF DOC. NO. 24 RECEIVED NYSCEF: 12/21/2021
+
+8 of 8

@@ -1,0 +1,985 @@
+Hayden Adams:
+	Not sure what he means  by AMM, maybe on-chain market makers?
+	He’s right that its better for small purchases
+	At least while the contracts are at low liquidity levels
+	I have a few ideas around price stabilization though especially for Uniswap 2.0
+	Ohh automatic market makers
+
+Richard Burton:
+	That’s the one 
+
+Hayden Adams:
+	Im looking at implementing limit orders, where someone can send a transaction that says “here is 5 ETH, I need at least 100 OMG back
+	And then if the price moves to where the user would get 101 omg back or something
+	Someone else could execute on their behalf and claim a 1omg bounty
+	Should prevent massive price swings due to low liquidity
+
+Richard Burton:
+	Interesting
+	I’d love to connect you two
+
+Hayden Adams:
+	Yeah sure, he sounds like a smart guy 
+
+Richard Burton:
+	Just asked him
+	Do you have a VPN?
+	Wanna try our exchange functionality?
+
+Hayden Adams:
+	Hahha I do on my computer 
+
+Richard Burton:
+	nice
+	Here’s the link when you’re on it
+https://shapeshift--balance-manager.netlify.com/metamask
+
+Hayden Adams:
+	Awesome I’ll check it out when I’m back in bk 
+	Why do I need a vpn?
+	Will is the 0x guy right?
+
+Richard Burton:
+	Can’t use shapeshift in NY
+	yep
+
+Hayden Adams:
+	Ohh haha right I forgot 
+
+Richard Burton:
+	That’s why need more unstoppable exchanges 😉
+	Had an idea for a project that might interest you
+	you would learn a shitload about liquidity
+Hayden Adams:
+	Awesome I’ll check it out when I’m back in bk 
+
+Richard Burton:
+	https://github.com/balance-io/balance-manager/issues/204
+https://github.com/balance-io/balance-manager/issues/204
+
+Hayden Adams:
+	I’ll read up on it tomorrow!
+	And I think I’ll let you show me the shapeshift demo in person some time lol 
+
+Richard Burton:
+	😟 not curious?
+	Our plan would be to plug it into your thing
+
+Hayden Adams:
+	Definitely curious 
+	Haha just legally 
+	Forgot about the shapeshift legal stuff 
+	I’ll stop by the office again soon to check it out! 
+
+Richard Burton:
+	Ah ok 
+	It’s no biggie 
+	All going to be legal soon
+
+Hayden Adams:
+	I’ll read up on it tomorrow!
+
+Richard Burton:
+	https://twitter.com/ricburton/status/998366953227149312?s=21
+https://twitter.com/ricburton/status/998366953227149312?s=21
+
+would be kind of crazy to make uniswap illegal 
+Looks super nice and easy to use 
+Should be real easy to integrate uniswap 
+
+Hayden Adams:
+	Have you heard of
+	https://www.totle.com/
+	Theyre doing some type of multi exchange integration thing and just sent me an email
+
+Richard Burton:
+	Looks solid 
+	We view trading as a tiny party of what we want to do 
+https://medium.com/balance-io/open-source-banking-c96389c04cfb
+
+Richard Burton:
+	Yo yo
+
+Hayden Adams:
+	What’s good! 
+
+Richard Burton:
+	Wanna come to buidlweek?
+	Sorry summer of ship haha
+	On wednesday
+
+Hayden Adams:
+	I’m down 
+	What time Wednesday?
+
+Richard Burton:
+	😎 Summer of Ship 😎
+
+📆 10 weeks of buidling
+⚙️ All keen buidlers welcome
+🌅 The ship sets sail on June 13
+⏱ Wednesday 18:00–20:00 EST
+🗺 Balance Studio, Williamsburg, NY
+🔥 4+ amazing people who will grill you
+
+Hayden Adams:
+	 What will I be grilled on? Haha 
+
+Richard Burton:
+	Your amazing project!
+	https://twitter.com/ricburton/status/1004349310929170432
+
+Hayden Adams:
+	Sounds good! 
+	Yo! 
+	Might come a bit early to do some buidling if it works for you guys 
+
+Richard Burton:
+	Of course 
+
+Hayden Adams:
+	Cool!
+	I’ll be there in around 15 mins 
+	might stop by a bit early again, if its cool
+
+Richard Burton:
+	Yep
+
+Hayden Adams:
+	https://karl.tech/dividend-shares/
+
+Richard Burton:
+	https://medium.com/wyre-capital/protocol-incentives-and-the-zrx-token-fec54d4f678b
+
+Hayden Adams:
+	Wow amazing. Yeah that perfectly describes Uniswaps ideal use case lol. Just dm’d will
+	I’m going to stop by with cal around 2 
+
+Richard Burton:
+	Dreams 
+	Have you eaten?
+	dude
+	Jedi coming over now
+	Come join us
+
+Hayden Adams:
+	Cool! I’ll be there in a bit 
+
+Richard Burton:
+	https://blog.foam.space/introducing-chanterelle-d284bdfc0e71
+https://twitter.com/ricburton/status/1004349310929170432
+https://karl.tech/dividend-shares/
+https://medium.com/wyre-capital/protocol-incentives-and-the-zrx-token-fec54d4f678b
+https://blog.foam.space/introducing-chanterelle-d284bdfc0e71
+
+Richard Burton:
+	How’s it going?
+
+Hayden Adams:
+	Hey! It went well. Just did a 4 hour power walk with Karl and vitalik lol 
+
+Richard Burton:
+	Fantastic
+	Jamming on a password reset protocol today from 12-3. Want to join us?
+
+Hayden Adams:
+	Might have to join part way through, but down to stop by 
+https://twitter.com/Balance_io/status/1010914705353986048
+
+Richard Burton:
+	People are bailing for family stuff
+	Might wonder in the park
+
+Hayden Adams:
+	Not sure I can walk in a park right now. Yesterday’s power walk went through all of morningside Park, Central Park, and riverside park and I can barely feel my legs
+
+Richard Burton:
+	I’m gonna buidl all afternoon 
+	Come hammock any time after 2
+
+Hayden Adams:
+	Sounds good 
+	I’ll be there 3ish
+
+Richard Burton:
+	Hi, I've sent you 0.01 eth.
+To receive follow the link:
+	https://eth2.io/#/r?p=18455582758&c=GDcspHMAGHcavyecHQB3
+	Hey man. Jin was too tired to think today so I’ve decided to come back Saturday and not do the road trip. Need to help the team. Please come by the studio any time. I’ll ask Christian about getting you a key.
+
+Hayden Adams:
+	No worries man gotta put your team first. I have a tonnn if buidling to do over the next few weeks which is what I should be focusing on as well. 
+	A key would be dope! 
+https://eth2.io/#/r?p=18455582758&c=GDcspHMAGHcavyecHQB3
+
+Richard Burton:
+People are bailing for family stuff
+https://overcast.fm/+LCsFp-xdc/13:09
+https://twitter.com/stefandgeorge/status/1011641403791872006?s=12
+
+
+Hayden Adams:
+	Cool yeah I’ve been following the Dutch exchange. It’s pretty interesting especially from a front running resistance standpoint. I believe purchases are not instantaneous which is where my market maker is most different. Very curious about their gas costs 
+
+Richard Burton:
+	Yeah that team ships 
+
+Hayden Adams:
+	Very smart people, very legit tech. Very very skeptical at their claims of “true decentralization by DAO governance” when 5% of their tokens were sold to the public and 95% were sold to the founders/private investors
+
+Richard Burton:
+	Oh for sure. That was the early days.
+	They’ve got a ludicrous amount of capital
+￼
+
+
+Hayden Adams:
+	Awesome :) 
+
+Richard Burton:
+	How are things?
+	Wanna buidl tomorrow?
+
+Hayden Adams:
+	Hey! I’ve been good. Should be able to stop by tomorrow afternoon
+
+Richard Burton:
+https://twitter.com/lightcoin/status/1013206269983850497?s=12
+
+Hayden Adams:
+	Very confused by the write up lol
+	“Rather than use an Ethereum Token or a new blockchain to facilitate Atomic-Swap trades between users, the proposed system would use a client-server system to match orders.”
+
+Richard Burton:
+	:)
+	I thought so 
+
+Hayden Adams:
+	Almost all ethereum dex’s fit that description 
+	Have to read more lol 
+
+Richard Burton:
+	I love the way you slice apart things
+
+Hayden Adams:
+	If it’s an off-chain order book for cross chain atomic swaps I like it. But their buzzword game is weak 😂
+
+Richard Burton:
+	lol
+	Thank you 
+	Just landed 
+
+Hayden Adams:
+	No problem, welcome back 
+
+Richard Burton:
+	At Toby’s estate 
+
+Hayden Adams:
+	Who’s Toby again? 
+
+Richard Burton:
+	Haha sorry 
+	The cafe 
+	With will 
+	Then back to studio 
+
+Hayden Adams:
+	will from 0x?
+
+Richard Burton:
+	Mycrypto > Blockstack 
+
+Hayden Adams:
+	cool! I might just come buidl tomorrow instead
+
+Richard Burton:
+	Looking forward to seeing you
+
+Hayden Adams:
+	Yo btw showed early mockups of the next UX version last Wednesday!
+
+Richard Burton:
+	Looking forward to seeing you
+
+Hayden Adams:
+Yo btw showed early mockups of the next UX version last Wednesday!
+	https://www.figma.com/file/FdRNJXwXdThwlBljzUOveAXF/UniSwap?node-id=252%3A0
+https://www.figma.com/file/FdRNJXwXdThwlBljzUOveAXF/UniSwap?node-id=252%3A0
+
+Hayden Adams:
+	Click v02 on the left side
+	Approve button will really be a buy button
+	Main reason I haven’t been cleaning up the website is because of how much will be redone near future
+	the issues you opened are super helpful though might clean some up short term
+
+Richard Burton:
+	For sure
+	Just tiny things
+	I want to understand the product
+	And what an integration with Balance would look like
+
+Hayden Adams:
+	V01 is lots soft of experimental. V02 is where we are iterating towards final version
+	Def wallet connect stuff
+
+Richard Burton:
+	This is really cool
+
+Hayden Adams:
+	Thanks!
+	most of the credit goes to cal
+	yeah so my general idea of balance integration
+	Is wallet connect support on my frontend, and exchange integration (like shapeshifter) in the balance wallet
+
+Richard Burton:
+	Love it
+	Keen for that
+
+Hayden Adams:
+	I have a 3pm meeting. Planning on stopping by after
+
+Hayden Adams:
+	Meeting went a bit long 
+	Omw
+
+Richard Burton:
+	At Victoria 
+	Vittoria
+	Stop by 
+	Going to studio 
+
+Hayden Adams:
+	Cool I’ll be there in 10
+
+Richard Burton:
+	Our queen had some questions for you in slack 😅😅😅
+
+Hayden Adams:
+	You at the studio?
+
+Richard Burton:
+	Yep
+
+Hayden Adams:
+	Cool I have a thing at 7 nearby so I’m going to stop by until then 
+
+Richard Burton:
+	Want to do something for 4 July?
+
+Hayden Adams:
+	Hey! I’m down 
+
+Richard Burton:
+	Just looking at things now 
+	We are here building if you want to join 
+https://goo.gl/maps/fJ6fxPfzDMz
+
+Hayden Adams:
+	Ok cool. I’ll head over in a little bit 
+
+Richard Burton:
+	We are grabbing a sweet green 
+	Will let you know where we are 
+
+Hayden Adams:
+	Ok cool. I’ll head over in a little bit 
+
+Richard Burton:
+	https://goo.gl/maps/YmfNeyqkoFo
+https://goo.gl/maps/YmfNeyqkoFo
+
+Hayden Adams:
+	Ok cool. I’ll head over in a little bit 
+
+Richard Burton:
+	https://goo.gl/maps/YmfNeyqkoFo
+https://goo.gl/maps/YmfNeyqkoFo
+
+Hayden Adams:
+https://twitter.com/blockshade/status/1014656369952034817
+https://twitter.com/blockshade/status/1014656369952034817
+
+Richard Burton:
+	Dammit she has a boyfriend
+	Grabbing sweet greens 
+
+Hayden Adams:
+	We will be there in 15
+
+Richard Burton:
+	There’s a cool dude here doing some videos about balance. Stoked to meet Karl!
+
+Hayden Adams:
+	Cool! We’re just at glaze right near dig in 
+	Also he’s totally relaxed and chill I was wrong about him coming back stressed and manic lol
+
+￼
+
+
+Hayden Adams:
+	Cool! I’d guess it will be a few months at least before cryptoeconomics.study is finished enough for it 
+
+Richard Burton:
+	Kk we’ll find enough 
+
+Hayden Adams:
+	Btw Karl is a bit sensitive with  public promotional type stuff so maybe let me if you’re going to tweet anything about it 
+
+Richard Burton:
+	Oh yeah wouldn’t share publicly 
+	Just wanted to make it happen 
+	Just dharma crew
+
+Hayden Adams:
+	Cool yeah for see 
+
+Richard Burton:
+	Cos it will need some help from them 
+
+Hayden Adams:
+	Sure 
+	He thinks it a good idea 
+	How was their reaction?
+
+Richard Burton:
+	Stoked 
+
+
+￼
+
+Richard Burton:
+You should be on this
+https://overcast.fm/+M9SOuOJA8
+https://overcast.fm/+M9SOuOJA8
+
+Hayden Adams:
+	Hey!
+	What's up 
+
+Richard Burton:
+	Do you have Venmo?
+
+Hayden Adams:
+	Yeah i do 
+	@HaydenAdams
+	Why? 
+	The ticket seller on Craigslist wants to be vendors? 
+	Venmo'd
+
+Richard Burton:
+	All sorted! Buidling all afternoon if you wanna join 
+
+Hayden Adams:
+	Cool running some errands but might stop by after 
+
+Richard Burton:
+	Do you like deep house?
+	https://itunes.apple.com/gb/podcast/the-anjunadeep-edition/id879507964?mt=2&i=1000415702005
+
+Hayden Adams:
+	I don't listen to it much but I do sometimes enjoy it!
+	Just downloaded the podcasts app so I'll save that one 
+	Are you buidling at the studio today
+
+Richard Burton:
+	Yes come by 
+	You’re always welcome 
+	Unless Christian is fucking 
+	That’s it 
+	Night or day 
+
+Hayden Adams:
+	Well, I wasn’t sure if he was fucking
+
+Richard Burton:
+	Of course 
+	He’s going to establish a signal 
+
+Hayden Adams:
+	how about a slack channel called ischristianfucking
+	and then he just says yes or no to update the status
+
+Richard Burton:
+	ischristiansmanging
+	Google smanging it
+
+Hayden Adams:
+	Lol just did
+https://itunes.apple.com/gb/podcast/the-anjunadeep-edition/id879507964?mt=2&i=1000415702005
+
+Richard Burton:
+	If you can convince Karl and Vitalik to come by tonight
+	Unannounced 
+	It would make my week 
+	😍😍😍
+	Tell those lads how hard we are working on the problems they care about 
+	The community would be stoked 
+
+Hayden Adams:
+	V is actually not in NYC yet was told the wrong day 
+	Karl might come 
+	Talked to him yesterday
+	Unannounced for sure if he does 
+
+Richard Burton:
+	sg
+	Hey man
+	Another request if possible:
+	And also: while we don't want many more letters, one from Vitalik truly would be a significant addition.  May I take the liberty of preparing that, too!
+	Gotta think about how to pitch it to him right
+	This is my lawyer
+
+Hayden Adams:
+	What do you mean by letters?
+	Ohhh you mean for your visa 
+
+Richard Burton:
+	Digging in
+
+Hayden Adams:
+	I'll keep it in mind and bring it up with Karl but no promises. vitalik related social capital is something I have very very  limited supply of right now 
+
+Richard Burton:
+	For sure
+	I’ll ask Jon Choi 
+	They need WalletConnect to be a success 
+	It won’t be if I’m kicked out of US 
+
+Hayden Adams:
+	That's a good idea. Lmk how it goes with Jon 
+	I can also ask Karl to talk to Jon if they're resistant 
+
+Richard Burton:
+	Jon’s fine signing 
+	Just Vitalik would seal the deal 
+	The nerdy cherry 🍒 
+
+Hayden Adams:
+	Did you get a signature from any stripe people? 
+
+Richard Burton:
+	Hell no lol
+	But creator of like button lol
+
+Hayden Adams:
+	yo! I met someone from Rchain today. I have a meeting with him Monday to talk about funding to build a version of uniswap on their chain. He also mentioned that theyre looking for people to do a wallet if you guys are interested I could maybe bring him by
+
+Richard Burton:
+	Please do!
+
+Hayden Adams:
+	Totally agree. with regards to rchain and cosmos I'm mostly making the connections right now. My plan would be to not do any work on that stuff until after a successful mainnet ethereum  launch 
+	Of uniswap 
+
+Richard Burton:
+	🖖
+
+Hayden Adams:
+	I don't think the balance research has been a distraction. I'm more worried about upcoming travel plans 
+
+Richard Burton:
+	Got it
+
+https://ethresear.ch/t/plasma-vs-withholding-forgery-combo-attack/2621
+https://ethresear.ch/t/plasma-vs-withholding-forgery-combo-attack/2621
+
+Richard Burton:
+	Shots fired!
+
+Hayden Adams:
+	He's wrong 
+	What he describes is only an attack on plasma map 
+	Mvp 
+	Between that and https://ethresear.ch/t/plasma-is-an-useless-idea/2613/4 both which describe attacks on mvp I'm starting to think its an intentional FUD campaign
+
+Richard Burton:
+	Got it 
+	How is our dear leader
+
+Hayden Adams:
+	He's good! 
+	On my way over 
+
+Richard Burton:
+	If you’re getting some kind of smoothie 
+	I’ll have one too 🍺
+
+Hayden Adams:
+	Any preference? 
+
+Richard Burton:
+	I trust your judgment 
+	Liquiman 
+	shilllllling
+
+Richard Burton:
+	How are the illuminati
+
+Hayden Adams:
+	I’ll read through after my various initiations and sacrifices 
+	It’s been good so far!
+
+Richard Burton:
+	No rush
+	It won’t be of an academic standar
+	lol
+	standard
+	But some fine shill nonethless
+	nonetheless
+	Can you find out if soho token labs is legit?
+
+Hayden Adams:
+	Yeah sure I’m down 
+
+Richard Burton:
+	❤️💕🌈🌞
+
+Hayden Adams:
+	What’s the context? How did you hear about them 
+
+Richard Burton:
+	Ask queen 💕
+	Just getting sorted for flight 
+
+Hayden Adams:
+	Will do tomorrow when I go into balance office!
+	Have a good flight!
+
+Richard Burton:
+	Yo yo
+	Wanna see the place in a bit?
+
+Hayden Adams:
+	Hey! I’m uptown at dans place
+
+Richard Burton:
+	Noooo rush
+
+Hayden Adams:
+	Chilling here for a while will let you know when im omw back to Brooklyn
+
+Richard Burton:
+	I’m going to pre-pay to jube
+	June
+
+Hayden Adams:
+	Sure I’m down 
+
+Hayden Adams:
+	But I should check it out soon
+
+Richard Burton:
+	Lock it in
+	It’s so nice and convenient
+	Alyssa might take the basement
+	You can have the room
+
+Hayden Adams:
+	Yo 
+	Does some time today work
+	For checking out the apt 
+
+Richard Burton:
+	Meeting investors all day 😂
+	Possibly later on 
+	You can go look though 
+	Keys are in a lock box 
+
+Hayden Adams:
+	Okay wanna send me the info and I’ll check it out?
+
+Richard Burton:
+	114 north 8th st
+￼
+
+Richard Burton:
+	Lockbox to the right behind bins 
+	1202 
+	Sink is blocked hence why it’s not clean 😂
+
+Hayden Adams:
+	On my way over to check it out!
+	What apartment number?
+
+Richard Burton:
+	1A
+	Ground floor on the left 
+	On my way too
+	Still there?
+
+Hayden Adams:
+	Already left! Got to check out the whole place though. I’ll stop by next Mon or tues and we can discuss?
+
+Richard Burton:
+	How’s the closing process?
+
+Hayden Adams:
+	Good. Signed the term sheet. Got a lawyer. Now lawyers gotta do their thing for a bit lol 
+
+Richard Burton:
+	Want to meet Charlie and Jeff?
+	They’re so fast 
+	Been smashing our homepage 
+
+
+Richard Burton:
+	How much volume is coming through the interface vs other smart contract calls?
+
+Hayden Adams:
+	Yo
+	Sorry been in meetings all day 
+	I’m free now 
+	Are they still there?
+	If not can stop by tomorrow
+
+Richard Burton:
+	Yo 
+	Still free
+
+Hayden Adams:
+	Oh cool at the studio?
+
+Richard Burton:
+	My place 
+	How long till you’re here?
+
+Hayden Adams:
+	Umm no l train so I guess I could walk in 15 mins 
+
+Richard Burton:
+	Or want to do breakfast?
+	Tomorrow?
+	Jeff is hanging with lady 
+
+Hayden Adams:
+	Hmm got a bunch of stuff tmrw morning what about mid afternoon?
+
+Richard Burton:
+	Charlie will be gone 
+	Jeff will be here longer 
+	You’ll meet him 🦄🦄🦄
+	Will be sweet 
+
+Hayden Adams:
+	I met Jeff and devcon!
+
+Richard Burton:
+	Sweet
+	I’m crashing 
+	Ride on my sweet beautiful unifriend 
+	Proud of you 🦄
+
+Hayden Adams:
+	Gn! 
+
+Richard Burton:
+	Still curious: How much volume is coming through the interface vs other smart contract calls?
+	UI vs API
+
+Hayden Adams:
+	Ohh right sorry 
+	Hard to say haven’t had time to do analysis yet 
+	I’d guess interface is maybe 25% idk though 
+
+Richard Burton:
+	Curious to know 
+	When you have time 
+	No rush 
+
+Hayden Adams:
+	Yeah def important analysis 
+	Will let you know 
+
+Richard Burton:
+	How goes the swapping?
+
+Hayden Adams:
+	Good! How goes the balancing?
+
+Richard Burton:
+	Close the round?
+	People are asking me how to get to you 
+
+Hayden Adams:
+	lol yeah i think word got out. I think whole raise is going to paradigm 
+￼
+
+
+Built this in swift 
+In 3 days
+Fuck react Native 
+
+Hayden Adams:
+	Seems like a pretty big move considering how much work has gone into the react app 
+
+Richard Burton:
+	I’ve had enough 
+	The first 80% was great 
+	The last 20% has been hell
+
+Hayden Adams:
+	So is the plan to move everything to Swift?
+
+Richard Burton:
+	For v2
+	Anyway, let’s hang soon 
+	Going to a meeting 
+
+Hayden Adams:
+	Sounds good
+	Good luck!
+	I’ll drop by the studio some time soon
+
+Richard Burton:
+	You should come tonight
+	Lots of good people
+
+Hayden Adams:
+	It’s my birthday but I have some availability 
+	What’s the timing 
+	Coles event right?
+
+Richard Burton:
+	What’s the plan?
+	Happy birthday 
+
+Hayden Adams:
+	Idk chilling with a friend later around 10
+	Will be free around 3pm-10pm
+
+Richard Burton:
+	Nice man 
+	16:30-17:30 hangs?
+
+Hayden Adams:
+	Where?
+	Balance?
+	Also what’s up with Stefan are you chilling with him? Would be cool to finally talk to someone from gnosis 
+
+Richard Burton:
+	I’m with home now 
+	He wants to meet you 
+
+Hayden Adams:
+	Is that meant to be “I’m with him now” or “I’m at home now” lol
+
+Richard Burton:
+	Haha 
+	I’m with him now 
+	I’ll be home 15:00-17:30
+
+Hayden Adams:
+	Cool! I’m gonna come work out of balance for a bit 
+
+Richard Burton:
+	Sweet I’m resting as I didn’t sleep well 
+	The pompcast was fun but I got so jacked for it 
+	I need to wind down 
+
+Hayden Adams:
+	Yo
+	Your friend Christine is at balance 
+
+Richard Burton:
+	Oh shot 
+	My brain is melting 
+	Be right over 
+	Apologize on my behalf 
+	I’m going to head to the event now 
+	Want to join?
+
+Hayden Adams:
+	I’ll meet you there!
+
+Richard Burton:
+	Is there a Uniswap API?
+
+Hayden Adams:
+	For interacting with the contracts, docs.uniswap.io has most of what you need
+	For historical data/analytics there’s another api in the works 
+	But not ready yet 
+
+Richard Burton:
+	🖖
+	Hey nan
+	man
+	Are you only letting paradigm do your round?
+	If not, I’d love to invest.
+
+Hayden Adams:
+	Yeah only paradigm and to add more I think at this point 
+	Appreciate the offer!
+	*too late to 
+	Will let you know if anything changes on that front though 
+
+Richard Burton:
+	Money is a fascinating substance.
+
+Hayden Adams:
+	That it is
+
+Richard Burton:
+	https://www.papertrophy.com/shop/us/wall-trophies/unicorn/unicorn-pink-white
+	
+
+	Hey man. I’m just going to say how I feel. I’m not happy. I put an insane amount of energy, time and money into to helping you last year and we had verbally and digitally agreed that you were going to let me invest. When you were flat broke I sent you what little money I could to keep you going.
+
+If that is how you treat people who give you everything. I worry for how you will treat people who can give you nothing. Being a CEO is a lot harder than writing a smart contract.
+
+You never performed any work for Balance. That $10k was for contracting.
+
+I gave you $5k as a personal grant just to be helpful. 
+
+I gave you $2.5k to help you *fly to San Francisco* so you could raise the money you needed.
+
+I have had the worst period of my life with Balance recently and you have not asked me how I am.
+
+I feel like money has changed you *already*. 
+
+I am not making any demands about the investment. You do what is best for UniSwap. I am focusing on saving Balance.
+
+I would like you to consider repaying Balance for the lack of any contracting and giving me my personal loan back. The grant was a grant. Keep it.
+
+Richard
+	Have you considered this message? I would like a response before the end of 2019.
+	4 days
+
+Hayden Adams:
+	You don’t get to message me on New Year’s Eve demanding a response and then start counting down days.
+
+Maybe try again with something like:
+
+“Hey just wanted to bring this to your attention again. Would appreciate a response soon.”
+
+Richard Burton:
+	I have been waiting for 9 months. You don’t get to dictate anything, Hayden.
+
+Hayden Adams:
+	I get to dictate who I talk to and when. Don’t threaten me.
+
+Richard Burton:
+	I am not threatening. I am wrapping up my tax year.
+
+Hayden Adams:
+	Well I’m not sending you money in the next 4 days so no issues there 🤷‍♂️
+
+Richard Burton:
+	Good to know. That helps clarify things.
+
+Hayden Adams:
+	I’d be happy to hop on a call next Friday or some time the following week to talk about it.
+
+Richard Burton:
+	Friday 3rd January at 4pm EST works for me
+
+Hayden Adams:
+	Sent a calendar invite to i@rb.cm
+
+Richard Burton:
+	Ah I have shifted over to burtonic@gmail.com—thanks.
+
+Hayden Adams:
+	No problem, just updated the invite
+	Haven’t forgotten btw. Still waiting on the contract from my lawyer
+https://www.papertrophy.com/shop/us/wall-trophies/unicorn/unicorn-pink-white

@@ -1,0 +1,269 @@
+INDEX NO. 506967/2021
+NYSCEF DOC. NO. 37 : RECEIVED NYSCEF: 05/20/2022
+
+SUPREME COURT OF THE STATE OF NEW YORK
+
+COUNTY OF KINGS
+
+ween eee eee = wees nnn encnnsen ei
+RICHARD BURTON,
+
+Plaintiff, ; Index No. 506967/2021
+
+¥,
+DECISION & ORDER
+Hon. Larry D. Martin
+
+HAYDEN ADAMS,
+
+Defendant.
+
+waueunen panne _— we
+
+Plaintiff RICHARD BURTON cormenced ‘this action against Defendant HAYDEN
+ADAMS, founder aiid chief executive officer of Universal Navigation, Inc. (“Universal”) seeking
+$100 millton in damagés for breach of contract or restitution for unjust enrichmerit sounding in
+quantun meruif in connection with Plaintiff's role in developing “Uniswap,” a multi-billion-dollar
+software used, to trade cryptocurrency and digital assets on possibly the largest erypto-asset
+exchange inthe world. Defendant moved to dismiss the complaint pursuant to CPLR § 3211. By
+December 17, 2021 interim decision (the “Interim Decision”),! this Court found that Plaintiff failed
+to set forth a prima facie breach of contract cause of action, but had set’ forth three of the four
+requisite elements of a prima facie cause of action for unjust enrichment and/or quantum meruit.
+The fterim Decision granted the parties leave: to brief ihe Court on the proper measure of
+calculating the value of services in unjust. enrichment and/or quantum meruit cases involving
+eryptocurrency startups, ‘particularly where, as here, no misconduct, malfeasance. or ‘statutory:
+violation is alleged, ije., whether there is a clear arid accepted tnarket-place conveition for valumg.
+
+such services beyond reasonable hourly rate. Now,:the case.is decided as follows.
+
+| 2021 NY Slip Op 32745
+
+1 of 8
+INDEX NO. 506967/2021
+NYSCEF DOC. NO. 37 ; RECEIVED NYSCEF: 05/20/2022
+
+Background
+A. €ryptocurtency
+
+Each unit of cryptocurrency, “virtual or digital money,” is. either called a “coin” or a
+“token.” The terms coins (or “convertible coins”} and “tokens” are often used interchangeably,
+however, while coins - the most notable of which is Bitcoin - have a stated or discernible monetary
+value;* by contrast,-tokens are better thought of as “digital assets” that “fluctuate in value as any
+comniodity, would.” Sec. & Exeh, Commn. v. Telegram Grp Inc., 448 F Supp-3d 352, 358 (SDNY
+2020). As a practical matter, both coins and tokens are eryptocurrency that "nay be used to pay
+for goods or’services[ ] or held for investment."4
+
+Cryptocurrencies operate via a record-keeping technology called “blockchain,” which
+conspicuously (ie., viewable by anyone) and permanently stores every transaction, The
+blockchain mechanism allows for the use. of crypto-assets as secure stores of value and media of
+exchange that do not. rely on a centralized government or singular conirol. Cryptocurrency-
+transactions may occur directly bétween parties via “decentralized eryptocurrency exchanges”
+(DEX), which ‘allow users to trade: one’ cryptocutrericy for another, or for traditional currérictes
+such as U.S. dollars.4
+
+Bitcoin, the first and most popular cryptocurency. is an example of a crypto-asset that
+serves primarily as a medium of exchange. Ether,” another popular crypto-asset, “operates on
+Ethereum. which is a different blockchain from Bitcoin, and has some additional features, but
+
+otherwise functions similarly,
+
+§ 9:14, Cryptocurrencies/Coins and SAFT's, Limited Offering Exemptions Reg. D § 9:14.
+
+Internal Revenue Service, Virtual Currency Guidance, 2014-16 IRB 938, 2014 WL 1224474 (2014).
+Internal Revenue ‘Service; see.also! ln re Bibox Group Holdings Limited Seéeurities Litigation, 534 F
+Supp3d.326 (SDNY 2021). ,
+
+= iw Ba
+
+2 of 8
+INDEX NO. 506967/2021
+NYSCEF DOC. NO. 37 ; RECEIVED NYSCEF: 05/20/2022
+
+B. Factual Background.
+
+As the Court.is bound to accept the facts alleged by the non-moving party as true, for
+purposes of the CPLR § 3211 dismissal motion (/F Capital Advisors, LLC v Lightstone:Group,
+LLC, 25 NY3d.759, 762, 16 NYS3d 222 citing Leon v.Martinez, 84 NYS2d 83, 87,614 NYS2d
+972 [1994)), Plaintiff Burton is‘a. software developer, ‘designer and entrepreneur, and the founder
+‘of “Balance,” an Etheréum blockchaii wallet startup. Defendant Adams is fourider and CEO of
+“Uniswap,” a DEX software that “improves the functionality” of trading on. the Ethereum
+blockchain’s.platform. While Uniswap is currently the largest DEX on Ethereum, when the.parties
+met. in-2018, Uniswap was “little more than an idea.” Burton loaned Adams money and office
+space. within Balance’s offices to support Adams in creating Uniswap, including: “technical and
+design advice,” and $25,000 for software-development, rent, and other costs.
+
+As consideration for Burton’s assistance, the parties corally agreed that Burtom would be
+given the.option.to be an early investor-in Uniswap, and, but for that oral agreement, Burton would
+not have provided the support that Adams relied upon:
+
+At some point, Adams offered Burton a deal “term sheel,” however, while Burton
+confirméd his continued interest in investing, he indicated he would now only do-so after Adams
+had found a “lead investor to set'the terms aiid price the deal.” Burton thereafter financed Adams’s
+flight to San Francisco t6 “pitch Uniswap:toe Paradi gm,” a well-known blockchain-focused venture
+capital firm. Paradigm went on to seed $1 million into Adams’s. then-still-unincorporated
+enterprise, now Universal, which, at the time of briefing, was valued at.$10 million. Since then,.
+Uniswap has seen a major increase in trading, processing over $110 billion in volume, and
+
+“increasing to the tune of more than $1 billion daily.”
+
+3 of 8
+INDEX NO. 506967/2021
+NYSCEF DOC. NO. 37 ; RECEIVED NYSCEF: 05/20/2022
+
+Analvsis
+A. Contract Claim
+
+As noted in the Jnterim Decision, the basic requirements for contract:formation are (1) at
+least two parties with legal capacity te contract, (2) mutual assent to. the terms ofthe contract, and
+(3) consideration (Restatement [Second] of Contracts §§ 9, 12,23). The basic elements of a breach.
+of contract cause of action are (1) formation of a contract between plaintiff and defendant, (2)
+performance by plaintiff, (3).defendant’s failure to perform, (4) resulting damage (Riccio p
+Genworth Fin., 184 AD3d 590,.124:NYS3d.370 [2d Dept 20201).
+
+In analyzing the first step, the parties’ legal capacity to contract, this Court accepted the
+Burton’s statement that the parties reached an “oral agteement,” bearing in mind that assent to
+such an agreement may: také. the forin of written or spoken words (express contract) or conduct:
+manifesting agreement (contract implied-in-fact) (Miller v Schloss, 218 NY 400, 113 NE 337
+[1916]). Thus, an oral agreement can be enforceable as long as the terms are cleat and definite
+and the conduct of the parties evinces mutual assent "sufficiently definite to assure that the parties
+are truly in agreement with respect.to all material terms" (Matter of Express Indus. & Term, Corp.
+‘y New York State Dept. of Transp., 93 NY2d 584, 589 [1999]), A contract also may be implied
+where inferences can be drawn from the facts and circumstances of the case and the intention ‘of
+the parties as indicated by their conduct. However, not all terms of a contract need be fixed with
+absolute. certainty. Thus, the.doctrine of indefinitenese should not be used to "defeat the reasonable
+expectations of the parties in entering into the contract" (Cobble Hill Nursing Home v Henry &
+Warren Corp., 74 NY¥2d 475, 483 [1989], cert denied 498 US 816 [1990]). Where "there may exist.
+an objective method for supplying the missing terms heeded to calculate the alleged compensation
+
+owed plaintiff,"-an oral agreement is not; as’a matter of law, unenforceable for indefiniteness (see,
+
+4 of 8
+INDEX NO. 506967/2021
+NYSCEF DOC. NO. 37 RECEIVED NYSCEF: 05/20/2022
+
+e.g. Basu v Alphaber Mgt. LEC, 127 AD3d 450, 450 [ist. Dept 2015]; Abrams Realty Corp. v
+Ele, 279 AD2d 261 [Ist Dept 2001], fy denied 96 N.Y.2d 745 [2001)).
+
+The /nferim Decision noted, however, that when, as here; acceptance. is expressly qualified
+with conditions, it is generally treated as either a rejection and counteroffer or an agreement to
+agree. (Roer v Cross Catv. Méd. Ctr. Corp., 83 AD2d 861, 441 NYS2d 844 [2d Dept 1981]; 470.
+BPR Carp. v Chmelecki Asset Mem, ine., 51 AD3d7 15, 859 NYS2d 209 [2d Dept 2008): Carmon
+v Soleh Boneh Ltd., 206 AD2d 450, 450, 614 NYS2d 555, 556 [2d Dept 1994]). Thus, this Court.
+concluded that, even if the parties initially reached what could have been an enforceable: oral
+contract, Burton rejected that agreement by declining ‘the ptoposed term sheet unless and until
+Adams found a lead investor to set the: term: The question then became whether a second
+eriforceabie express otal contract was formed thereafter, i¢.,, of whether the parties’ course of
+conduct manifested a new implied-in-fact contract when Adams accepted Burton's financed flight
+te San Francisco to “pitch Uniswap to Paradigm.”
+
+This-Court now finds that even if such conduct suggested.a potential new implied-in-fact
+agreement, that new agreement would again be too indefinite to give rise to an enforceable
+contract. There has. been no suggestion that Plaintiff will ‘be able, after discovery, to show proof
+of key material terms, and it would agaiti anticipate future approval, preparation and execution of
+documents. ‘In brief, Plaintiff has-provided no hint of a prospective basis or standard for deciding
+whether the-agreement had been kept or broken, or to fashion a remedy. (Kofchins v Evolution
+Mkts, Inc., 3.1 NY3d 100, 73 NYS3d 319 [2018]; Foros Advisor LLC y Digital Globe, Inc. 333 F
+Supp3d 354, 360 [SDNY 2018]; 7. Groppa Pools, Ine. y Massello, 106 AD3d 722, 712 [2d Dept
+
+2013]; Schuckman Realty v Marine Midland Bank, 244 .D2d_400,.401 [2d Dept 1997)]).
+
+5 of 8
+INDEX NO. 506967/2021
+NYSCEF DOC. NO. 37 ; RECEIVED NYSCEF: 05/20/2022
+
+B. ‘Statute of Frauds and the
+Doffman Exceptiori
+
+Adams further argued.that contract formation was. prohibited by New York's “Statute of Frauds,”
+codified in General Obligations Law Sections 5-701 and 5-703, which provides, with many exceptions, that
+cerlain agreements, promises, or undertakings are void unless in writing, Section 5-701(a) applies the
+Statute of Frauds to “a contract to. pay compensation for services rendered in negotiating a... business:
+opportunity, business, ... or an friterest therein ..:” Burton argues, however, that he also “spent countless
+hours in front-of a whiteboard” providing Adams with “technical and design advice” when “the Uniswap
+protocol and project were still in proof'of concept form.”
+
+In Dorfinan v Refki, 144 AD 34 10, 16, 19 ¢ Ist Dept 2016) (“Dorfman”), the First Department
+noted that the services therein, where not merely “developing: materials. to secure investor backing,
+recruiting engineers,” but further “develop[ed] the details of how [the company’s] software. . . would be
+‘architected,”” and accordingly found that. they consisted of more thar just assisting in the negotiation or
+corisuimmation of the business opportunity. ‘Thus, the First Department ruled that the oral agreement therein:
+was not void pursuant to Section 5-701 (ay(l 0). |
+
+Here, however, even ‘if the Derfinan exception applied, and the agreement was not void per se
+pursuant to. New York’s “Statute. of Frauds, i¢ would still suffer fiom the same uncertainty. and. rejection-
+of-offer-issues that precluded it from being deemed an enforceable contract.
+
+C. Unjust Enrichment, Quantum Meruit, and
+Reasonable Value of Services.
+
+Under New York law, guaritum meruit.and unjust enrichment are not separate causes of
+action and are therefore andlyzed under the same principles (Assoc. Morte. Bankers, Inc. v
+Calcon Mut. Morte. LEC, 159 F Supp 3d 324, 33 7 [EDNY 2016]. As noted in the Juterim
+Decision, inorder to set forth acclaim in quantum meruil, a plaintiff must establish (1) the
+performance of the services in good faith, (2) the acceptance of the services by the person:to
+
+whont they are renderéd, (3) an éxpectation of compensation, anid (4) the reasonable value of the
+
+6 of 8
+INDEX NO. 506967/2021
+NYSCEF DOC. NO. 37 : RECEIVED NYSCEF: 05/20/2022
+
+services (see, e.g., Mirance Contracting, Inc, v Perel,’57 AD3d 956, 871 NYS2d 310 [2d Dept
+2008); Geraldi y-Melamid, 212 AD2d 575, 622 NYS2d 742 [2d Dept 1995]; Tesser v Allboro:
+Equip. Co., 302 AD2d 589, 590, 756 NYS2d 253, asd [2d Dept 2003]. An unjust enrichment
+claims rooted in “the equitable principle that a person shall not be-allowed to enrich himself
+unjustly-at the expense of another” (Miller v Schloss, 218 N.Y. 400, 407, 113 N.E. 337 [1916]),
+and a viable claim merely tequires that the plaintiff allege “that (1) the other party was enriched,
+(2) at.that party's expense, and.(3) that it is against equity and good conscience to permit the
+other party to retain what is sought to be recovered” (Mandarin Trading Lid. v Wildenstein, 16
+NY3d 173, 182, 919 NYS2d 465. The Jnterim Decision noted that the pleadings herein were
+sufficient to establisti the first three of those-elements of an unjust enrichment claim, at least for
+purposes of defeating the instant dismissal motion, but granted the parties leave to brief the issue.
+of calculating the “reasonable value of services” in connection with assisting.a cryptocurrency
+startup, with respect to unjust enrichment and. quantum meruit claims.”
+
+Without a contract to govern. the terms of payment for services, Adams argues that the
+measure of compensation is generally.based.on a reasonable hourly rate multiplied by the number
+of hours of services (see; ¢.g., Carlino v Kaplan. 139 F Supp2d 563, 566 [SDNY 2001]; Wong v.
+Michael Kennedy, P.C., 853 F Supp 73, 81-82 [EDNY 1994]. There are, however, exceptions.
+where, even absent a.contract, industry conventions dictate that the value of sérvices may be based
+
+upon the value of the product. The question presented was whether the facts and/or industry
+
+5 The Interim Decision rejected Defendant argument that Plaintiff could not plead quasi contract and breach
+of contract in the alternative, where as here there is a bora fide disputé as to the existence of a contract
+(Polley v Plainsinin Corp., 8. AD2d 638, 186 NYS2d 295 [2d Dept 1959]; Krigsfeld v Feldman, 115 AD3d.
+712, 982 NYS2d 487 [2d Dept 2014]; 444 Sales, Ine. v Creative Bath. Products, Ine., 58 AD3d 6, 867
+NYS2d 169 [2d Dept 2008]).
+
+7 of 8
+INDEX NO. 506967/2021
+NYSCEF DOC. NO. 37 ; RECEIVED NYSCEF: 05/20/2022
+
+conventions within the start-up field, or perhaps more. specifically emerging cryptocurrency field,
+where-vast fortunes may be made or lost, warrant such an exception.
+
+At stake is the'difference between the Complaint’s allegations of Burton’s ‘provision of services”
+and funds totaling $25,000, versus his claim for $100 million in “restitution” under unjust enrichment or
+quantum meruit theories. There remains a question of fact whether the “reasonable value” of services
+should be limited to a calculation based upon hours and costs purportedly spent (Collins Tuttle -& Co. v.
+Leucadia, inc., 153 AD2d: 526,526. [1st Dept 1989]; Hindsight Sots., LEC v-Citigtoup Inc., 53. F Supp 3d
+747, 776-77 [SDNY 2014]; Caribbean Direct, inc. v Dubset ELC, 100 A.D3d 510, 511 [1st Dept 2012]),.
+or whether in fact industry standards, and/or the parties discussions or conduct reflects some other
+reasonable value of services. The parties will procéed with discovery on this narrowed issue. Burton
+argues that $100-million is the’ reasonable value of his roughly $25,000 in cash. and. critical
+developmental support. The parties: shall proceed with discovery. on that issue of whether their
+industry and/or their communications or conduct support a finding consistent or inconsistent with
+that argument.
+
+Dated: May 20,2022
+
+“,
+5
+
+“Hon. Larry D. Martin. US.C.
+
+HON. LARRY MARTIN
+JUSTICE OF THE GLiMttIME COURT
+
+8 of 8
